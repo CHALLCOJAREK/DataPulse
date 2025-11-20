@@ -24,7 +24,7 @@ def run(cmd):
 # ============================
 
 if __name__ == "__main__":
-    banner("🔥  GIT PULL PRO – Fénix Engine v1.0 🔥")
+    banner("🔥  GIT PULL PRO – Fénix Engine v1.1 (Pull primero) 🔥")
 
     # Detectamos dónde está el script
     REPO_PATH = os.path.dirname(os.path.abspath(__file__))
@@ -32,23 +32,22 @@ if __name__ == "__main__":
 
     step(f"Proyecto detectado en:\n     {REPO_PATH}")
 
-    # Ejecutamos git pull
+    # ============================
+    # PRIMERO: PULL
+    # ============================
     step("Buscando cambios en el remoto…")
     r = run("git pull")
 
-    # Si no hay errores:
     if r.returncode == 0:
         output = r.stdout.strip()
 
-        if "Already up to date." in output or "Already up to date" in output:
-            warn("Estás al día. No hay nuevos cambios para bajar.")
+        if "Already up to date" in output:
+            warn("Estás al día. No hay cambios que bajar.")
         else:
-            ok("Cambios descargados correctamente ✔")
+            ok("Cambios descargados con éxito ✔")
             print("\n" + output)
     else:
-        error("Ocurrió un problema al hacer pull:")
+        error("Error al ejecutar git pull:")
         print(r.stderr)
 
-    banner("🔥 PROCESO FINALIZADO – Pull completo 🔥")
-
-    input("ENTER para cerrar… ")
+    banner("🔥 PROCESO FINALIZADO — Pull completo 🔥")

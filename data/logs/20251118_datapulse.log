@@ -1,0 +1,265 @@
+2025-11-18 16:19:45,095 - INFO - 🚀 Iniciando ejecución completa de DataPulse (modo TEST SEGURO)
+2025-11-18 16:19:45,096 - INFO - 📘 Leyendo hojas desde el archivo Excel principal...
+2025-11-18 16:19:45,096 - INFO - 📘 Leyendo archivo: 01. Registro Movimientos Caja Bancos 2025 - Gytres.xlsx
+2025-11-18 16:19:45,242 - INFO - 📄 Hojas detectadas: 18 válidas / 1 omitidas
+2025-11-18 16:19:45,243 - INFO -    🪶 Omitidas: Reporte_Bancos
+2025-11-18 16:19:45,551 - INFO - ✅ Hoja 'Clientes_Proveedores' cargada (1003 filas, 9 columnas)
+2025-11-18 16:19:46,457 - INFO - ✅ Hoja 'B_Bcp_Soles' cargada (4646 filas, 27 columnas)
+2025-11-18 16:19:46,820 - INFO - ✅ Hoja 'B_Bcp_Dolares' cargada (434 filas, 27 columnas)
+2025-11-18 16:19:47,156 - INFO - ✅ Hoja 'B_Interbank_Soles' cargada (189 filas, 27 columnas)
+2025-11-18 16:19:47,473 - INFO - ✅ Hoja 'B_Bbva_Soles' cargada (50 filas, 27 columnas)
+2025-11-18 16:19:47,900 - INFO - ✅ Hoja 'B_Banco_Nacion' cargada (829 filas, 27 columnas)
+2025-11-18 16:19:48,351 - INFO - ✅ Hoja 'C_Arequipa_Soles' cargada (1110 filas, 28 columnas)
+2025-11-18 16:19:48,768 - INFO - ✅ Hoja 'C_Finanzas_Soles' cargada (985 filas, 28 columnas)
+2025-11-18 16:19:49,136 - INFO - ✅ Hoja 'Caja_Operativa' cargada (488 filas, 27 columnas)
+2025-11-18 16:19:49,508 - INFO - ✅ Hoja 'Luis Rivera' cargada (485 filas, 28 columnas)
+2025-11-18 16:19:49,865 - INFO - ✅ Hoja 'Walter Asillo' cargada (407 filas, 28 columnas)
+2025-11-18 16:19:50,228 - INFO - ✅ Hoja 'Juber Monteza' cargada (387 filas, 28 columnas)
+2025-11-18 16:19:50,564 - INFO - ✅ Hoja 'Willian León' cargada (253 filas, 28 columnas)
+2025-11-18 16:19:50,930 - INFO - ✅ Hoja 'Juan Tarifa' cargada (530 filas, 28 columnas)
+2025-11-18 16:19:51,329 - INFO - ✅ Hoja 'Brayan Hanco' cargada (299 filas, 28 columnas)
+2025-11-18 16:19:51,664 - INFO - ✅ Hoja 'Jorge Queque' cargada (271 filas, 28 columnas)
+2025-11-18 16:19:51,986 - INFO - ✅ Hoja 'Nelson Quispe' cargada (154 filas, 28 columnas)
+2025-11-18 16:19:52,311 - INFO - ✅ Hoja 'Ronald Guizado' cargada (106 filas, 28 columnas)
+2025-11-18 16:19:52,311 - INFO - 📘 Leyendo archivo: 02. BD Detracciones 2025 - Gytres.xlsx
+2025-11-18 16:19:52,328 - INFO - 📄 Hojas detectadas: 1 válidas / 0 omitidas
+2025-11-18 16:19:52,783 - INFO - ✅ Hoja 'BD_Detracciones' cargada (5171 filas, 19 columnas)
+2025-11-18 16:19:52,783 - INFO - 📘 Leyendo archivo: 03. Presupuestos 2025 - Gytres.xlsx
+2025-11-18 16:19:52,867 - INFO - 📄 Hojas detectadas: 1 válidas / 0 omitidas
+2025-11-18 16:19:53,874 - INFO - ✅ Hoja 'Presupuestos' cargada (4077 filas, 47 columnas)
+2025-11-18 16:19:53,874 - INFO - 📘 Leyendo archivo: 04. Pre Liquidación de IGV y Renta 2025 - Gytres.xlsx
+2025-11-18 16:19:53,976 - INFO - 📄 Hojas detectadas: 9 válidas / 0 omitidas
+2025-11-18 16:19:54,060 - INFO - ⚠️ Error al procesar hoja 'R.Tributaria' (04. Pre Liquidación de IGV y Renta 2025 - Gytres.xlsx): 'EmptyCell' object has no attribute 'row'
+2025-11-18 16:19:54,151 - INFO - ⚠️ Error al procesar hoja 'DET IMPUESTO' (04. Pre Liquidación de IGV y Renta 2025 - Gytres.xlsx): 'EmptyCell' object has no attribute 'row'
+2025-11-18 16:19:54,242 - INFO - ⚠️ Error al procesar hoja 'COMPRAS Y VENTAS' (04. Pre Liquidación de IGV y Renta 2025 - Gytres.xlsx): 'EmptyCell' object has no attribute 'row'
+2025-11-18 16:19:54,323 - INFO - ⚠️ Error al procesar hoja 'CONSOLIDADO' (04. Pre Liquidación de IGV y Renta 2025 - Gytres.xlsx): 'EmptyCell' object has no attribute 'row'
+2025-11-18 16:19:54,406 - INFO - ⚠️ Error al procesar hoja 'DETALLE GASTOS FIJOS Y VARIABLE' (04. Pre Liquidación de IGV y Renta 2025 - Gytres.xlsx): 'EmptyCell' object has no attribute 'row'
+2025-11-18 16:19:55,338 - INFO - ✅ Hoja 'COMPRAS' cargada (2888 filas, 28 columnas)
+2025-11-18 16:19:55,664 - INFO - ✅ Hoja 'VENTAS' cargada (451 filas, 24 columnas)
+2025-11-18 16:19:55,761 - INFO - ⚠️ Hoja vacía o sin columnas válidas: Graf
+2025-11-18 16:19:55,855 - INFO - ⚠️ Error al procesar hoja 'DASHBOARD' (04. Pre Liquidación de IGV y Renta 2025 - Gytres.xlsx): 'EmptyCell' object has no attribute 'row'
+2025-11-18 16:19:55,855 - INFO - 📘 Leyendo archivo: Cotizaciones 2025 - Gytres.xlsx
+2025-11-18 16:19:55,864 - INFO - 📄 Hojas detectadas: 2 válidas / 0 omitidas
+2025-11-18 16:19:55,944 - INFO - ✅ Hoja 'PE' cargada (440 filas, 22 columnas)
+2025-11-18 16:19:55,954 - INFO - ⚠️ Error al procesar hoja 'Datos' (Cotizaciones 2025 - Gytres.xlsx): 'EmptyCell' object has no attribute 'row'
+2025-11-18 16:19:55,954 - INFO - 📘 Leyendo archivo: Gestión y Manejo de Servicios No Peligrosos y Peligrosos - Aqp y Lim - 2025 - Gytres.xlsm
+2025-11-18 16:19:56,098 - INFO - 📄 Hojas detectadas: 1 válidas / 0 omitidas
+2025-11-18 16:19:57,017 - INFO - ✅ Hoja 'Control_Servicios' cargada (1479 filas, 67 columnas)
+2025-11-18 16:19:57,017 - INFO - 
+📊 Lectura completada: 24 hojas procesadas correctamente.
+
+2025-11-18 16:19:57,017 - INFO - 🧱 Verificando estructura inicial de la base de datos...
+2025-11-18 16:19:57,017 - INFO - 📦 Iniciando volcado de 24 hojas hacia la base de datos...
+2025-11-18 16:19:57,024 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-18 16:19:57,049 - INFO - ✅ Tabla 'excel_1_clientes_proveedores' guardada correctamente (1003 filas).
+2025-11-18 16:19:57,050 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-18 16:19:57,101 - INFO - ✅ Tabla 'excel_1_b_bcp_soles' guardada correctamente (4646 filas).
+2025-11-18 16:19:57,102 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-18 16:19:57,126 - INFO - ✅ Tabla 'excel_1_b_bcp_dolares' guardada correctamente (434 filas).
+2025-11-18 16:19:57,127 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-18 16:19:57,149 - INFO - ✅ Tabla 'excel_1_b_interbank_soles' guardada correctamente (189 filas).
+2025-11-18 16:19:57,150 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-18 16:19:57,170 - INFO - ✅ Tabla 'excel_1_b_bbva_soles' guardada correctamente (50 filas).
+2025-11-18 16:19:57,171 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-18 16:19:57,199 - INFO - ✅ Tabla 'excel_1_b_banco_nacion' guardada correctamente (829 filas).
+2025-11-18 16:19:57,200 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-18 16:19:57,228 - INFO - ✅ Tabla 'excel_1_c_arequipa_soles' guardada correctamente (1110 filas).
+2025-11-18 16:19:57,228 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-18 16:19:57,258 - INFO - ✅ Tabla 'excel_1_c_finanzas_soles' guardada correctamente (985 filas).
+2025-11-18 16:19:57,259 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-18 16:19:57,283 - INFO - ✅ Tabla 'excel_1_caja_operativa' guardada correctamente (488 filas).
+2025-11-18 16:19:57,284 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-18 16:19:57,300 - INFO - ✅ Tabla 'excel_1_luis_rivera' guardada correctamente (485 filas).
+2025-11-18 16:19:57,301 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-18 16:19:57,317 - INFO - ✅ Tabla 'excel_1_walter_asillo' guardada correctamente (407 filas).
+2025-11-18 16:19:57,318 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-18 16:19:57,340 - INFO - ✅ Tabla 'excel_1_juber_monteza' guardada correctamente (387 filas).
+2025-11-18 16:19:57,341 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-18 16:19:57,364 - INFO - ✅ Tabla 'excel_1_willian_leon' guardada correctamente (253 filas).
+2025-11-18 16:19:57,365 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-18 16:19:57,390 - INFO - ✅ Tabla 'excel_1_juan_tarifa' guardada correctamente (530 filas).
+2025-11-18 16:19:57,391 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-18 16:19:57,407 - INFO - ✅ Tabla 'excel_1_brayan_hanco' guardada correctamente (299 filas).
+2025-11-18 16:19:57,408 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-18 16:19:57,424 - INFO - ✅ Tabla 'excel_1_jorge_queque' guardada correctamente (271 filas).
+2025-11-18 16:19:57,425 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-18 16:19:57,445 - INFO - ✅ Tabla 'excel_1_nelson_quispe' guardada correctamente (154 filas).
+2025-11-18 16:19:57,445 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-18 16:19:57,466 - INFO - ✅ Tabla 'excel_1_ronald_guizado' guardada correctamente (106 filas).
+2025-11-18 16:19:57,467 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-18 16:19:57,502 - INFO - ✅ Tabla 'excel_2_bd_detracciones' guardada correctamente (5171 filas).
+2025-11-18 16:19:57,502 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-18 16:19:57,558 - INFO - ✅ Tabla 'excel_3_presupuestos' guardada correctamente (4077 filas).
+2025-11-18 16:19:57,559 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-18 16:19:57,591 - INFO - ✅ Tabla 'excel_4_compras' guardada correctamente (2888 filas).
+2025-11-18 16:19:57,592 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-18 16:19:57,608 - INFO - ✅ Tabla 'excel_4_ventas' guardada correctamente (451 filas).
+2025-11-18 16:19:57,608 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-18 16:19:57,625 - INFO - ✅ Tabla 'excel_5_pe' guardada correctamente (440 filas).
+2025-11-18 16:19:57,626 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-18 16:19:57,662 - INFO - ✅ Tabla 'excel_6_control_servicios' guardada correctamente (1479 filas).
+2025-11-18 16:19:57,663 - INFO - 🚀 Volcado completado: 24/24 tablas guardadas correctamente.
+2025-11-18 16:19:57,663 - INFO - 🗃️ Base actualizada en: db\datapulse.sqlite
+2025-11-18 16:19:57,663 - INFO - 🔍 Analizando diferencias entre Excel y base de datos...
+2025-11-18 16:19:57,666 - INFO - 📦 Tabla 'excel_1_clientes_proveedores' cargada desde la base (1003 filas).
+2025-11-18 16:19:57,677 - INFO - ⚠️ No se encontraron claves válidas. Columnas comunes: ['codigo', 'columna1', 'cuenta_de_abono', 'razon_social', 'ruc_dni', 'tipo', 'tipo_de_cuenta_de_abono', 'tipo_de_documento', 'unnamed:_6']…
+2025-11-18 16:19:57,678 - INFO - 🔍 Hoja 'excel_1_Clientes_Proveedores' → +0 nuevos, -0 eliminados, ✏️ 0 modificados.
+2025-11-18 16:19:57,703 - INFO - 📦 Tabla 'excel_1_b_bcp_soles' cargada desde la base (4646 filas).
+2025-11-18 16:20:02,329 - INFO - 🔍 Hoja 'excel_1_B_Bcp_Soles' → +0 nuevos, -0 eliminados, ✏️ 134440 modificados.
+2025-11-18 16:20:02,333 - INFO - 📦 Tabla 'excel_1_b_bcp_dolares' cargada desde la base (434 filas).
+2025-11-18 16:20:02,482 - INFO - 🔍 Hoja 'excel_1_B_Bcp_Dolares' → +0 nuevos, -0 eliminados, ✏️ 3814 modificados.
+2025-11-18 16:20:02,486 - INFO - 📦 Tabla 'excel_1_b_interbank_soles' cargada desde la base (189 filas).
+2025-11-18 16:20:02,538 - INFO - 🔍 Hoja 'excel_1_B_Interbank_Soles' → +0 nuevos, -0 eliminados, ✏️ 815 modificados.
+2025-11-18 16:20:02,541 - INFO - 📦 Tabla 'excel_1_b_bbva_soles' cargada desde la base (50 filas).
+2025-11-18 16:20:02,571 - INFO - 🔍 Hoja 'excel_1_B_Bbva_Soles' → +0 nuevos, -0 eliminados, ✏️ 308 modificados.
+2025-11-18 16:20:02,577 - INFO - 📦 Tabla 'excel_1_b_banco_nacion' cargada desde la base (829 filas).
+2025-11-18 16:20:02,947 - INFO - 🔍 Hoja 'excel_1_B_Banco_Nacion' → +0 nuevos, -0 eliminados, ✏️ 11637 modificados.
+2025-11-18 16:20:02,954 - INFO - 📦 Tabla 'excel_1_c_arequipa_soles' cargada desde la base (1110 filas).
+2025-11-18 16:20:03,370 - INFO - 🔍 Hoja 'excel_1_C_Arequipa_Soles' → +0 nuevos, -0 eliminados, ✏️ 11884 modificados.
+2025-11-18 16:20:03,379 - INFO - 📦 Tabla 'excel_1_c_finanzas_soles' cargada desde la base (985 filas).
+2025-11-18 16:20:03,680 - INFO - 🔍 Hoja 'excel_1_C_Finanzas_Soles' → +0 nuevos, -0 eliminados, ✏️ 8495 modificados.
+2025-11-18 16:20:03,684 - INFO - 📦 Tabla 'excel_1_caja_operativa' cargada desde la base (488 filas).
+2025-11-18 16:20:03,895 - INFO - 🔍 Hoja 'excel_1_Caja_Operativa' → +0 nuevos, -0 eliminados, ✏️ 6008 modificados.
+2025-11-18 16:20:03,901 - INFO - 📦 Tabla 'excel_1_luis_rivera' cargada desde la base (485 filas).
+2025-11-18 16:20:04,006 - INFO - 🔍 Hoja 'excel_1_Luis Rivera' → +0 nuevos, -0 eliminados, ✏️ 1717 modificados.
+2025-11-18 16:20:04,010 - INFO - 📦 Tabla 'excel_1_walter_asillo' cargada desde la base (407 filas).
+2025-11-18 16:20:04,090 - INFO - 🔍 Hoja 'excel_1_Walter Asillo' → +0 nuevos, -0 eliminados, ✏️ 1319 modificados.
+2025-11-18 16:20:04,094 - INFO - 📦 Tabla 'excel_1_juber_monteza' cargada desde la base (387 filas).
+2025-11-18 16:20:04,196 - INFO - 🔍 Hoja 'excel_1_Juber Monteza' → +0 nuevos, -0 eliminados, ✏️ 2017 modificados.
+2025-11-18 16:20:04,197 - INFO - ⚠️ No se pudo cargar 'excel_1_willian_león': Execution failed on sql 'SELECT * FROM 'excel_1_willian_león'': no such table: excel_1_willian_león
+2025-11-18 16:20:04,198 - INFO - 🆕 Tabla 'excel_1_willian_león' no existía. Todo se considera NUEVO: 253 filas.
+2025-11-18 16:20:04,203 - INFO - 📦 Tabla 'excel_1_juan_tarifa' cargada desde la base (530 filas).
+2025-11-18 16:20:04,322 - INFO - 🔍 Hoja 'excel_1_Juan Tarifa' → +0 nuevos, -0 eliminados, ✏️ 2212 modificados.
+2025-11-18 16:20:04,325 - INFO - 📦 Tabla 'excel_1_brayan_hanco' cargada desde la base (299 filas).
+2025-11-18 16:20:04,400 - INFO - 🔍 Hoja 'excel_1_Brayan Hanco' → +0 nuevos, -0 eliminados, ✏️ 1231 modificados.
+2025-11-18 16:20:04,403 - INFO - 📦 Tabla 'excel_1_jorge_queque' cargada desde la base (271 filas).
+2025-11-18 16:20:04,470 - INFO - 🔍 Hoja 'excel_1_Jorge Queque' → +0 nuevos, -0 eliminados, ✏️ 873 modificados.
+2025-11-18 16:20:04,474 - INFO - 📦 Tabla 'excel_1_nelson_quispe' cargada desde la base (154 filas).
+2025-11-18 16:20:04,512 - INFO - 🔍 Hoja 'excel_1_Nelson Quispe' → +0 nuevos, -0 eliminados, ✏️ 344 modificados.
+2025-11-18 16:20:04,515 - INFO - 📦 Tabla 'excel_1_ronald_guizado' cargada desde la base (106 filas).
+2025-11-18 16:20:04,546 - INFO - 🔍 Hoja 'excel_1_Ronald Guizado' → +0 nuevos, -0 eliminados, ✏️ 192 modificados.
+2025-11-18 16:20:04,566 - INFO - 📦 Tabla 'excel_2_bd_detracciones' cargada desde la base (5171 filas).
+2025-11-18 16:20:04,625 - INFO - ⚠️ No se encontraron claves válidas. Columnas comunes: ['fecha_pago', 'monto_deposito', 'n_1', 'n_2', 'nombre_proveedor', 'nombre_razon_social_adquiriente', 'numero__pago_detracciones', 'numero_comprobante', 'numero_constancia', 'numero_cuenta']…
+2025-11-18 16:20:04,627 - INFO - 🔍 Hoja 'excel_2_BD_Detracciones' → +0 nuevos, -0 eliminados, ✏️ 0 modificados.
+2025-11-18 16:20:04,663 - INFO - 📦 Tabla 'excel_3_presupuestos' cargada desde la base (4077 filas).
+2025-11-18 16:20:04,804 - INFO - ⚠️ No se encontraron claves válidas. Columnas comunes: ['a1', 'ac', 'actividad_economica', 'almacen', 'aprob', 'area', 'base', 'codigo_presupuesto', 'concepto', 'costos_indirectos']…
+2025-11-18 16:20:04,807 - INFO - 🔍 Hoja 'excel_3_Presupuestos' → +0 nuevos, -0 eliminados, ✏️ 0 modificados.
+2025-11-18 16:20:04,828 - INFO - 📦 Tabla 'excel_4_compras' cargada desde la base (2888 filas).
+2025-11-18 16:20:07,684 - INFO - 🔍 Hoja 'excel_4_COMPRAS' → +0 nuevos, -0 eliminados, ✏️ 77440 modificados.
+2025-11-18 16:20:07,688 - INFO - 📦 Tabla 'excel_4_ventas' cargada desde la base (451 filas).
+2025-11-18 16:20:07,843 - INFO - 🔍 Hoja 'excel_4_VENTAS' → +0 nuevos, -0 eliminados, ✏️ 3577 modificados.
+2025-11-18 16:20:07,847 - INFO - 📦 Tabla 'excel_5_pe' cargada desde la base (440 filas).
+2025-11-18 16:20:07,935 - INFO - 🔍 Hoja 'excel_5_PE' → +0 nuevos, -0 eliminados, ✏️ 1702 modificados.
+2025-11-18 16:20:07,958 - INFO - 📦 Tabla 'excel_6_control_servicios' cargada desde la base (1479 filas).
+2025-11-18 16:20:08,054 - INFO - ⚠️ No se encontraron claves válidas. Columnas comunes: ['c._df', 'c.ope.', 'cantidad_fs', 'cliente_generador', 'codigo', 'combinada', 'condicion_de_pago', 'dentro_plazo', 'detalle_servicio_fs', 'ejercicio_ttd']…
+2025-11-18 16:20:08,057 - INFO - 🔍 Hoja 'excel_6_Control_Servicios' → +0 nuevos, -0 eliminados, ✏️ 0 modificados.
+2025-11-18 16:20:08,059 - INFO - 💾 Creando respaldo antes de aplicar cambios...
+2025-11-18 16:20:08,066 - INFO - 🧾 Respaldo creado: DataPulse_20251118_162008.sqlite
+2025-11-18 16:20:08,067 - INFO - 🗑️ Backup antiguo eliminado: DataPulse_20251106_154010.sqlite
+2025-11-18 16:20:08,067 - INFO - 📦 Respaldo generado correctamente: DataPulse_20251118_162008.sqlite
+2025-11-18 16:20:08,067 - INFO - 🧩 Iniciando sincronización hoja por hoja (1:1 estructura Excel)...
+2025-11-18 16:20:08,067 - INFO - 📂 Iniciando sincronización completa de Excels hacia la base de datos...
+2025-11-18 16:20:08,068 - INFO - 📘 Leyendo archivo: 01. Registro Movimientos Caja Bancos 2025 - Gytres.xlsx
+2025-11-18 16:20:08,203 - INFO - 📄 Hojas detectadas: 18 válidas / 1 omitidas
+2025-11-18 16:20:08,203 - INFO -    🪶 Omitidas: Reporte_Bancos
+2025-11-18 16:20:08,493 - INFO - ✅ Hoja 'Clientes_Proveedores' cargada (1003 filas, 9 columnas)
+2025-11-18 16:20:09,354 - INFO - ✅ Hoja 'B_Bcp_Soles' cargada (4646 filas, 27 columnas)
+2025-11-18 16:20:09,725 - INFO - ✅ Hoja 'B_Bcp_Dolares' cargada (434 filas, 27 columnas)
+2025-11-18 16:20:10,059 - INFO - ✅ Hoja 'B_Interbank_Soles' cargada (189 filas, 27 columnas)
+2025-11-18 16:20:10,376 - INFO - ✅ Hoja 'B_Bbva_Soles' cargada (50 filas, 27 columnas)
+2025-11-18 16:20:10,776 - INFO - ✅ Hoja 'B_Banco_Nacion' cargada (829 filas, 27 columnas)
+2025-11-18 16:20:11,213 - INFO - ✅ Hoja 'C_Arequipa_Soles' cargada (1110 filas, 28 columnas)
+2025-11-18 16:20:11,632 - INFO - ✅ Hoja 'C_Finanzas_Soles' cargada (985 filas, 28 columnas)
+2025-11-18 16:20:11,997 - INFO - ✅ Hoja 'Caja_Operativa' cargada (488 filas, 27 columnas)
+2025-11-18 16:20:12,358 - INFO - ✅ Hoja 'Luis Rivera' cargada (485 filas, 28 columnas)
+2025-11-18 16:20:12,712 - INFO - ✅ Hoja 'Walter Asillo' cargada (407 filas, 28 columnas)
+2025-11-18 16:20:13,066 - INFO - ✅ Hoja 'Juber Monteza' cargada (387 filas, 28 columnas)
+2025-11-18 16:20:13,400 - INFO - ✅ Hoja 'Willian León' cargada (253 filas, 28 columnas)
+2025-11-18 16:20:13,762 - INFO - ✅ Hoja 'Juan Tarifa' cargada (530 filas, 28 columnas)
+2025-11-18 16:20:14,155 - INFO - ✅ Hoja 'Brayan Hanco' cargada (299 filas, 28 columnas)
+2025-11-18 16:20:14,491 - INFO - ✅ Hoja 'Jorge Queque' cargada (271 filas, 28 columnas)
+2025-11-18 16:20:14,809 - INFO - ✅ Hoja 'Nelson Quispe' cargada (154 filas, 28 columnas)
+2025-11-18 16:20:15,118 - INFO - ✅ Hoja 'Ronald Guizado' cargada (106 filas, 28 columnas)
+2025-11-18 16:20:15,118 - INFO - 📘 Leyendo archivo: 02. BD Detracciones 2025 - Gytres.xlsx
+2025-11-18 16:20:15,126 - INFO - 📄 Hojas detectadas: 1 válidas / 0 omitidas
+2025-11-18 16:20:15,593 - INFO - ✅ Hoja 'BD_Detracciones' cargada (5171 filas, 19 columnas)
+2025-11-18 16:20:15,593 - INFO - 📘 Leyendo archivo: 03. Presupuestos 2025 - Gytres.xlsx
+2025-11-18 16:20:15,676 - INFO - 📄 Hojas detectadas: 1 válidas / 0 omitidas
+2025-11-18 16:20:16,653 - INFO - ✅ Hoja 'Presupuestos' cargada (4077 filas, 47 columnas)
+2025-11-18 16:20:16,653 - INFO - 📘 Leyendo archivo: 04. Pre Liquidación de IGV y Renta 2025 - Gytres.xlsx
+2025-11-18 16:20:16,734 - INFO - 📄 Hojas detectadas: 9 válidas / 0 omitidas
+2025-11-18 16:20:16,835 - INFO - ⚠️ Error al procesar hoja 'R.Tributaria' (04. Pre Liquidación de IGV y Renta 2025 - Gytres.xlsx): 'EmptyCell' object has no attribute 'row'
+2025-11-18 16:20:16,934 - INFO - ⚠️ Error al procesar hoja 'DET IMPUESTO' (04. Pre Liquidación de IGV y Renta 2025 - Gytres.xlsx): 'EmptyCell' object has no attribute 'row'
+2025-11-18 16:20:17,019 - INFO - ⚠️ Error al procesar hoja 'COMPRAS Y VENTAS' (04. Pre Liquidación de IGV y Renta 2025 - Gytres.xlsx): 'EmptyCell' object has no attribute 'row'
+2025-11-18 16:20:17,098 - INFO - ⚠️ Error al procesar hoja 'CONSOLIDADO' (04. Pre Liquidación de IGV y Renta 2025 - Gytres.xlsx): 'EmptyCell' object has no attribute 'row'
+2025-11-18 16:20:17,179 - INFO - ⚠️ Error al procesar hoja 'DETALLE GASTOS FIJOS Y VARIABLE' (04. Pre Liquidación de IGV y Renta 2025 - Gytres.xlsx): 'EmptyCell' object has no attribute 'row'
+2025-11-18 16:20:18,083 - INFO - ✅ Hoja 'COMPRAS' cargada (2888 filas, 28 columnas)
+2025-11-18 16:20:18,380 - INFO - ✅ Hoja 'VENTAS' cargada (451 filas, 24 columnas)
+2025-11-18 16:20:18,463 - INFO - ⚠️ Hoja vacía o sin columnas válidas: Graf
+2025-11-18 16:20:18,550 - INFO - ⚠️ Error al procesar hoja 'DASHBOARD' (04. Pre Liquidación de IGV y Renta 2025 - Gytres.xlsx): 'EmptyCell' object has no attribute 'row'
+2025-11-18 16:20:18,551 - INFO - 📘 Leyendo archivo: Cotizaciones 2025 - Gytres.xlsx
+2025-11-18 16:20:18,560 - INFO - 📄 Hojas detectadas: 2 válidas / 0 omitidas
+2025-11-18 16:20:18,640 - INFO - ✅ Hoja 'PE' cargada (440 filas, 22 columnas)
+2025-11-18 16:20:18,649 - INFO - ⚠️ Error al procesar hoja 'Datos' (Cotizaciones 2025 - Gytres.xlsx): 'EmptyCell' object has no attribute 'row'
+2025-11-18 16:20:18,649 - INFO - 📘 Leyendo archivo: Gestión y Manejo de Servicios No Peligrosos y Peligrosos - Aqp y Lim - 2025 - Gytres.xlsm
+2025-11-18 16:20:18,783 - INFO - 📄 Hojas detectadas: 1 válidas / 0 omitidas
+2025-11-18 16:20:19,679 - INFO - ✅ Hoja 'Control_Servicios' cargada (1479 filas, 67 columnas)
+2025-11-18 16:20:19,680 - INFO - 
+📊 Lectura completada: 24 hojas procesadas correctamente.
+
+2025-11-18 16:20:19,680 - INFO - 🧩 Guardando hoja 'excel_1_Clientes_Proveedores' → tabla 'excel_1_clientes_proveedores'...
+2025-11-18 16:20:19,712 - INFO - ✅ 'excel_1_Clientes_Proveedores' sincronizada correctamente (1003 filas, 9 columnas).
+2025-11-18 16:20:19,712 - INFO - 🧩 Guardando hoja 'excel_1_B_Bcp_Soles' → tabla 'excel_1_b_bcp_soles'...
+2025-11-18 16:20:19,754 - INFO - ✅ 'excel_1_B_Bcp_Soles' sincronizada correctamente (4646 filas, 27 columnas).
+2025-11-18 16:20:19,754 - INFO - 🧩 Guardando hoja 'excel_1_B_Bcp_Dolares' → tabla 'excel_1_b_bcp_dolares'...
+2025-11-18 16:20:19,776 - INFO - ✅ 'excel_1_B_Bcp_Dolares' sincronizada correctamente (434 filas, 27 columnas).
+2025-11-18 16:20:19,776 - INFO - 🧩 Guardando hoja 'excel_1_B_Interbank_Soles' → tabla 'excel_1_b_interbank_soles'...
+2025-11-18 16:20:19,796 - INFO - ✅ 'excel_1_B_Interbank_Soles' sincronizada correctamente (189 filas, 27 columnas).
+2025-11-18 16:20:19,797 - INFO - 🧩 Guardando hoja 'excel_1_B_Bbva_Soles' → tabla 'excel_1_b_bbva_soles'...
+2025-11-18 16:20:19,817 - INFO - ✅ 'excel_1_B_Bbva_Soles' sincronizada correctamente (50 filas, 27 columnas).
+2025-11-18 16:20:19,817 - INFO - 🧩 Guardando hoja 'excel_1_B_Banco_Nacion' → tabla 'excel_1_b_banco_nacion'...
+2025-11-18 16:20:19,842 - INFO - ✅ 'excel_1_B_Banco_Nacion' sincronizada correctamente (829 filas, 27 columnas).
+2025-11-18 16:20:19,842 - INFO - 🧩 Guardando hoja 'excel_1_C_Arequipa_Soles' → tabla 'excel_1_c_arequipa_soles'...
+2025-11-18 16:20:19,868 - INFO - ✅ 'excel_1_C_Arequipa_Soles' sincronizada correctamente (1110 filas, 28 columnas).
+2025-11-18 16:20:19,868 - INFO - 🧩 Guardando hoja 'excel_1_C_Finanzas_Soles' → tabla 'excel_1_c_finanzas_soles'...
+2025-11-18 16:20:19,896 - INFO - ✅ 'excel_1_C_Finanzas_Soles' sincronizada correctamente (985 filas, 28 columnas).
+2025-11-18 16:20:19,896 - INFO - 🧩 Guardando hoja 'excel_1_Caja_Operativa' → tabla 'excel_1_caja_operativa'...
+2025-11-18 16:20:19,917 - INFO - ✅ 'excel_1_Caja_Operativa' sincronizada correctamente (488 filas, 27 columnas).
+2025-11-18 16:20:19,918 - INFO - 🧩 Guardando hoja 'excel_1_Luis Rivera' → tabla 'excel_1_luis_rivera'...
+2025-11-18 16:20:19,943 - INFO - ✅ 'excel_1_Luis Rivera' sincronizada correctamente (485 filas, 28 columnas).
+2025-11-18 16:20:19,944 - INFO - 🧩 Guardando hoja 'excel_1_Walter Asillo' → tabla 'excel_1_walter_asillo'...
+2025-11-18 16:20:19,967 - INFO - ✅ 'excel_1_Walter Asillo' sincronizada correctamente (407 filas, 28 columnas).
+2025-11-18 16:20:19,967 - INFO - 🧩 Guardando hoja 'excel_1_Juber Monteza' → tabla 'excel_1_juber_monteza'...
+2025-11-18 16:20:19,989 - INFO - ✅ 'excel_1_Juber Monteza' sincronizada correctamente (387 filas, 28 columnas).
+2025-11-18 16:20:19,989 - INFO - 🧩 Guardando hoja 'excel_1_Willian León' → tabla 'excel_1_willian_leon'...
+2025-11-18 16:20:20,010 - INFO - ✅ 'excel_1_Willian León' sincronizada correctamente (253 filas, 28 columnas).
+2025-11-18 16:20:20,011 - INFO - 🧩 Guardando hoja 'excel_1_Juan Tarifa' → tabla 'excel_1_juan_tarifa'...
+2025-11-18 16:20:20,036 - INFO - ✅ 'excel_1_Juan Tarifa' sincronizada correctamente (530 filas, 28 columnas).
+2025-11-18 16:20:20,036 - INFO - 🧩 Guardando hoja 'excel_1_Brayan Hanco' → tabla 'excel_1_brayan_hanco'...
+2025-11-18 16:20:20,057 - INFO - ✅ 'excel_1_Brayan Hanco' sincronizada correctamente (299 filas, 28 columnas).
+2025-11-18 16:20:20,058 - INFO - 🧩 Guardando hoja 'excel_1_Jorge Queque' → tabla 'excel_1_jorge_queque'...
+2025-11-18 16:20:20,080 - INFO - ✅ 'excel_1_Jorge Queque' sincronizada correctamente (271 filas, 28 columnas).
+2025-11-18 16:20:20,081 - INFO - 🧩 Guardando hoja 'excel_1_Nelson Quispe' → tabla 'excel_1_nelson_quispe'...
+2025-11-18 16:20:20,101 - INFO - ✅ 'excel_1_Nelson Quispe' sincronizada correctamente (154 filas, 28 columnas).
+2025-11-18 16:20:20,102 - INFO - 🧩 Guardando hoja 'excel_1_Ronald Guizado' → tabla 'excel_1_ronald_guizado'...
+2025-11-18 16:20:20,122 - INFO - ✅ 'excel_1_Ronald Guizado' sincronizada correctamente (106 filas, 28 columnas).
+2025-11-18 16:20:20,122 - INFO - 🧩 Guardando hoja 'excel_2_BD_Detracciones' → tabla 'excel_2_bd_detracciones'...
+2025-11-18 16:20:20,168 - INFO - ✅ 'excel_2_BD_Detracciones' sincronizada correctamente (5171 filas, 19 columnas).
+2025-11-18 16:20:20,168 - INFO - 🧩 Guardando hoja 'excel_3_Presupuestos' → tabla 'excel_3_presupuestos'...
+2025-11-18 16:20:20,234 - INFO - ✅ 'excel_3_Presupuestos' sincronizada correctamente (4077 filas, 47 columnas).
+2025-11-18 16:20:20,235 - INFO - 🧩 Guardando hoja 'excel_4_COMPRAS' → tabla 'excel_4_compras'...
+2025-11-18 16:20:20,271 - INFO - ✅ 'excel_4_COMPRAS' sincronizada correctamente (2888 filas, 28 columnas).
+2025-11-18 16:20:20,272 - INFO - 🧩 Guardando hoja 'excel_4_VENTAS' → tabla 'excel_4_ventas'...
+2025-11-18 16:20:20,295 - INFO - ✅ 'excel_4_VENTAS' sincronizada correctamente (451 filas, 24 columnas).
+2025-11-18 16:20:20,295 - INFO - 🧩 Guardando hoja 'excel_5_PE' → tabla 'excel_5_pe'...
+2025-11-18 16:20:20,317 - INFO - ✅ 'excel_5_PE' sincronizada correctamente (440 filas, 22 columnas).
+2025-11-18 16:20:20,317 - INFO - 🧩 Guardando hoja 'excel_6_Control_Servicios' → tabla 'excel_6_control_servicios'...
+2025-11-18 16:20:20,365 - INFO - ✅ 'excel_6_Control_Servicios' sincronizada correctamente (1479 filas, 67 columnas).
+2025-11-18 16:20:20,367 - INFO - 
+🚀 Sincronización finalizada.
+2025-11-18 16:20:20,367 - INFO - 📊 Resultado: 24/24 hojas sincronizadas correctamente.
+2025-11-18 16:20:20,367 - INFO - 🗃️ Base de datos actualizada en: db\datapulse.sqlite
+
+2025-11-18 16:20:20,379 - INFO - ✅ Sincronización completada correctamente. DataPulse está actualizado.
+2025-11-18 16:20:20,379 - INFO - 🏁 Proceso DataPulse finalizado (modo TEST SEGURO).
+

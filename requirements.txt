@@ -1,0 +1,16 @@
+# === Librerías base ===
+pandas
+openpyxl
+sqlalchemy
+schedule
+loguru
+
+# === Configuración y entorno ===
+python-dotenv
+pathlib
+
+# === Inteligencia Artificial (futuro) ===
+langchain
+ollama
+
+google-generativeai==0.8.3

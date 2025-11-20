@@ -1,0 +1,1479 @@
+2025-11-05 11:52:40,027 - INFO - 📂 Iniciando lectura exacta del archivo: 01. Registro_Movimientos_Caja_Bancos_2025.xlsx
+2025-11-05 11:52:40,151 - INFO - 🧾 Hojas detectadas: B_Bcp_Soles, B_Bcp_Dolares, B_Interbank_Soles, B_Bbva_Soles, B_Banco_Nacion, C_Arequipa_Soles, C_Finanzas_Soles, Caja_Operativa, Ruben Bustamante, Walter A, Juber Monteza, Willian León, Juan Tarifa, Miguel Solis, Anthony Huamani, Nelson Quispe, Ronald Guizado
+2025-11-05 11:52:40,631 - INFO - ✅ 'B_Bcp_Soles' cargada con 3478 filas y 28 columnas.
+2025-11-05 11:52:40,795 - INFO - ✅ 'B_Bcp_Dolares' cargada con 340 filas y 26 columnas.
+2025-11-05 11:52:40,926 - INFO - ✅ 'B_Interbank_Soles' cargada con 144 filas y 26 columnas.
+2025-11-05 11:52:41,062 - INFO - ✅ 'B_Bbva_Soles' cargada con 40 filas y 23 columnas.
+2025-11-05 11:52:41,258 - INFO - ✅ 'B_Banco_Nacion' cargada con 722 filas y 25 columnas.
+2025-11-05 11:52:41,455 - INFO - ✅ 'C_Arequipa_Soles' cargada con 719 filas y 26 columnas.
+2025-11-05 11:52:41,652 - INFO - ✅ 'C_Finanzas_Soles' cargada con 767 filas y 22 columnas.
+2025-11-05 11:52:41,821 - INFO - ✅ 'Caja_Operativa' cargada con 422 filas y 19 columnas.
+2025-11-05 11:52:41,995 - INFO - ✅ 'Ruben Bustamante' cargada con 405 filas y 24 columnas.
+2025-11-05 11:52:42,144 - INFO - ✅ 'Walter A' cargada con 267 filas y 24 columnas.
+2025-11-05 11:52:42,311 - INFO - ✅ 'Juber Monteza' cargada con 262 filas y 24 columnas.
+2025-11-05 11:52:42,482 - INFO - ✅ 'Willian León' cargada con 225 filas y 24 columnas.
+2025-11-05 11:52:42,658 - INFO - ✅ 'Juan Tarifa' cargada con 440 filas y 25 columnas.
+2025-11-05 11:52:42,817 - INFO - ✅ 'Miguel Solis' cargada con 231 filas y 24 columnas.
+2025-11-05 11:52:42,984 - INFO - ✅ 'Anthony Huamani' cargada con 245 filas y 24 columnas.
+2025-11-05 11:52:43,126 - INFO - ✅ 'Nelson Quispe' cargada con 113 filas y 23 columnas.
+2025-11-05 11:52:43,266 - INFO - ✅ 'Ronald Guizado' cargada con 67 filas y 21 columnas.
+2025-11-05 11:52:43,266 - INFO - 📊 Total de hojas procesadas correctamente: 17
+2025-11-05 12:04:41,211 - INFO - 🚀 Iniciando ejecución completa de DataPulse (modo TEST SEGURO)
+2025-11-05 12:04:41,212 - INFO - 📘 Leyendo hojas desde el archivo Excel principal...
+2025-11-05 12:04:41,212 - INFO - 📂 Iniciando lectura exacta del archivo: 01. Registro_Movimientos_Caja_Bancos_2025.xlsx
+2025-11-05 12:04:41,349 - INFO - 🧾 Hojas detectadas: B_Bcp_Soles, B_Bcp_Dolares, B_Interbank_Soles, B_Bbva_Soles, B_Banco_Nacion, C_Arequipa_Soles, C_Finanzas_Soles, Caja_Operativa, Ruben Bustamante, Walter A, Juber Monteza, Willian León, Juan Tarifa, Miguel Solis, Anthony Huamani, Nelson Quispe, Ronald Guizado
+2025-11-05 12:04:41,801 - INFO - ✅ 'B_Bcp_Soles' cargada con 3478 filas y 28 columnas.
+2025-11-05 12:04:41,955 - INFO - ✅ 'B_Bcp_Dolares' cargada con 340 filas y 26 columnas.
+2025-11-05 12:04:42,085 - INFO - ✅ 'B_Interbank_Soles' cargada con 144 filas y 26 columnas.
+2025-11-05 12:04:42,209 - INFO - ✅ 'B_Bbva_Soles' cargada con 40 filas y 23 columnas.
+2025-11-05 12:04:42,397 - INFO - ✅ 'B_Banco_Nacion' cargada con 722 filas y 25 columnas.
+2025-11-05 12:04:42,592 - INFO - ✅ 'C_Arequipa_Soles' cargada con 719 filas y 26 columnas.
+2025-11-05 12:04:42,785 - INFO - ✅ 'C_Finanzas_Soles' cargada con 767 filas y 22 columnas.
+2025-11-05 12:04:42,953 - INFO - ✅ 'Caja_Operativa' cargada con 422 filas y 19 columnas.
+2025-11-05 12:04:43,121 - INFO - ✅ 'Ruben Bustamante' cargada con 405 filas y 24 columnas.
+2025-11-05 12:04:43,256 - INFO - ✅ 'Walter A' cargada con 267 filas y 24 columnas.
+2025-11-05 12:04:43,395 - INFO - ✅ 'Juber Monteza' cargada con 262 filas y 24 columnas.
+2025-11-05 12:04:43,545 - INFO - ✅ 'Willian León' cargada con 225 filas y 24 columnas.
+2025-11-05 12:04:43,699 - INFO - ✅ 'Juan Tarifa' cargada con 440 filas y 25 columnas.
+2025-11-05 12:04:43,850 - INFO - ✅ 'Miguel Solis' cargada con 231 filas y 24 columnas.
+2025-11-05 12:04:44,001 - INFO - ✅ 'Anthony Huamani' cargada con 245 filas y 24 columnas.
+2025-11-05 12:04:44,128 - INFO - ✅ 'Nelson Quispe' cargada con 113 filas y 23 columnas.
+2025-11-05 12:04:44,253 - INFO - ✅ 'Ronald Guizado' cargada con 67 filas y 21 columnas.
+2025-11-05 12:04:44,253 - INFO - 📊 Total de hojas procesadas correctamente: 17
+2025-11-05 12:04:44,254 - INFO - 🧱 Verificando estructura inicial de base de datos...
+2025-11-05 12:04:44,254 - INFO - 📦 Iniciando volcado de datos en la base de datos...
+2025-11-05 12:04:44,260 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:04:44,306 - INFO - ✅ Tabla 'b_bcp_soles' actualizada con 3478 registros.
+2025-11-05 12:04:44,307 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:04:44,329 - INFO - ✅ Tabla 'b_bcp_dolares' actualizada con 340 registros.
+2025-11-05 12:04:44,330 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:04:44,350 - INFO - ✅ Tabla 'b_interbank_soles' actualizada con 144 registros.
+2025-11-05 12:04:44,350 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:04:44,370 - INFO - ✅ Tabla 'b_bbva_soles' actualizada con 40 registros.
+2025-11-05 12:04:44,370 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:04:44,393 - INFO - ✅ Tabla 'b_banco_nacion' actualizada con 722 registros.
+2025-11-05 12:04:44,394 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:04:44,417 - INFO - ✅ Tabla 'c_arequipa_soles' actualizada con 719 registros.
+2025-11-05 12:04:44,418 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:04:44,440 - INFO - ✅ Tabla 'c_finanzas_soles' actualizada con 767 registros.
+2025-11-05 12:04:44,441 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:04:44,461 - INFO - ✅ Tabla 'caja_operativa' actualizada con 422 registros.
+2025-11-05 12:04:44,461 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:04:44,483 - INFO - ✅ Tabla 'ruben_bustamante' actualizada con 405 registros.
+2025-11-05 12:04:44,484 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:04:44,505 - INFO - ✅ Tabla 'walter_a' actualizada con 267 registros.
+2025-11-05 12:04:44,506 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:04:44,526 - INFO - ✅ Tabla 'juber_monteza' actualizada con 262 registros.
+2025-11-05 12:04:44,526 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:04:44,547 - INFO - ✅ Tabla 'willian_leon' actualizada con 225 registros.
+2025-11-05 12:04:44,548 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:04:44,570 - INFO - ✅ Tabla 'juan_tarifa' actualizada con 440 registros.
+2025-11-05 12:04:44,571 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:04:44,592 - INFO - ✅ Tabla 'miguel_solis' actualizada con 231 registros.
+2025-11-05 12:04:44,593 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:04:44,615 - INFO - ✅ Tabla 'anthony_huamani' actualizada con 245 registros.
+2025-11-05 12:04:44,616 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:04:44,635 - INFO - ✅ Tabla 'nelson_quispe' actualizada con 113 registros.
+2025-11-05 12:04:44,636 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:04:44,655 - INFO - ✅ Tabla 'ronald_guizado' actualizada con 67 registros.
+2025-11-05 12:04:44,656 - INFO - 🚀 Base de datos sincronizada correctamente.
+2025-11-05 12:04:44,656 - INFO - 🔍 Analizando diferencias entre Excel y base de datos...
+2025-11-05 12:04:44,675 - INFO - 📦 Tabla 'b_bcp_soles' cargada desde la base (3478 filas).
+2025-11-05 12:04:47,986 - INFO - 🔍 Hoja 'B_Bcp_Soles' → +0 nuevos, -0 eliminados, ✏️ 96450 modificados.
+2025-11-05 12:04:47,990 - INFO - 📦 Tabla 'b_bcp_dolares' cargada desde la base (340 filas).
+2025-11-05 12:04:48,134 - INFO - 🔍 Hoja 'B_Bcp_Dolares' → +0 nuevos, -0 eliminados, ✏️ 3178 modificados.
+2025-11-05 12:04:48,137 - INFO - 📦 Tabla 'b_interbank_soles' cargada desde la base (144 filas).
+2025-11-05 12:04:48,186 - INFO - 🔍 Hoja 'B_Interbank_Soles' → +0 nuevos, -0 eliminados, ✏️ 632 modificados.
+2025-11-05 12:04:48,188 - INFO - 📦 Tabla 'b_bbva_soles' cargada desde la base (40 filas).
+2025-11-05 12:04:48,220 - INFO - 🔍 Hoja 'B_Bbva_Soles' → +0 nuevos, -0 eliminados, ✏️ 285 modificados.
+2025-11-05 12:04:48,226 - INFO - 📦 Tabla 'b_banco_nacion' cargada desde la base (722 filas).
+2025-11-05 12:04:48,708 - INFO - 🔍 Hoja 'B_Banco_Nacion' → +0 nuevos, -0 eliminados, ✏️ 14832 modificados.
+2025-11-05 12:04:48,713 - INFO - 📦 Tabla 'c_arequipa_soles' cargada desde la base (719 filas).
+2025-11-05 12:04:48,929 - INFO - 🔍 Hoja 'C_Arequipa_Soles' → +0 nuevos, -0 eliminados, ✏️ 6541 modificados.
+2025-11-05 12:04:48,934 - INFO - 📦 Tabla 'c_finanzas_soles' cargada desde la base (767 filas).
+2025-11-05 12:04:49,155 - INFO - 🔍 Hoja 'C_Finanzas_Soles' → +0 nuevos, -0 eliminados, ✏️ 7275 modificados.
+2025-11-05 12:04:49,158 - INFO - 📦 Tabla 'caja_operativa' cargada desde la base (422 filas).
+2025-11-05 12:04:49,327 - INFO - 🔍 Hoja 'Caja_Operativa' → +0 nuevos, -0 eliminados, ✏️ 5814 modificados.
+2025-11-05 12:04:49,331 - INFO - 📦 Tabla 'ruben_bustamante' cargada desde la base (405 filas).
+2025-11-05 12:04:49,403 - INFO - 🔍 Hoja 'Ruben Bustamante' → +0 nuevos, -0 eliminados, ✏️ 1285 modificados.
+2025-11-05 12:04:49,407 - INFO - 📦 Tabla 'walter_a' cargada desde la base (267 filas).
+2025-11-05 12:04:49,458 - INFO - 🔍 Hoja 'Walter A' → +0 nuevos, -0 eliminados, ✏️ 818 modificados.
+2025-11-05 12:04:49,462 - INFO - 📦 Tabla 'juber_monteza' cargada desde la base (262 filas).
+2025-11-05 12:04:49,526 - INFO - 🔍 Hoja 'Juber Monteza' → +0 nuevos, -0 eliminados, ✏️ 1444 modificados.
+2025-11-05 12:04:49,527 - INFO - ⚠️ No se pudo cargar 'willian_león': Execution failed on sql 'SELECT * FROM 'willian_león'': no such table: willian_león
+2025-11-05 12:04:49,528 - INFO - 🆕 Tabla 'willian_león' no existía. Todo se considera NUEVO: 225 filas.
+2025-11-05 12:04:49,532 - INFO - 📦 Tabla 'juan_tarifa' cargada desde la base (440 filas).
+2025-11-05 12:04:49,618 - INFO - 🔍 Hoja 'Juan Tarifa' → +0 nuevos, -0 eliminados, ✏️ 1911 modificados.
+2025-11-05 12:04:49,621 - INFO - 📦 Tabla 'miguel_solis' cargada desde la base (231 filas).
+2025-11-05 12:04:49,676 - INFO - 🔍 Hoja 'Miguel Solis' → +0 nuevos, -0 eliminados, ✏️ 969 modificados.
+2025-11-05 12:04:49,680 - INFO - 📦 Tabla 'anthony_huamani' cargada desde la base (245 filas).
+2025-11-05 12:04:49,727 - INFO - 🔍 Hoja 'Anthony Huamani' → +0 nuevos, -0 eliminados, ✏️ 829 modificados.
+2025-11-05 12:04:49,730 - INFO - 📦 Tabla 'nelson_quispe' cargada desde la base (113 filas).
+2025-11-05 12:04:49,758 - INFO - 🔍 Hoja 'Nelson Quispe' → +0 nuevos, -0 eliminados, ✏️ 215 modificados.
+2025-11-05 12:04:49,761 - INFO - 📦 Tabla 'ronald_guizado' cargada desde la base (67 filas).
+2025-11-05 12:04:49,785 - INFO - 🔍 Hoja 'Ronald Guizado' → +0 nuevos, -0 eliminados, ✏️ 90 modificados.
+2025-11-05 12:04:49,785 - INFO - 💾 Generando respaldo antes de aplicar cambios...
+2025-11-05 12:04:49,788 - INFO - 🧾 Respaldo creado: DataPulse_20251105_120449.sqlite
+2025-11-05 12:04:49,789 - INFO - ✅ No hay backups antiguos que eliminar.
+2025-11-05 12:04:49,789 - INFO - 📦 Respaldo creado: DataPulse_20251105_120449.sqlite
+2025-11-05 12:04:49,789 - INFO - 🧩 Aplicando sincronización total (Excel → SQLite, 1:1)...
+2025-11-05 12:04:49,789 - INFO - 📂 Iniciando sincronización completa Excel → SQLite...
+2025-11-05 12:04:49,790 - INFO - 📂 Iniciando lectura exacta del archivo: 01. Registro_Movimientos_Caja_Bancos_2025.xlsx
+2025-11-05 12:04:49,903 - INFO - 🧾 Hojas detectadas: B_Bcp_Soles, B_Bcp_Dolares, B_Interbank_Soles, B_Bbva_Soles, B_Banco_Nacion, C_Arequipa_Soles, C_Finanzas_Soles, Caja_Operativa, Ruben Bustamante, Walter A, Juber Monteza, Willian León, Juan Tarifa, Miguel Solis, Anthony Huamani, Nelson Quispe, Ronald Guizado
+2025-11-05 12:04:50,314 - INFO - ✅ 'B_Bcp_Soles' cargada con 3478 filas y 28 columnas.
+2025-11-05 12:04:50,458 - INFO - ✅ 'B_Bcp_Dolares' cargada con 340 filas y 26 columnas.
+2025-11-05 12:04:50,582 - INFO - ✅ 'B_Interbank_Soles' cargada con 144 filas y 26 columnas.
+2025-11-05 12:04:50,697 - INFO - ✅ 'B_Bbva_Soles' cargada con 40 filas y 23 columnas.
+2025-11-05 12:04:50,876 - INFO - ✅ 'B_Banco_Nacion' cargada con 722 filas y 25 columnas.
+2025-11-05 12:04:51,055 - INFO - ✅ 'C_Arequipa_Soles' cargada con 719 filas y 26 columnas.
+2025-11-05 12:04:51,256 - INFO - ✅ 'C_Finanzas_Soles' cargada con 767 filas y 22 columnas.
+2025-11-05 12:04:51,420 - INFO - ✅ 'Caja_Operativa' cargada con 422 filas y 19 columnas.
+2025-11-05 12:04:51,587 - INFO - ✅ 'Ruben Bustamante' cargada con 405 filas y 24 columnas.
+2025-11-05 12:04:51,743 - INFO - ✅ 'Walter A' cargada con 267 filas y 24 columnas.
+2025-11-05 12:04:51,891 - INFO - ✅ 'Juber Monteza' cargada con 262 filas y 24 columnas.
+2025-11-05 12:04:52,052 - INFO - ✅ 'Willian León' cargada con 225 filas y 24 columnas.
+2025-11-05 12:04:52,210 - INFO - ✅ 'Juan Tarifa' cargada con 440 filas y 25 columnas.
+2025-11-05 12:04:52,362 - INFO - ✅ 'Miguel Solis' cargada con 231 filas y 24 columnas.
+2025-11-05 12:04:52,527 - INFO - ✅ 'Anthony Huamani' cargada con 245 filas y 24 columnas.
+2025-11-05 12:04:52,649 - INFO - ✅ 'Nelson Quispe' cargada con 113 filas y 23 columnas.
+2025-11-05 12:04:52,782 - INFO - ✅ 'Ronald Guizado' cargada con 67 filas y 21 columnas.
+2025-11-05 12:04:52,782 - INFO - 📊 Total de hojas procesadas correctamente: 17
+2025-11-05 12:04:52,782 - INFO - 🧩 Procesando hoja 'B_Bcp_Soles' → tabla 'b_bcp_soles'...
+2025-11-05 12:04:52,831 - INFO - ✅ 'B_Bcp_Soles' guardada correctamente (3478 filas, 28 columnas).
+2025-11-05 12:04:52,831 - INFO - 🧩 Procesando hoja 'B_Bcp_Dolares' → tabla 'b_bcp_dolares'...
+2025-11-05 12:04:52,852 - INFO - ✅ 'B_Bcp_Dolares' guardada correctamente (340 filas, 26 columnas).
+2025-11-05 12:04:52,853 - INFO - 🧩 Procesando hoja 'B_Interbank_Soles' → tabla 'b_interbank_soles'...
+2025-11-05 12:04:52,875 - INFO - ✅ 'B_Interbank_Soles' guardada correctamente (144 filas, 26 columnas).
+2025-11-05 12:04:52,875 - INFO - 🧩 Procesando hoja 'B_Bbva_Soles' → tabla 'b_bbva_soles'...
+2025-11-05 12:04:52,894 - INFO - ✅ 'B_Bbva_Soles' guardada correctamente (40 filas, 23 columnas).
+2025-11-05 12:04:52,894 - INFO - 🧩 Procesando hoja 'B_Banco_Nacion' → tabla 'b_banco_nacion'...
+2025-11-05 12:04:52,919 - INFO - ✅ 'B_Banco_Nacion' guardada correctamente (722 filas, 25 columnas).
+2025-11-05 12:04:52,919 - INFO - 🧩 Procesando hoja 'C_Arequipa_Soles' → tabla 'c_arequipa_soles'...
+2025-11-05 12:04:52,942 - INFO - ✅ 'C_Arequipa_Soles' guardada correctamente (719 filas, 26 columnas).
+2025-11-05 12:04:52,943 - INFO - 🧩 Procesando hoja 'C_Finanzas_Soles' → tabla 'c_finanzas_soles'...
+2025-11-05 12:04:52,966 - INFO - ✅ 'C_Finanzas_Soles' guardada correctamente (767 filas, 22 columnas).
+2025-11-05 12:04:52,966 - INFO - 🧩 Procesando hoja 'Caja_Operativa' → tabla 'caja_operativa'...
+2025-11-05 12:04:52,987 - INFO - ✅ 'Caja_Operativa' guardada correctamente (422 filas, 19 columnas).
+2025-11-05 12:04:52,987 - INFO - 🧩 Procesando hoja 'Ruben Bustamante' → tabla 'ruben_bustamante'...
+2025-11-05 12:04:53,009 - INFO - ✅ 'Ruben Bustamante' guardada correctamente (405 filas, 24 columnas).
+2025-11-05 12:04:53,009 - INFO - 🧩 Procesando hoja 'Walter A' → tabla 'walter_a'...
+2025-11-05 12:04:53,030 - INFO - ✅ 'Walter A' guardada correctamente (267 filas, 24 columnas).
+2025-11-05 12:04:53,030 - INFO - 🧩 Procesando hoja 'Juber Monteza' → tabla 'juber_monteza'...
+2025-11-05 12:04:53,054 - INFO - ✅ 'Juber Monteza' guardada correctamente (262 filas, 24 columnas).
+2025-11-05 12:04:53,054 - INFO - 🧩 Procesando hoja 'Willian León' → tabla 'willian_leon'...
+2025-11-05 12:04:53,079 - INFO - ✅ 'Willian León' guardada correctamente (225 filas, 24 columnas).
+2025-11-05 12:04:53,080 - INFO - 🧩 Procesando hoja 'Juan Tarifa' → tabla 'juan_tarifa'...
+2025-11-05 12:04:53,108 - INFO - ✅ 'Juan Tarifa' guardada correctamente (440 filas, 25 columnas).
+2025-11-05 12:04:53,108 - INFO - 🧩 Procesando hoja 'Miguel Solis' → tabla 'miguel_solis'...
+2025-11-05 12:04:53,130 - INFO - ✅ 'Miguel Solis' guardada correctamente (231 filas, 24 columnas).
+2025-11-05 12:04:53,130 - INFO - 🧩 Procesando hoja 'Anthony Huamani' → tabla 'anthony_huamani'...
+2025-11-05 12:04:53,153 - INFO - ✅ 'Anthony Huamani' guardada correctamente (245 filas, 24 columnas).
+2025-11-05 12:04:53,153 - INFO - 🧩 Procesando hoja 'Nelson Quispe' → tabla 'nelson_quispe'...
+2025-11-05 12:04:53,175 - INFO - ✅ 'Nelson Quispe' guardada correctamente (113 filas, 23 columnas).
+2025-11-05 12:04:53,175 - INFO - 🧩 Procesando hoja 'Ronald Guizado' → tabla 'ronald_guizado'...
+2025-11-05 12:04:53,196 - INFO - ✅ 'Ronald Guizado' guardada correctamente (67 filas, 21 columnas).
+2025-11-05 12:04:53,197 - INFO - 🚀 Sincronización finalizada con éxito. Base actualizada 1:1 con el Excel.
+2025-11-05 12:04:53,199 - INFO - ✅ Sincronización completada correctamente.
+2025-11-05 12:04:53,199 - INFO - 🏁 Proceso DataPulse finalizado (modo TEST SEGURO).
+
+2025-11-05 12:23:07,061 - INFO - 🚀 Iniciando ejecución completa de DataPulse (modo TEST SEGURO)
+2025-11-05 12:23:07,061 - INFO - 📘 Leyendo hojas desde el archivo Excel principal...
+2025-11-05 12:23:07,062 - INFO - 📂 Iniciando lectura precisa del archivo: 01. Registro_Movimientos_Caja_Bancos_2025.xlsx
+2025-11-05 12:23:07,194 - INFO - 🧾 Hojas detectadas: B_Bcp_Soles, B_Bcp_Dolares, B_Interbank_Soles, B_Bbva_Soles, B_Banco_Nacion, C_Arequipa_Soles, C_Finanzas_Soles, Caja_Operativa, Ruben Bustamante, Walter A, Juber Monteza, Willian León, Juan Tarifa, Miguel Solis, Anthony Huamani, Nelson Quispe, Ronald Guizado
+2025-11-05 12:23:08,277 - INFO - ✅ 'B_Bcp_Soles' cargada con 3478 filas y 28 columnas.
+2025-11-05 12:23:08,505 - INFO - ✅ 'B_Bcp_Dolares' cargada con 340 filas y 28 columnas.
+2025-11-05 12:23:08,675 - INFO - ✅ 'B_Interbank_Soles' cargada con 144 filas y 28 columnas.
+2025-11-05 12:23:08,816 - INFO - ✅ 'B_Bbva_Soles' cargada con 40 filas y 28 columnas.
+2025-11-05 12:23:09,141 - INFO - ✅ 'B_Banco_Nacion' cargada con 722 filas y 28 columnas.
+2025-11-05 12:23:09,475 - INFO - ✅ 'C_Arequipa_Soles' cargada con 719 filas y 28 columnas.
+2025-11-05 12:23:09,801 - INFO - ✅ 'C_Finanzas_Soles' cargada con 776 filas y 28 columnas.
+2025-11-05 12:23:10,053 - INFO - ✅ 'Caja_Operativa' cargada con 422 filas y 28 columnas.
+2025-11-05 12:23:10,286 - INFO - ✅ 'Ruben Bustamante' cargada con 405 filas y 28 columnas.
+2025-11-05 12:23:10,481 - INFO - ✅ 'Walter A' cargada con 267 filas y 28 columnas.
+2025-11-05 12:23:10,675 - INFO - ✅ 'Juber Monteza' cargada con 262 filas y 28 columnas.
+2025-11-05 12:23:10,864 - INFO - ✅ 'Willian León' cargada con 225 filas y 28 columnas.
+2025-11-05 12:23:11,105 - INFO - ✅ 'Juan Tarifa' cargada con 440 filas y 28 columnas.
+2025-11-05 12:23:11,304 - INFO - ✅ 'Miguel Solis' cargada con 231 filas y 28 columnas.
+2025-11-05 12:23:11,500 - INFO - ✅ 'Anthony Huamani' cargada con 245 filas y 28 columnas.
+2025-11-05 12:23:11,653 - INFO - ✅ 'Nelson Quispe' cargada con 113 filas y 28 columnas.
+2025-11-05 12:23:11,810 - INFO - ✅ 'Ronald Guizado' cargada con 67 filas y 28 columnas.
+2025-11-05 12:23:11,810 - INFO - 📊 Total de hojas procesadas correctamente: 17
+2025-11-05 12:23:11,810 - INFO - 🧱 Verificando estructura inicial de la base de datos...
+2025-11-05 12:23:11,811 - INFO - 📦 Iniciando volcado de datos en la base de datos...
+2025-11-05 12:23:11,821 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:23:11,866 - INFO - ✅ Tabla 'b_bcp_soles' actualizada con 3478 registros.
+2025-11-05 12:23:11,868 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:23:11,891 - INFO - ✅ Tabla 'b_bcp_dolares' actualizada con 340 registros.
+2025-11-05 12:23:11,892 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:23:11,913 - INFO - ✅ Tabla 'b_interbank_soles' actualizada con 144 registros.
+2025-11-05 12:23:11,913 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:23:11,934 - INFO - ✅ Tabla 'b_bbva_soles' actualizada con 40 registros.
+2025-11-05 12:23:11,935 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:23:11,959 - INFO - ✅ Tabla 'b_banco_nacion' actualizada con 722 registros.
+2025-11-05 12:23:11,960 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:23:11,985 - INFO - ✅ Tabla 'c_arequipa_soles' actualizada con 719 registros.
+2025-11-05 12:23:11,985 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:23:12,009 - INFO - ✅ Tabla 'c_finanzas_soles' actualizada con 776 registros.
+2025-11-05 12:23:12,009 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:23:12,032 - INFO - ✅ Tabla 'caja_operativa' actualizada con 422 registros.
+2025-11-05 12:23:12,032 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:23:12,055 - INFO - ✅ Tabla 'ruben_bustamante' actualizada con 405 registros.
+2025-11-05 12:23:12,056 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:23:12,078 - INFO - ✅ Tabla 'walter_a' actualizada con 267 registros.
+2025-11-05 12:23:12,078 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:23:12,100 - INFO - ✅ Tabla 'juber_monteza' actualizada con 262 registros.
+2025-11-05 12:23:12,101 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:23:12,124 - INFO - ✅ Tabla 'willian_leon' actualizada con 225 registros.
+2025-11-05 12:23:12,125 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:23:12,149 - INFO - ✅ Tabla 'juan_tarifa' actualizada con 440 registros.
+2025-11-05 12:23:12,150 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:23:12,170 - INFO - ✅ Tabla 'miguel_solis' actualizada con 231 registros.
+2025-11-05 12:23:12,170 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:23:12,197 - INFO - ✅ Tabla 'anthony_huamani' actualizada con 245 registros.
+2025-11-05 12:23:12,198 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:23:12,219 - INFO - ✅ Tabla 'nelson_quispe' actualizada con 113 registros.
+2025-11-05 12:23:12,220 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:23:12,239 - INFO - ✅ Tabla 'ronald_guizado' actualizada con 67 registros.
+2025-11-05 12:23:12,239 - INFO - 🚀 Base de datos sincronizada correctamente.
+2025-11-05 12:23:12,239 - INFO - 🔍 Analizando diferencias entre Excel y base de datos...
+2025-11-05 12:23:12,260 - INFO - 📦 Tabla 'b_bcp_soles' cargada desde la base (3478 filas).
+2025-11-05 12:23:15,730 - INFO - 🔍 Hoja 'B_Bcp_Soles' → +0 nuevos, -0 eliminados, ✏️ 92972 modificados.
+2025-11-05 12:23:15,733 - INFO - 📦 Tabla 'b_bcp_dolares' cargada desde la base (340 filas).
+2025-11-05 12:23:15,903 - INFO - 🔍 Hoja 'B_Bcp_Dolares' → +0 nuevos, -0 eliminados, ✏️ 2838 modificados.
+2025-11-05 12:23:15,906 - INFO - 📦 Tabla 'b_interbank_soles' cargada desde la base (144 filas).
+2025-11-05 12:23:15,959 - INFO - 🔍 Hoja 'B_Interbank_Soles' → +0 nuevos, -0 eliminados, ✏️ 486 modificados.
+2025-11-05 12:23:15,962 - INFO - 📦 Tabla 'b_bbva_soles' cargada desde la base (40 filas).
+2025-11-05 12:23:15,993 - INFO - 🔍 Hoja 'B_Bbva_Soles' → +0 nuevos, -0 eliminados, ✏️ 246 modificados.
+2025-11-05 12:23:15,998 - INFO - 📦 Tabla 'b_banco_nacion' cargada desde la base (722 filas).
+2025-11-05 12:23:16,787 - INFO - 🔍 Hoja 'B_Banco_Nacion' → +0 nuevos, -0 eliminados, ✏️ 10022 modificados.
+2025-11-05 12:23:16,792 - INFO - 📦 Tabla 'c_arequipa_soles' cargada desde la base (719 filas).
+2025-11-05 12:23:17,034 - INFO - 🔍 Hoja 'C_Arequipa_Soles' → +0 nuevos, -0 eliminados, ✏️ 5822 modificados.
+2025-11-05 12:23:17,040 - INFO - 📦 Tabla 'c_finanzas_soles' cargada desde la base (776 filas).
+2025-11-05 12:23:17,352 - INFO - 🔍 Hoja 'C_Finanzas_Soles' → +0 nuevos, -0 eliminados, ✏️ 6526 modificados.
+2025-11-05 12:23:17,356 - INFO - 📦 Tabla 'caja_operativa' cargada desde la base (422 filas).
+2025-11-05 12:23:17,562 - INFO - 🔍 Hoja 'Caja_Operativa' → +0 nuevos, -0 eliminados, ✏️ 5392 modificados.
+2025-11-05 12:23:17,566 - INFO - 📦 Tabla 'ruben_bustamante' cargada desde la base (405 filas).
+2025-11-05 12:23:17,654 - INFO - 🔍 Hoja 'Ruben Bustamante' → +0 nuevos, -0 eliminados, ✏️ 988 modificados.
+2025-11-05 12:23:17,657 - INFO - 📦 Tabla 'walter_a' cargada desde la base (267 filas).
+2025-11-05 12:23:17,730 - INFO - 🔍 Hoja 'Walter A' → +0 nuevos, -0 eliminados, ✏️ 580 modificados.
+2025-11-05 12:23:17,733 - INFO - 📦 Tabla 'juber_monteza' cargada desde la base (262 filas).
+2025-11-05 12:23:17,820 - INFO - 🔍 Hoja 'Juber Monteza' → +0 nuevos, -0 eliminados, ✏️ 1210 modificados.
+2025-11-05 12:23:17,821 - INFO - ⚠️ No se pudo cargar 'willian_león': Execution failed on sql 'SELECT * FROM 'willian_león'': no such table: willian_león
+2025-11-05 12:23:17,822 - INFO - 🆕 Tabla 'willian_león' no existía. Todo se considera NUEVO: 225 filas.
+2025-11-05 12:23:17,825 - INFO - 📦 Tabla 'juan_tarifa' cargada desde la base (440 filas).
+2025-11-05 12:23:17,929 - INFO - 🔍 Hoja 'Juan Tarifa' → +0 nuevos, -0 eliminados, ✏️ 1520 modificados.
+2025-11-05 12:23:17,932 - INFO - 📦 Tabla 'miguel_solis' cargada desde la base (231 filas).
+2025-11-05 12:23:17,995 - INFO - 🔍 Hoja 'Miguel Solis' → +0 nuevos, -0 eliminados, ✏️ 764 modificados.
+2025-11-05 12:23:17,999 - INFO - 📦 Tabla 'anthony_huamani' cargada desde la base (245 filas).
+2025-11-05 12:23:18,064 - INFO - 🔍 Hoja 'Anthony Huamani' → +0 nuevos, -0 eliminados, ✏️ 584 modificados.
+2025-11-05 12:23:18,067 - INFO - 📦 Tabla 'nelson_quispe' cargada desde la base (113 filas).
+2025-11-05 12:23:18,104 - INFO - 🔍 Hoja 'Nelson Quispe' → +0 nuevos, -0 eliminados, ✏️ 128 modificados.
+2025-11-05 12:23:18,106 - INFO - 📦 Tabla 'ronald_guizado' cargada desde la base (67 filas).
+2025-11-05 12:23:18,133 - INFO - 🔍 Hoja 'Ronald Guizado' → +0 nuevos, -0 eliminados, ✏️ 34 modificados.
+2025-11-05 12:23:18,133 - INFO - 💾 Creando respaldo antes de aplicar cambios...
+2025-11-05 12:23:18,138 - INFO - 🧾 Respaldo creado: DataPulse_20251105_122318.sqlite
+2025-11-05 12:23:18,139 - INFO - 🗑️ Backup antiguo eliminado: DataPulse_20251104_120745.sqlite
+2025-11-05 12:23:18,139 - INFO - 📦 Respaldo generado correctamente: DataPulse_20251105_122318.sqlite
+2025-11-05 12:23:18,139 - INFO - 🧩 Iniciando sincronización hoja por hoja (1:1 estructura Excel)...
+2025-11-05 12:23:18,139 - INFO - 📂 Iniciando sincronización completa Excel → SQLite...
+2025-11-05 12:23:18,140 - INFO - 📂 Iniciando lectura precisa del archivo: 01. Registro_Movimientos_Caja_Bancos_2025.xlsx
+2025-11-05 12:23:18,252 - INFO - 🧾 Hojas detectadas: B_Bcp_Soles, B_Bcp_Dolares, B_Interbank_Soles, B_Bbva_Soles, B_Banco_Nacion, C_Arequipa_Soles, C_Finanzas_Soles, Caja_Operativa, Ruben Bustamante, Walter A, Juber Monteza, Willian León, Juan Tarifa, Miguel Solis, Anthony Huamani, Nelson Quispe, Ronald Guizado
+2025-11-05 12:23:19,268 - INFO - ✅ 'B_Bcp_Soles' cargada con 3478 filas y 28 columnas.
+2025-11-05 12:23:19,479 - INFO - ✅ 'B_Bcp_Dolares' cargada con 340 filas y 28 columnas.
+2025-11-05 12:23:19,633 - INFO - ✅ 'B_Interbank_Soles' cargada con 144 filas y 28 columnas.
+2025-11-05 12:23:19,759 - INFO - ✅ 'B_Bbva_Soles' cargada con 40 filas y 28 columnas.
+2025-11-05 12:23:20,058 - INFO - ✅ 'B_Banco_Nacion' cargada con 722 filas y 28 columnas.
+2025-11-05 12:23:20,365 - INFO - ✅ 'C_Arequipa_Soles' cargada con 719 filas y 28 columnas.
+2025-11-05 12:23:20,679 - INFO - ✅ 'C_Finanzas_Soles' cargada con 776 filas y 28 columnas.
+2025-11-05 12:23:20,912 - INFO - ✅ 'Caja_Operativa' cargada con 422 filas y 28 columnas.
+2025-11-05 12:23:21,141 - INFO - ✅ 'Ruben Bustamante' cargada con 405 filas y 28 columnas.
+2025-11-05 12:23:21,328 - INFO - ✅ 'Walter A' cargada con 267 filas y 28 columnas.
+2025-11-05 12:23:21,513 - INFO - ✅ 'Juber Monteza' cargada con 262 filas y 28 columnas.
+2025-11-05 12:23:21,696 - INFO - ✅ 'Willian León' cargada con 225 filas y 28 columnas.
+2025-11-05 12:23:21,949 - INFO - ✅ 'Juan Tarifa' cargada con 440 filas y 28 columnas.
+2025-11-05 12:23:22,157 - INFO - ✅ 'Miguel Solis' cargada con 231 filas y 28 columnas.
+2025-11-05 12:23:22,374 - INFO - ✅ 'Anthony Huamani' cargada con 245 filas y 28 columnas.
+2025-11-05 12:23:22,544 - INFO - ✅ 'Nelson Quispe' cargada con 113 filas y 28 columnas.
+2025-11-05 12:23:22,677 - INFO - ✅ 'Ronald Guizado' cargada con 67 filas y 28 columnas.
+2025-11-05 12:23:22,677 - INFO - 📊 Total de hojas procesadas correctamente: 17
+2025-11-05 12:23:22,678 - INFO - 🧩 Procesando hoja 'B_Bcp_Soles' → tabla 'b_bcp_soles'...
+2025-11-05 12:23:22,717 - INFO - ✅ 'B_Bcp_Soles' guardada correctamente (3478 filas, 28 columnas).
+2025-11-05 12:23:22,717 - INFO - 🧩 Procesando hoja 'B_Bcp_Dolares' → tabla 'b_bcp_dolares'...
+2025-11-05 12:23:22,738 - INFO - ✅ 'B_Bcp_Dolares' guardada correctamente (340 filas, 28 columnas).
+2025-11-05 12:23:22,738 - INFO - 🧩 Procesando hoja 'B_Interbank_Soles' → tabla 'b_interbank_soles'...
+2025-11-05 12:23:22,760 - INFO - ✅ 'B_Interbank_Soles' guardada correctamente (144 filas, 28 columnas).
+2025-11-05 12:23:22,760 - INFO - 🧩 Procesando hoja 'B_Bbva_Soles' → tabla 'b_bbva_soles'...
+2025-11-05 12:23:22,781 - INFO - ✅ 'B_Bbva_Soles' guardada correctamente (40 filas, 28 columnas).
+2025-11-05 12:23:22,781 - INFO - 🧩 Procesando hoja 'B_Banco_Nacion' → tabla 'b_banco_nacion'...
+2025-11-05 12:23:22,804 - INFO - ✅ 'B_Banco_Nacion' guardada correctamente (722 filas, 28 columnas).
+2025-11-05 12:23:22,805 - INFO - 🧩 Procesando hoja 'C_Arequipa_Soles' → tabla 'c_arequipa_soles'...
+2025-11-05 12:23:22,830 - INFO - ✅ 'C_Arequipa_Soles' guardada correctamente (719 filas, 28 columnas).
+2025-11-05 12:23:22,830 - INFO - 🧩 Procesando hoja 'C_Finanzas_Soles' → tabla 'c_finanzas_soles'...
+2025-11-05 12:23:22,855 - INFO - ✅ 'C_Finanzas_Soles' guardada correctamente (776 filas, 28 columnas).
+2025-11-05 12:23:22,855 - INFO - 🧩 Procesando hoja 'Caja_Operativa' → tabla 'caja_operativa'...
+2025-11-05 12:23:22,877 - INFO - ✅ 'Caja_Operativa' guardada correctamente (422 filas, 28 columnas).
+2025-11-05 12:23:22,877 - INFO - 🧩 Procesando hoja 'Ruben Bustamante' → tabla 'ruben_bustamante'...
+2025-11-05 12:23:22,899 - INFO - ✅ 'Ruben Bustamante' guardada correctamente (405 filas, 28 columnas).
+2025-11-05 12:23:22,899 - INFO - 🧩 Procesando hoja 'Walter A' → tabla 'walter_a'...
+2025-11-05 12:23:22,920 - INFO - ✅ 'Walter A' guardada correctamente (267 filas, 28 columnas).
+2025-11-05 12:23:22,920 - INFO - 🧩 Procesando hoja 'Juber Monteza' → tabla 'juber_monteza'...
+2025-11-05 12:23:22,941 - INFO - ✅ 'Juber Monteza' guardada correctamente (262 filas, 28 columnas).
+2025-11-05 12:23:22,941 - INFO - 🧩 Procesando hoja 'Willian León' → tabla 'willian_leon'...
+2025-11-05 12:23:22,962 - INFO - ✅ 'Willian León' guardada correctamente (225 filas, 28 columnas).
+2025-11-05 12:23:22,962 - INFO - 🧩 Procesando hoja 'Juan Tarifa' → tabla 'juan_tarifa'...
+2025-11-05 12:23:22,988 - INFO - ✅ 'Juan Tarifa' guardada correctamente (440 filas, 28 columnas).
+2025-11-05 12:23:22,989 - INFO - 🧩 Procesando hoja 'Miguel Solis' → tabla 'miguel_solis'...
+2025-11-05 12:23:23,010 - INFO - ✅ 'Miguel Solis' guardada correctamente (231 filas, 28 columnas).
+2025-11-05 12:23:23,010 - INFO - 🧩 Procesando hoja 'Anthony Huamani' → tabla 'anthony_huamani'...
+2025-11-05 12:23:23,031 - INFO - ✅ 'Anthony Huamani' guardada correctamente (245 filas, 28 columnas).
+2025-11-05 12:23:23,031 - INFO - 🧩 Procesando hoja 'Nelson Quispe' → tabla 'nelson_quispe'...
+2025-11-05 12:23:23,053 - INFO - ✅ 'Nelson Quispe' guardada correctamente (113 filas, 28 columnas).
+2025-11-05 12:23:23,053 - INFO - 🧩 Procesando hoja 'Ronald Guizado' → tabla 'ronald_guizado'...
+2025-11-05 12:23:23,072 - INFO - ✅ 'Ronald Guizado' guardada correctamente (67 filas, 28 columnas).
+2025-11-05 12:23:23,073 - INFO - 🚀 Sincronización finalizada con éxito. Base actualizada 1:1 con el Excel.
+2025-11-05 12:23:23,082 - INFO - ✅ Sincronización completada correctamente. DataPulse está actualizado.
+2025-11-05 12:23:23,082 - INFO - 🏁 Proceso DataPulse finalizado (modo TEST SEGURO).
+
+2025-11-05 12:42:04,965 - INFO - 🚀 Iniciando ejecución completa de DataPulse (modo TEST SEGURO)
+2025-11-05 12:42:04,965 - INFO - 📘 Leyendo hojas desde el archivo Excel principal...
+2025-11-05 12:42:04,965 - INFO - 📂 Iniciando lectura exacta del archivo: 01. Registro_Movimientos_Caja_Bancos_2025.xlsx
+2025-11-05 12:42:05,072 - INFO - 🧾 Hojas detectadas: B_Bcp_Soles, B_Bcp_Dolares, B_Interbank_Soles, B_Bbva_Soles, B_Banco_Nacion, C_Arequipa_Soles, C_Finanzas_Soles, Caja_Operativa, Ruben Bustamante, Walter A, Juber Monteza, Willian León, Juan Tarifa, Miguel Solis, Anthony Huamani, Nelson Quispe, Ronald Guizado
+2025-11-05 12:42:06,261 - INFO - ✅ 'B_Bcp_Soles' leída con 3478 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:06,608 - INFO - ✅ 'B_Bcp_Dolares' leída con 340 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:06,923 - INFO - ✅ 'B_Interbank_Soles' leída con 144 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:07,205 - INFO - ✅ 'B_Bbva_Soles' leída con 40 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:07,674 - INFO - ✅ 'B_Banco_Nacion' leída con 722 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:08,136 - INFO - ✅ 'C_Arequipa_Soles' leída con 719 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:08,620 - INFO - ✅ 'C_Finanzas_Soles' leída con 776 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:09,022 - INFO - ✅ 'Caja_Operativa' leída con 422 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:09,410 - INFO - ✅ 'Ruben Bustamante' leída con 405 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:09,747 - INFO - ✅ 'Walter A' leída con 267 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:10,075 - INFO - ✅ 'Juber Monteza' leída con 262 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:10,395 - INFO - ✅ 'Willian León' leída con 225 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:10,772 - INFO - ✅ 'Juan Tarifa' leída con 440 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:11,108 - INFO - ✅ 'Miguel Solis' leída con 231 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:11,435 - INFO - ✅ 'Anthony Huamani' leída con 245 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:11,722 - INFO - ✅ 'Nelson Quispe' leída con 113 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:12,014 - INFO - ✅ 'Ronald Guizado' leída con 67 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:12,014 - INFO - 📊 Total de hojas procesadas correctamente: 17
+2025-11-05 12:42:12,014 - INFO - 🧱 Verificando estructura inicial de la base de datos...
+2025-11-05 12:42:12,014 - INFO - 📦 Iniciando volcado de datos en la base de datos...
+2025-11-05 12:42:12,015 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:42:12,058 - INFO - ✅ Tabla 'b_bcp_soles' actualizada con 3478 registros.
+2025-11-05 12:42:12,059 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:42:12,081 - INFO - ✅ Tabla 'b_bcp_dolares' actualizada con 340 registros.
+2025-11-05 12:42:12,082 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:42:12,102 - INFO - ✅ Tabla 'b_interbank_soles' actualizada con 144 registros.
+2025-11-05 12:42:12,102 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:42:12,122 - INFO - ✅ Tabla 'b_bbva_soles' actualizada con 40 registros.
+2025-11-05 12:42:12,122 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:42:12,144 - INFO - ✅ Tabla 'b_banco_nacion' actualizada con 722 registros.
+2025-11-05 12:42:12,145 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:42:12,167 - INFO - ✅ Tabla 'c_arequipa_soles' actualizada con 719 registros.
+2025-11-05 12:42:12,168 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:42:12,191 - INFO - ✅ Tabla 'c_finanzas_soles' actualizada con 776 registros.
+2025-11-05 12:42:12,191 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:42:12,212 - INFO - ✅ Tabla 'caja_operativa' actualizada con 422 registros.
+2025-11-05 12:42:12,213 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:42:12,234 - INFO - ✅ Tabla 'ruben_bustamante' actualizada con 405 registros.
+2025-11-05 12:42:12,235 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:42:12,256 - INFO - ✅ Tabla 'walter_a' actualizada con 267 registros.
+2025-11-05 12:42:12,257 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:42:12,277 - INFO - ✅ Tabla 'juber_monteza' actualizada con 262 registros.
+2025-11-05 12:42:12,278 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:42:12,298 - INFO - ✅ Tabla 'willian_leon' actualizada con 225 registros.
+2025-11-05 12:42:12,298 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:42:12,320 - INFO - ✅ Tabla 'juan_tarifa' actualizada con 440 registros.
+2025-11-05 12:42:12,320 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:42:12,341 - INFO - ✅ Tabla 'miguel_solis' actualizada con 231 registros.
+2025-11-05 12:42:12,341 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:42:12,362 - INFO - ✅ Tabla 'anthony_huamani' actualizada con 245 registros.
+2025-11-05 12:42:12,363 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:42:12,383 - INFO - ✅ Tabla 'nelson_quispe' actualizada con 113 registros.
+2025-11-05 12:42:12,384 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:42:12,404 - INFO - ✅ Tabla 'ronald_guizado' actualizada con 67 registros.
+2025-11-05 12:42:12,405 - INFO - 🚀 Base de datos sincronizada correctamente.
+2025-11-05 12:42:12,405 - INFO - 🔍 Analizando diferencias entre Excel y base de datos...
+2025-11-05 12:42:12,421 - INFO - 📦 Tabla 'b_bcp_soles' cargada desde la base (3478 filas).
+2025-11-05 12:42:15,369 - INFO - 🔍 Hoja 'B_Bcp_Soles' → +0 nuevos, -0 eliminados, ✏️ 96450 modificados.
+2025-11-05 12:42:15,373 - INFO - 📦 Tabla 'b_bcp_dolares' cargada desde la base (340 filas).
+2025-11-05 12:42:15,498 - INFO - 🔍 Hoja 'B_Bcp_Dolares' → +0 nuevos, -0 eliminados, ✏️ 3178 modificados.
+2025-11-05 12:42:15,501 - INFO - 📦 Tabla 'b_interbank_soles' cargada desde la base (144 filas).
+2025-11-05 12:42:15,544 - INFO - 🔍 Hoja 'B_Interbank_Soles' → +0 nuevos, -0 eliminados, ✏️ 632 modificados.
+2025-11-05 12:42:15,547 - INFO - 📦 Tabla 'b_bbva_soles' cargada desde la base (40 filas).
+2025-11-05 12:42:15,573 - INFO - 🔍 Hoja 'B_Bbva_Soles' → +0 nuevos, -0 eliminados, ✏️ 286 modificados.
+2025-11-05 12:42:15,579 - INFO - 📦 Tabla 'b_banco_nacion' cargada desde la base (722 filas).
+2025-11-05 12:42:16,005 - INFO - 🔍 Hoja 'B_Banco_Nacion' → +0 nuevos, -0 eliminados, ✏️ 14832 modificados.
+2025-11-05 12:42:16,009 - INFO - 📦 Tabla 'c_arequipa_soles' cargada desde la base (719 filas).
+2025-11-05 12:42:16,242 - INFO - 🔍 Hoja 'C_Arequipa_Soles' → +0 nuevos, -0 eliminados, ✏️ 6541 modificados.
+2025-11-05 12:42:16,247 - INFO - 📦 Tabla 'c_finanzas_soles' cargada desde la base (776 filas).
+2025-11-05 12:42:16,487 - INFO - 🔍 Hoja 'C_Finanzas_Soles' → +0 nuevos, -0 eliminados, ✏️ 7374 modificados.
+2025-11-05 12:42:16,491 - INFO - 📦 Tabla 'caja_operativa' cargada desde la base (422 filas).
+2025-11-05 12:42:16,671 - INFO - 🔍 Hoja 'Caja_Operativa' → +0 nuevos, -0 eliminados, ✏️ 5814 modificados.
+2025-11-05 12:42:16,674 - INFO - 📦 Tabla 'ruben_bustamante' cargada desde la base (405 filas).
+2025-11-05 12:42:16,752 - INFO - 🔍 Hoja 'Ruben Bustamante' → +0 nuevos, -0 eliminados, ✏️ 1393 modificados.
+2025-11-05 12:42:16,756 - INFO - 📦 Tabla 'walter_a' cargada desde la base (267 filas).
+2025-11-05 12:42:16,813 - INFO - 🔍 Hoja 'Walter A' → +0 nuevos, -0 eliminados, ✏️ 847 modificados.
+2025-11-05 12:42:16,816 - INFO - 📦 Tabla 'juber_monteza' cargada desde la base (262 filas).
+2025-11-05 12:42:16,882 - INFO - 🔍 Hoja 'Juber Monteza' → +0 nuevos, -0 eliminados, ✏️ 1472 modificados.
+2025-11-05 12:42:16,883 - INFO - ⚠️ No se pudo cargar 'willian_león': Execution failed on sql 'SELECT * FROM 'willian_león'': no such table: willian_león
+2025-11-05 12:42:16,884 - INFO - 🆕 Tabla 'willian_león' no existía. Todo se considera NUEVO: 225 filas.
+2025-11-05 12:42:16,888 - INFO - 📦 Tabla 'juan_tarifa' cargada desde la base (440 filas).
+2025-11-05 12:42:16,976 - INFO - 🔍 Hoja 'Juan Tarifa' → +0 nuevos, -0 eliminados, ✏️ 1960 modificados.
+2025-11-05 12:42:16,979 - INFO - 📦 Tabla 'miguel_solis' cargada desde la base (231 filas).
+2025-11-05 12:42:17,037 - INFO - 🔍 Hoja 'Miguel Solis' → +0 nuevos, -0 eliminados, ✏️ 995 modificados.
+2025-11-05 12:42:17,040 - INFO - 📦 Tabla 'anthony_huamani' cargada desde la base (245 filas).
+2025-11-05 12:42:17,093 - INFO - 🔍 Hoja 'Anthony Huamani' → +0 nuevos, -0 eliminados, ✏️ 829 modificados.
+2025-11-05 12:42:17,096 - INFO - 📦 Tabla 'nelson_quispe' cargada desde la base (113 filas).
+2025-11-05 12:42:17,127 - INFO - 🔍 Hoja 'Nelson Quispe' → +0 nuevos, -0 eliminados, ✏️ 241 modificados.
+2025-11-05 12:42:17,130 - INFO - 📦 Tabla 'ronald_guizado' cargada desde la base (67 filas).
+2025-11-05 12:42:17,153 - INFO - 🔍 Hoja 'Ronald Guizado' → +0 nuevos, -0 eliminados, ✏️ 101 modificados.
+2025-11-05 12:42:17,154 - INFO - 💾 Creando respaldo antes de aplicar cambios...
+2025-11-05 12:42:17,156 - INFO - 🧾 Respaldo creado: DataPulse_20251105_124217.sqlite
+2025-11-05 12:42:17,158 - INFO - 🗑️ Backup antiguo eliminado: DataPulse_20251104_120950.sqlite
+2025-11-05 12:42:17,158 - INFO - 📦 Respaldo generado correctamente: DataPulse_20251105_124217.sqlite
+2025-11-05 12:42:17,158 - INFO - 🧩 Iniciando sincronización hoja por hoja (1:1 estructura Excel)...
+2025-11-05 12:42:17,158 - INFO - 📂 Iniciando sincronización completa Excel → SQLite...
+2025-11-05 12:42:17,158 - INFO - 📂 Iniciando lectura exacta del archivo: 01. Registro_Movimientos_Caja_Bancos_2025.xlsx
+2025-11-05 12:42:17,284 - INFO - 🧾 Hojas detectadas: B_Bcp_Soles, B_Bcp_Dolares, B_Interbank_Soles, B_Bbva_Soles, B_Banco_Nacion, C_Arequipa_Soles, C_Finanzas_Soles, Caja_Operativa, Ruben Bustamante, Walter A, Juber Monteza, Willian León, Juan Tarifa, Miguel Solis, Anthony Huamani, Nelson Quispe, Ronald Guizado
+2025-11-05 12:42:18,483 - INFO - ✅ 'B_Bcp_Soles' leída con 3478 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:18,822 - INFO - ✅ 'B_Bcp_Dolares' leída con 340 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:19,124 - INFO - ✅ 'B_Interbank_Soles' leída con 144 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:19,410 - INFO - ✅ 'B_Bbva_Soles' leída con 40 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:19,834 - INFO - ✅ 'B_Banco_Nacion' leída con 722 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:20,310 - INFO - ✅ 'C_Arequipa_Soles' leída con 719 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:20,821 - INFO - ✅ 'C_Finanzas_Soles' leída con 776 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:21,217 - INFO - ✅ 'Caja_Operativa' leída con 422 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:21,730 - INFO - ✅ 'Ruben Bustamante' leída con 405 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:22,158 - INFO - ✅ 'Walter A' leída con 267 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:22,611 - INFO - ✅ 'Juber Monteza' leída con 262 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:23,012 - INFO - ✅ 'Willian León' leída con 225 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:23,467 - INFO - ✅ 'Juan Tarifa' leída con 440 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:23,898 - INFO - ✅ 'Miguel Solis' leída con 231 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:24,317 - INFO - ✅ 'Anthony Huamani' leída con 245 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:24,734 - INFO - ✅ 'Nelson Quispe' leída con 113 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:25,040 - INFO - ✅ 'Ronald Guizado' leída con 67 filas y 27 columnas (rango B:AB).
+2025-11-05 12:42:25,040 - INFO - 📊 Total de hojas procesadas correctamente: 17
+2025-11-05 12:42:25,041 - INFO - 🧩 Procesando hoja 'B_Bcp_Soles' → tabla 'b_bcp_soles'...
+2025-11-05 12:42:25,091 - INFO - ✅ 'B_Bcp_Soles' guardada correctamente (3478 filas, 27 columnas).
+2025-11-05 12:42:25,091 - INFO - 🧩 Procesando hoja 'B_Bcp_Dolares' → tabla 'b_bcp_dolares'...
+2025-11-05 12:42:25,115 - INFO - ✅ 'B_Bcp_Dolares' guardada correctamente (340 filas, 27 columnas).
+2025-11-05 12:42:25,116 - INFO - 🧩 Procesando hoja 'B_Interbank_Soles' → tabla 'b_interbank_soles'...
+2025-11-05 12:42:25,136 - INFO - ✅ 'B_Interbank_Soles' guardada correctamente (144 filas, 27 columnas).
+2025-11-05 12:42:25,136 - INFO - 🧩 Procesando hoja 'B_Bbva_Soles' → tabla 'b_bbva_soles'...
+2025-11-05 12:42:25,155 - INFO - ✅ 'B_Bbva_Soles' guardada correctamente (40 filas, 27 columnas).
+2025-11-05 12:42:25,156 - INFO - 🧩 Procesando hoja 'B_Banco_Nacion' → tabla 'b_banco_nacion'...
+2025-11-05 12:42:25,182 - INFO - ✅ 'B_Banco_Nacion' guardada correctamente (722 filas, 27 columnas).
+2025-11-05 12:42:25,182 - INFO - 🧩 Procesando hoja 'C_Arequipa_Soles' → tabla 'c_arequipa_soles'...
+2025-11-05 12:42:25,208 - INFO - ✅ 'C_Arequipa_Soles' guardada correctamente (719 filas, 27 columnas).
+2025-11-05 12:42:25,208 - INFO - 🧩 Procesando hoja 'C_Finanzas_Soles' → tabla 'c_finanzas_soles'...
+2025-11-05 12:42:25,236 - INFO - ✅ 'C_Finanzas_Soles' guardada correctamente (776 filas, 27 columnas).
+2025-11-05 12:42:25,236 - INFO - 🧩 Procesando hoja 'Caja_Operativa' → tabla 'caja_operativa'...
+2025-11-05 12:42:25,260 - INFO - ✅ 'Caja_Operativa' guardada correctamente (422 filas, 27 columnas).
+2025-11-05 12:42:25,260 - INFO - 🧩 Procesando hoja 'Ruben Bustamante' → tabla 'ruben_bustamante'...
+2025-11-05 12:42:25,285 - INFO - ✅ 'Ruben Bustamante' guardada correctamente (405 filas, 27 columnas).
+2025-11-05 12:42:25,286 - INFO - 🧩 Procesando hoja 'Walter A' → tabla 'walter_a'...
+2025-11-05 12:42:25,313 - INFO - ✅ 'Walter A' guardada correctamente (267 filas, 27 columnas).
+2025-11-05 12:42:25,313 - INFO - 🧩 Procesando hoja 'Juber Monteza' → tabla 'juber_monteza'...
+2025-11-05 12:42:25,338 - INFO - ✅ 'Juber Monteza' guardada correctamente (262 filas, 27 columnas).
+2025-11-05 12:42:25,338 - INFO - 🧩 Procesando hoja 'Willian León' → tabla 'willian_leon'...
+2025-11-05 12:42:25,362 - INFO - ✅ 'Willian León' guardada correctamente (225 filas, 27 columnas).
+2025-11-05 12:42:25,362 - INFO - 🧩 Procesando hoja 'Juan Tarifa' → tabla 'juan_tarifa'...
+2025-11-05 12:42:25,386 - INFO - ✅ 'Juan Tarifa' guardada correctamente (440 filas, 27 columnas).
+2025-11-05 12:42:25,387 - INFO - 🧩 Procesando hoja 'Miguel Solis' → tabla 'miguel_solis'...
+2025-11-05 12:42:25,409 - INFO - ✅ 'Miguel Solis' guardada correctamente (231 filas, 27 columnas).
+2025-11-05 12:42:25,409 - INFO - 🧩 Procesando hoja 'Anthony Huamani' → tabla 'anthony_huamani'...
+2025-11-05 12:42:25,444 - INFO - ✅ 'Anthony Huamani' guardada correctamente (245 filas, 27 columnas).
+2025-11-05 12:42:25,444 - INFO - 🧩 Procesando hoja 'Nelson Quispe' → tabla 'nelson_quispe'...
+2025-11-05 12:42:25,471 - INFO - ✅ 'Nelson Quispe' guardada correctamente (113 filas, 27 columnas).
+2025-11-05 12:42:25,471 - INFO - 🧩 Procesando hoja 'Ronald Guizado' → tabla 'ronald_guizado'...
+2025-11-05 12:42:25,493 - INFO - ✅ 'Ronald Guizado' guardada correctamente (67 filas, 27 columnas).
+2025-11-05 12:42:25,494 - INFO - 🚀 Sincronización finalizada con éxito. Base actualizada 1:1 con el Excel.
+2025-11-05 12:42:25,499 - INFO - ✅ Sincronización completada correctamente. DataPulse está actualizado.
+2025-11-05 12:42:25,499 - INFO - 🏁 Proceso DataPulse finalizado (modo TEST SEGURO).
+
+2025-11-05 12:54:56,603 - INFO - 🚀 Iniciando ejecución completa de DataPulse (modo TEST SEGURO)
+2025-11-05 12:54:56,603 - INFO - 📘 Leyendo hojas desde el archivo Excel principal...
+2025-11-05 12:54:56,604 - INFO - 📂 Iniciando lectura exacta del archivo: 01. Registro_Movimientos_Caja_Bancos_2025.xlsx
+2025-11-05 12:54:56,713 - INFO - 🧾 Hojas detectadas: B_Bcp_Soles, B_Bcp_Dolares, B_Interbank_Soles, B_Bbva_Soles, B_Banco_Nacion, C_Arequipa_Soles, C_Finanzas_Soles, Caja_Operativa, Ruben Bustamante, Walter A, Juber Monteza, Willian León, Juan Tarifa, Miguel Solis, Anthony Huamani, Nelson Quispe, Ronald Guizado
+2025-11-05 12:54:57,777 - INFO - ✅ 'B_Bcp_Soles' cargada con 3478 filas y 27 columnas.
+2025-11-05 12:54:58,007 - INFO - ✅ 'B_Bcp_Dolares' cargada con 340 filas y 27 columnas.
+2025-11-05 12:54:58,183 - INFO - ✅ 'B_Interbank_Soles' cargada con 144 filas y 27 columnas.
+2025-11-05 12:54:58,310 - INFO - ✅ 'B_Bbva_Soles' cargada con 40 filas y 27 columnas.
+2025-11-05 12:54:58,622 - INFO - ✅ 'B_Banco_Nacion' cargada con 722 filas y 21 columnas.
+2025-11-05 12:54:58,968 - INFO - ✅ 'C_Arequipa_Soles' cargada con 719 filas y 27 columnas.
+2025-11-05 12:54:59,321 - INFO - ✅ 'C_Finanzas_Soles' cargada con 776 filas y 27 columnas.
+2025-11-05 12:54:59,321 - INFO - ⚠️ 'Caja_Operativa' no tiene cabeceras definidas. Usando lectura automática.
+2025-11-05 12:54:59,513 - INFO - ✅ 'Caja_Operativa' cargada con 422 filas y 28 columnas.
+2025-11-05 12:54:59,864 - INFO - ✅ 'Ruben Bustamante' cargada con 405 filas y 27 columnas.
+2025-11-05 12:55:00,088 - INFO - ✅ 'Walter A' cargada con 267 filas y 27 columnas.
+2025-11-05 12:55:00,308 - INFO - ✅ 'Juber Monteza' cargada con 262 filas y 27 columnas.
+2025-11-05 12:55:00,308 - INFO - ⚠️ 'Willian León' no tiene cabeceras definidas. Usando lectura automática.
+2025-11-05 12:55:00,463 - INFO - ✅ 'Willian León' cargada con 225 filas y 28 columnas.
+2025-11-05 12:55:00,753 - INFO - ✅ 'Juan Tarifa' cargada con 440 filas y 27 columnas.
+2025-11-05 12:55:00,961 - INFO - ✅ 'Miguel Solis' cargada con 231 filas y 27 columnas.
+2025-11-05 12:55:01,152 - INFO - ✅ 'Anthony Huamani' cargada con 245 filas y 27 columnas.
+2025-11-05 12:55:01,307 - INFO - ✅ 'Nelson Quispe' cargada con 113 filas y 27 columnas.
+2025-11-05 12:55:01,450 - INFO - ✅ 'Ronald Guizado' cargada con 67 filas y 27 columnas.
+2025-11-05 12:55:01,450 - INFO - 📊 Total de hojas procesadas correctamente: 17
+2025-11-05 12:55:01,450 - INFO - 🧱 Verificando estructura inicial de la base de datos...
+2025-11-05 12:55:01,451 - INFO - 📦 Iniciando volcado de datos en la base de datos...
+2025-11-05 12:55:01,452 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:01,497 - INFO - ✅ Tabla 'b_bcp_soles' actualizada con 3478 registros.
+2025-11-05 12:55:01,498 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:01,520 - INFO - ✅ Tabla 'b_bcp_dolares' actualizada con 340 registros.
+2025-11-05 12:55:01,521 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:01,541 - INFO - ✅ Tabla 'b_interbank_soles' actualizada con 144 registros.
+2025-11-05 12:55:01,542 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:01,561 - INFO - ✅ Tabla 'b_bbva_soles' actualizada con 40 registros.
+2025-11-05 12:55:01,562 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:01,587 - INFO - ✅ Tabla 'b_banco_nacion' actualizada con 722 registros.
+2025-11-05 12:55:01,587 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:01,610 - INFO - ✅ Tabla 'c_arequipa_soles' actualizada con 719 registros.
+2025-11-05 12:55:01,611 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:01,635 - INFO - ✅ Tabla 'c_finanzas_soles' actualizada con 776 registros.
+2025-11-05 12:55:01,636 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:01,657 - INFO - ✅ Tabla 'caja_operativa' actualizada con 422 registros.
+2025-11-05 12:55:01,658 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:01,680 - INFO - ✅ Tabla 'ruben_bustamante' actualizada con 405 registros.
+2025-11-05 12:55:01,681 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:01,702 - INFO - ✅ Tabla 'walter_a' actualizada con 267 registros.
+2025-11-05 12:55:01,703 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:01,724 - INFO - ✅ Tabla 'juber_monteza' actualizada con 262 registros.
+2025-11-05 12:55:01,725 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:01,746 - INFO - ✅ Tabla 'willian_leon' actualizada con 225 registros.
+2025-11-05 12:55:01,747 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:01,769 - INFO - ✅ Tabla 'juan_tarifa' actualizada con 440 registros.
+2025-11-05 12:55:01,770 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:01,790 - INFO - ✅ Tabla 'miguel_solis' actualizada con 231 registros.
+2025-11-05 12:55:01,791 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:01,812 - INFO - ✅ Tabla 'anthony_huamani' actualizada con 245 registros.
+2025-11-05 12:55:01,812 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:01,832 - INFO - ✅ Tabla 'nelson_quispe' actualizada con 113 registros.
+2025-11-05 12:55:01,833 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:01,853 - INFO - ✅ Tabla 'ronald_guizado' actualizada con 67 registros.
+2025-11-05 12:55:01,854 - INFO - 🚀 Base de datos sincronizada correctamente.
+2025-11-05 12:55:01,854 - INFO - 🔍 Analizando diferencias entre Excel y base de datos...
+2025-11-05 12:55:01,874 - INFO - 📦 Tabla 'b_bcp_soles' cargada desde la base (3478 filas).
+2025-11-05 12:55:04,879 - INFO - 🔍 Hoja 'B_Bcp_Soles' → +0 nuevos, -0 eliminados, ✏️ 96450 modificados.
+2025-11-05 12:55:04,882 - INFO - 📦 Tabla 'b_bcp_dolares' cargada desde la base (340 filas).
+2025-11-05 12:55:05,001 - INFO - 🔍 Hoja 'B_Bcp_Dolares' → +0 nuevos, -0 eliminados, ✏️ 3178 modificados.
+2025-11-05 12:55:05,004 - INFO - 📦 Tabla 'b_interbank_soles' cargada desde la base (144 filas).
+2025-11-05 12:55:05,049 - INFO - 🔍 Hoja 'B_Interbank_Soles' → +0 nuevos, -0 eliminados, ✏️ 632 modificados.
+2025-11-05 12:55:05,051 - INFO - 📦 Tabla 'b_bbva_soles' cargada desde la base (40 filas).
+2025-11-05 12:55:05,082 - INFO - 🔍 Hoja 'B_Bbva_Soles' → +0 nuevos, -0 eliminados, ✏️ 286 modificados.
+2025-11-05 12:55:05,086 - INFO - 📦 Tabla 'b_banco_nacion' cargada desde la base (722 filas).
+2025-11-05 12:55:05,497 - INFO - 🔍 Hoja 'B_Banco_Nacion' → +0 nuevos, -0 eliminados, ✏️ 14832 modificados.
+2025-11-05 12:55:05,501 - INFO - 📦 Tabla 'c_arequipa_soles' cargada desde la base (719 filas).
+2025-11-05 12:55:05,728 - INFO - 🔍 Hoja 'C_Arequipa_Soles' → +0 nuevos, -0 eliminados, ✏️ 6541 modificados.
+2025-11-05 12:55:05,733 - INFO - 📦 Tabla 'c_finanzas_soles' cargada desde la base (776 filas).
+2025-11-05 12:55:05,973 - INFO - 🔍 Hoja 'C_Finanzas_Soles' → +0 nuevos, -0 eliminados, ✏️ 7374 modificados.
+2025-11-05 12:55:05,977 - INFO - 📦 Tabla 'caja_operativa' cargada desde la base (422 filas).
+2025-11-05 12:55:06,149 - INFO - 🔍 Hoja 'Caja_Operativa' → +0 nuevos, -0 eliminados, ✏️ 5814 modificados.
+2025-11-05 12:55:06,153 - INFO - 📦 Tabla 'ruben_bustamante' cargada desde la base (405 filas).
+2025-11-05 12:55:06,233 - INFO - 🔍 Hoja 'Ruben Bustamante' → +0 nuevos, -0 eliminados, ✏️ 1393 modificados.
+2025-11-05 12:55:06,236 - INFO - 📦 Tabla 'walter_a' cargada desde la base (267 filas).
+2025-11-05 12:55:06,290 - INFO - 🔍 Hoja 'Walter A' → +0 nuevos, -0 eliminados, ✏️ 847 modificados.
+2025-11-05 12:55:06,294 - INFO - 📦 Tabla 'juber_monteza' cargada desde la base (262 filas).
+2025-11-05 12:55:06,361 - INFO - 🔍 Hoja 'Juber Monteza' → +0 nuevos, -0 eliminados, ✏️ 1472 modificados.
+2025-11-05 12:55:06,362 - INFO - ⚠️ No se pudo cargar 'willian_león': Execution failed on sql 'SELECT * FROM 'willian_león'': no such table: willian_león
+2025-11-05 12:55:06,363 - INFO - 🆕 Tabla 'willian_león' no existía. Todo se considera NUEVO: 225 filas.
+2025-11-05 12:55:06,367 - INFO - 📦 Tabla 'juan_tarifa' cargada desde la base (440 filas).
+2025-11-05 12:55:06,456 - INFO - 🔍 Hoja 'Juan Tarifa' → +0 nuevos, -0 eliminados, ✏️ 1960 modificados.
+2025-11-05 12:55:06,459 - INFO - 📦 Tabla 'miguel_solis' cargada desde la base (231 filas).
+2025-11-05 12:55:06,513 - INFO - 🔍 Hoja 'Miguel Solis' → +0 nuevos, -0 eliminados, ✏️ 995 modificados.
+2025-11-05 12:55:06,516 - INFO - 📦 Tabla 'anthony_huamani' cargada desde la base (245 filas).
+2025-11-05 12:55:06,567 - INFO - 🔍 Hoja 'Anthony Huamani' → +0 nuevos, -0 eliminados, ✏️ 829 modificados.
+2025-11-05 12:55:06,570 - INFO - 📦 Tabla 'nelson_quispe' cargada desde la base (113 filas).
+2025-11-05 12:55:06,601 - INFO - 🔍 Hoja 'Nelson Quispe' → +0 nuevos, -0 eliminados, ✏️ 241 modificados.
+2025-11-05 12:55:06,604 - INFO - 📦 Tabla 'ronald_guizado' cargada desde la base (67 filas).
+2025-11-05 12:55:06,628 - INFO - 🔍 Hoja 'Ronald Guizado' → +0 nuevos, -0 eliminados, ✏️ 101 modificados.
+2025-11-05 12:55:06,629 - INFO - 💾 Creando respaldo antes de aplicar cambios...
+2025-11-05 12:55:06,632 - INFO - 🧾 Respaldo creado: DataPulse_20251105_125506.sqlite
+2025-11-05 12:55:06,633 - INFO - 🗑️ Backup antiguo eliminado: DataPulse_20251104_201626.sqlite
+2025-11-05 12:55:06,633 - INFO - 📦 Respaldo generado correctamente: DataPulse_20251105_125506.sqlite
+2025-11-05 12:55:06,633 - INFO - 🧩 Iniciando sincronización hoja por hoja (1:1 estructura Excel)...
+2025-11-05 12:55:06,633 - INFO - 📂 Iniciando sincronización completa Excel → SQLite...
+2025-11-05 12:55:06,633 - INFO - 📂 Iniciando lectura exacta del archivo: 01. Registro_Movimientos_Caja_Bancos_2025.xlsx
+2025-11-05 12:55:06,757 - INFO - 🧾 Hojas detectadas: B_Bcp_Soles, B_Bcp_Dolares, B_Interbank_Soles, B_Bbva_Soles, B_Banco_Nacion, C_Arequipa_Soles, C_Finanzas_Soles, Caja_Operativa, Ruben Bustamante, Walter A, Juber Monteza, Willian León, Juan Tarifa, Miguel Solis, Anthony Huamani, Nelson Quispe, Ronald Guizado
+2025-11-05 12:55:07,901 - INFO - ✅ 'B_Bcp_Soles' cargada con 3478 filas y 27 columnas.
+2025-11-05 12:55:08,130 - INFO - ✅ 'B_Bcp_Dolares' cargada con 340 filas y 27 columnas.
+2025-11-05 12:55:08,300 - INFO - ✅ 'B_Interbank_Soles' cargada con 144 filas y 27 columnas.
+2025-11-05 12:55:08,439 - INFO - ✅ 'B_Bbva_Soles' cargada con 40 filas y 27 columnas.
+2025-11-05 12:55:08,778 - INFO - ✅ 'B_Banco_Nacion' cargada con 722 filas y 21 columnas.
+2025-11-05 12:55:09,127 - INFO - ✅ 'C_Arequipa_Soles' cargada con 719 filas y 27 columnas.
+2025-11-05 12:55:09,473 - INFO - ✅ 'C_Finanzas_Soles' cargada con 776 filas y 27 columnas.
+2025-11-05 12:55:09,473 - INFO - ⚠️ 'Caja_Operativa' no tiene cabeceras definidas. Usando lectura automática.
+2025-11-05 12:55:09,659 - INFO - ✅ 'Caja_Operativa' cargada con 422 filas y 28 columnas.
+2025-11-05 12:55:09,893 - INFO - ✅ 'Ruben Bustamante' cargada con 405 filas y 27 columnas.
+2025-11-05 12:55:10,101 - INFO - ✅ 'Walter A' cargada con 267 filas y 27 columnas.
+2025-11-05 12:55:10,318 - INFO - ✅ 'Juber Monteza' cargada con 262 filas y 27 columnas.
+2025-11-05 12:55:10,319 - INFO - ⚠️ 'Willian León' no tiene cabeceras definidas. Usando lectura automática.
+2025-11-05 12:55:10,468 - INFO - ✅ 'Willian León' cargada con 225 filas y 28 columnas.
+2025-11-05 12:55:10,718 - INFO - ✅ 'Juan Tarifa' cargada con 440 filas y 27 columnas.
+2025-11-05 12:55:10,928 - INFO - ✅ 'Miguel Solis' cargada con 231 filas y 27 columnas.
+2025-11-05 12:55:11,121 - INFO - ✅ 'Anthony Huamani' cargada con 245 filas y 27 columnas.
+2025-11-05 12:55:11,284 - INFO - ✅ 'Nelson Quispe' cargada con 113 filas y 27 columnas.
+2025-11-05 12:55:11,453 - INFO - ✅ 'Ronald Guizado' cargada con 67 filas y 27 columnas.
+2025-11-05 12:55:11,453 - INFO - 📊 Total de hojas procesadas correctamente: 17
+2025-11-05 12:55:11,453 - INFO - 🧩 Procesando hoja 'B_Bcp_Soles' → tabla 'b_bcp_soles'...
+2025-11-05 12:55:11,489 - INFO - ✅ 'B_Bcp_Soles' guardada correctamente (3478 filas, 27 columnas).
+2025-11-05 12:55:11,490 - INFO - 🧩 Procesando hoja 'B_Bcp_Dolares' → tabla 'b_bcp_dolares'...
+2025-11-05 12:55:11,511 - INFO - ✅ 'B_Bcp_Dolares' guardada correctamente (340 filas, 27 columnas).
+2025-11-05 12:55:11,511 - INFO - 🧩 Procesando hoja 'B_Interbank_Soles' → tabla 'b_interbank_soles'...
+2025-11-05 12:55:11,532 - INFO - ✅ 'B_Interbank_Soles' guardada correctamente (144 filas, 27 columnas).
+2025-11-05 12:55:11,533 - INFO - 🧩 Procesando hoja 'B_Bbva_Soles' → tabla 'b_bbva_soles'...
+2025-11-05 12:55:11,553 - INFO - ✅ 'B_Bbva_Soles' guardada correctamente (40 filas, 27 columnas).
+2025-11-05 12:55:11,553 - INFO - 🧩 Procesando hoja 'B_Banco_Nacion' → tabla 'b_banco_nacion'...
+2025-11-05 12:55:11,577 - INFO - ✅ 'B_Banco_Nacion' guardada correctamente (722 filas, 21 columnas).
+2025-11-05 12:55:11,578 - INFO - 🧩 Procesando hoja 'C_Arequipa_Soles' → tabla 'c_arequipa_soles'...
+2025-11-05 12:55:11,601 - INFO - ✅ 'C_Arequipa_Soles' guardada correctamente (719 filas, 27 columnas).
+2025-11-05 12:55:11,601 - INFO - 🧩 Procesando hoja 'C_Finanzas_Soles' → tabla 'c_finanzas_soles'...
+2025-11-05 12:55:11,626 - INFO - ✅ 'C_Finanzas_Soles' guardada correctamente (776 filas, 27 columnas).
+2025-11-05 12:55:11,626 - INFO - 🧩 Procesando hoja 'Caja_Operativa' → tabla 'caja_operativa'...
+2025-11-05 12:55:11,647 - INFO - ✅ 'Caja_Operativa' guardada correctamente (422 filas, 28 columnas).
+2025-11-05 12:55:11,648 - INFO - 🧩 Procesando hoja 'Ruben Bustamante' → tabla 'ruben_bustamante'...
+2025-11-05 12:55:11,669 - INFO - ✅ 'Ruben Bustamante' guardada correctamente (405 filas, 27 columnas).
+2025-11-05 12:55:11,669 - INFO - 🧩 Procesando hoja 'Walter A' → tabla 'walter_a'...
+2025-11-05 12:55:11,691 - INFO - ✅ 'Walter A' guardada correctamente (267 filas, 27 columnas).
+2025-11-05 12:55:11,691 - INFO - 🧩 Procesando hoja 'Juber Monteza' → tabla 'juber_monteza'...
+2025-11-05 12:55:11,712 - INFO - ✅ 'Juber Monteza' guardada correctamente (262 filas, 27 columnas).
+2025-11-05 12:55:11,712 - INFO - 🧩 Procesando hoja 'Willian León' → tabla 'willian_leon'...
+2025-11-05 12:55:11,733 - INFO - ✅ 'Willian León' guardada correctamente (225 filas, 28 columnas).
+2025-11-05 12:55:11,733 - INFO - 🧩 Procesando hoja 'Juan Tarifa' → tabla 'juan_tarifa'...
+2025-11-05 12:55:11,756 - INFO - ✅ 'Juan Tarifa' guardada correctamente (440 filas, 27 columnas).
+2025-11-05 12:55:11,756 - INFO - 🧩 Procesando hoja 'Miguel Solis' → tabla 'miguel_solis'...
+2025-11-05 12:55:11,777 - INFO - ✅ 'Miguel Solis' guardada correctamente (231 filas, 27 columnas).
+2025-11-05 12:55:11,777 - INFO - 🧩 Procesando hoja 'Anthony Huamani' → tabla 'anthony_huamani'...
+2025-11-05 12:55:11,798 - INFO - ✅ 'Anthony Huamani' guardada correctamente (245 filas, 27 columnas).
+2025-11-05 12:55:11,799 - INFO - 🧩 Procesando hoja 'Nelson Quispe' → tabla 'nelson_quispe'...
+2025-11-05 12:55:11,819 - INFO - ✅ 'Nelson Quispe' guardada correctamente (113 filas, 27 columnas).
+2025-11-05 12:55:11,819 - INFO - 🧩 Procesando hoja 'Ronald Guizado' → tabla 'ronald_guizado'...
+2025-11-05 12:55:11,839 - INFO - ✅ 'Ronald Guizado' guardada correctamente (67 filas, 27 columnas).
+2025-11-05 12:55:11,840 - INFO - 🚀 Sincronización finalizada con éxito. Base actualizada 1:1 con el Excel.
+2025-11-05 12:55:11,844 - INFO - ✅ Sincronización completada correctamente. DataPulse está actualizado.
+2025-11-05 12:55:11,844 - INFO - 🏁 Proceso DataPulse finalizado (modo TEST SEGURO).
+
+2025-11-05 12:55:29,501 - INFO - 🚀 Iniciando ejecución completa de DataPulse (modo TEST SEGURO)
+2025-11-05 12:55:29,502 - INFO - 📘 Leyendo hojas desde el archivo Excel principal...
+2025-11-05 12:55:29,502 - INFO - 📂 Iniciando lectura exacta del archivo: 01. Registro_Movimientos_Caja_Bancos_2025.xlsx
+2025-11-05 12:55:29,609 - INFO - 🧾 Hojas detectadas: B_Bcp_Soles, B_Bcp_Dolares, B_Interbank_Soles, B_Bbva_Soles, B_Banco_Nacion, C_Arequipa_Soles, C_Finanzas_Soles, Caja_Operativa, Ruben Bustamante, Walter A, Juber Monteza, Willian León, Juan Tarifa, Miguel Solis, Anthony Huamani, Nelson Quispe, Ronald Guizado
+2025-11-05 12:55:30,663 - INFO - ✅ 'B_Bcp_Soles' cargada con 3478 filas y 27 columnas.
+2025-11-05 12:55:30,882 - INFO - ✅ 'B_Bcp_Dolares' cargada con 340 filas y 27 columnas.
+2025-11-05 12:55:31,054 - INFO - ✅ 'B_Interbank_Soles' cargada con 144 filas y 27 columnas.
+2025-11-05 12:55:31,182 - INFO - ✅ 'B_Bbva_Soles' cargada con 40 filas y 27 columnas.
+2025-11-05 12:55:31,495 - INFO - ✅ 'B_Banco_Nacion' cargada con 722 filas y 21 columnas.
+2025-11-05 12:55:31,825 - INFO - ✅ 'C_Arequipa_Soles' cargada con 719 filas y 27 columnas.
+2025-11-05 12:55:32,150 - INFO - ✅ 'C_Finanzas_Soles' cargada con 776 filas y 27 columnas.
+2025-11-05 12:55:32,150 - INFO - ⚠️ 'Caja_Operativa' no tiene cabeceras definidas. Usando lectura automática.
+2025-11-05 12:55:32,318 - INFO - ✅ 'Caja_Operativa' cargada con 422 filas y 28 columnas.
+2025-11-05 12:55:32,569 - INFO - ✅ 'Ruben Bustamante' cargada con 405 filas y 27 columnas.
+2025-11-05 12:55:32,761 - INFO - ✅ 'Walter A' cargada con 267 filas y 27 columnas.
+2025-11-05 12:55:32,956 - INFO - ✅ 'Juber Monteza' cargada con 262 filas y 27 columnas.
+2025-11-05 12:55:32,956 - INFO - ⚠️ 'Willian León' no tiene cabeceras definidas. Usando lectura automática.
+2025-11-05 12:55:33,114 - INFO - ✅ 'Willian León' cargada con 225 filas y 28 columnas.
+2025-11-05 12:55:33,357 - INFO - ✅ 'Juan Tarifa' cargada con 440 filas y 27 columnas.
+2025-11-05 12:55:33,579 - INFO - ✅ 'Miguel Solis' cargada con 231 filas y 27 columnas.
+2025-11-05 12:55:33,791 - INFO - ✅ 'Anthony Huamani' cargada con 245 filas y 27 columnas.
+2025-11-05 12:55:33,938 - INFO - ✅ 'Nelson Quispe' cargada con 113 filas y 27 columnas.
+2025-11-05 12:55:34,092 - INFO - ✅ 'Ronald Guizado' cargada con 67 filas y 27 columnas.
+2025-11-05 12:55:34,092 - INFO - 📊 Total de hojas procesadas correctamente: 17
+2025-11-05 12:55:34,092 - INFO - 🧱 Verificando estructura inicial de la base de datos...
+2025-11-05 12:55:34,093 - INFO - 📦 Iniciando volcado de datos en la base de datos...
+2025-11-05 12:55:34,093 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:34,141 - INFO - ✅ Tabla 'b_bcp_soles' actualizada con 3478 registros.
+2025-11-05 12:55:34,142 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:34,169 - INFO - ✅ Tabla 'b_bcp_dolares' actualizada con 340 registros.
+2025-11-05 12:55:34,170 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:34,190 - INFO - ✅ Tabla 'b_interbank_soles' actualizada con 144 registros.
+2025-11-05 12:55:34,191 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:34,211 - INFO - ✅ Tabla 'b_bbva_soles' actualizada con 40 registros.
+2025-11-05 12:55:34,211 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:34,237 - INFO - ✅ Tabla 'b_banco_nacion' actualizada con 722 registros.
+2025-11-05 12:55:34,238 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:34,263 - INFO - ✅ Tabla 'c_arequipa_soles' actualizada con 719 registros.
+2025-11-05 12:55:34,264 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:34,288 - INFO - ✅ Tabla 'c_finanzas_soles' actualizada con 776 registros.
+2025-11-05 12:55:34,289 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:34,311 - INFO - ✅ Tabla 'caja_operativa' actualizada con 422 registros.
+2025-11-05 12:55:34,312 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:34,334 - INFO - ✅ Tabla 'ruben_bustamante' actualizada con 405 registros.
+2025-11-05 12:55:34,335 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:34,357 - INFO - ✅ Tabla 'walter_a' actualizada con 267 registros.
+2025-11-05 12:55:34,358 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:34,378 - INFO - ✅ Tabla 'juber_monteza' actualizada con 262 registros.
+2025-11-05 12:55:34,379 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:34,410 - INFO - ✅ Tabla 'willian_leon' actualizada con 225 registros.
+2025-11-05 12:55:34,411 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:34,434 - INFO - ✅ Tabla 'juan_tarifa' actualizada con 440 registros.
+2025-11-05 12:55:34,434 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:34,456 - INFO - ✅ Tabla 'miguel_solis' actualizada con 231 registros.
+2025-11-05 12:55:34,456 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:34,478 - INFO - ✅ Tabla 'anthony_huamani' actualizada con 245 registros.
+2025-11-05 12:55:34,479 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:34,500 - INFO - ✅ Tabla 'nelson_quispe' actualizada con 113 registros.
+2025-11-05 12:55:34,501 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 12:55:34,521 - INFO - ✅ Tabla 'ronald_guizado' actualizada con 67 registros.
+2025-11-05 12:55:34,521 - INFO - 🚀 Base de datos sincronizada correctamente.
+2025-11-05 12:55:34,521 - INFO - 🔍 Analizando diferencias entre Excel y base de datos...
+2025-11-05 12:55:34,542 - INFO - 📦 Tabla 'b_bcp_soles' cargada desde la base (3478 filas).
+2025-11-05 12:55:37,734 - INFO - 🔍 Hoja 'B_Bcp_Soles' → +0 nuevos, -0 eliminados, ✏️ 96450 modificados.
+2025-11-05 12:55:37,737 - INFO - 📦 Tabla 'b_bcp_dolares' cargada desde la base (340 filas).
+2025-11-05 12:55:37,849 - INFO - 🔍 Hoja 'B_Bcp_Dolares' → +0 nuevos, -0 eliminados, ✏️ 3178 modificados.
+2025-11-05 12:55:37,852 - INFO - 📦 Tabla 'b_interbank_soles' cargada desde la base (144 filas).
+2025-11-05 12:55:37,892 - INFO - 🔍 Hoja 'B_Interbank_Soles' → +0 nuevos, -0 eliminados, ✏️ 632 modificados.
+2025-11-05 12:55:37,895 - INFO - 📦 Tabla 'b_bbva_soles' cargada desde la base (40 filas).
+2025-11-05 12:55:37,925 - INFO - 🔍 Hoja 'B_Bbva_Soles' → +0 nuevos, -0 eliminados, ✏️ 286 modificados.
+2025-11-05 12:55:37,929 - INFO - 📦 Tabla 'b_banco_nacion' cargada desde la base (722 filas).
+2025-11-05 12:55:38,329 - INFO - 🔍 Hoja 'B_Banco_Nacion' → +0 nuevos, -0 eliminados, ✏️ 14832 modificados.
+2025-11-05 12:55:38,333 - INFO - 📦 Tabla 'c_arequipa_soles' cargada desde la base (719 filas).
+2025-11-05 12:55:38,549 - INFO - 🔍 Hoja 'C_Arequipa_Soles' → +0 nuevos, -0 eliminados, ✏️ 6541 modificados.
+2025-11-05 12:55:38,553 - INFO - 📦 Tabla 'c_finanzas_soles' cargada desde la base (776 filas).
+2025-11-05 12:55:38,784 - INFO - 🔍 Hoja 'C_Finanzas_Soles' → +0 nuevos, -0 eliminados, ✏️ 7374 modificados.
+2025-11-05 12:55:38,788 - INFO - 📦 Tabla 'caja_operativa' cargada desde la base (422 filas).
+2025-11-05 12:55:38,965 - INFO - 🔍 Hoja 'Caja_Operativa' → +0 nuevos, -0 eliminados, ✏️ 5814 modificados.
+2025-11-05 12:55:38,968 - INFO - 📦 Tabla 'ruben_bustamante' cargada desde la base (405 filas).
+2025-11-05 12:55:39,043 - INFO - 🔍 Hoja 'Ruben Bustamante' → +0 nuevos, -0 eliminados, ✏️ 1393 modificados.
+2025-11-05 12:55:39,046 - INFO - 📦 Tabla 'walter_a' cargada desde la base (267 filas).
+2025-11-05 12:55:39,100 - INFO - 🔍 Hoja 'Walter A' → +0 nuevos, -0 eliminados, ✏️ 847 modificados.
+2025-11-05 12:55:39,103 - INFO - 📦 Tabla 'juber_monteza' cargada desde la base (262 filas).
+2025-11-05 12:55:39,176 - INFO - 🔍 Hoja 'Juber Monteza' → +0 nuevos, -0 eliminados, ✏️ 1472 modificados.
+2025-11-05 12:55:39,177 - INFO - ⚠️ No se pudo cargar 'willian_león': Execution failed on sql 'SELECT * FROM 'willian_león'': no such table: willian_león
+2025-11-05 12:55:39,178 - INFO - 🆕 Tabla 'willian_león' no existía. Todo se considera NUEVO: 225 filas.
+2025-11-05 12:55:39,182 - INFO - 📦 Tabla 'juan_tarifa' cargada desde la base (440 filas).
+2025-11-05 12:55:39,278 - INFO - 🔍 Hoja 'Juan Tarifa' → +0 nuevos, -0 eliminados, ✏️ 1960 modificados.
+2025-11-05 12:55:39,281 - INFO - 📦 Tabla 'miguel_solis' cargada desde la base (231 filas).
+2025-11-05 12:55:39,338 - INFO - 🔍 Hoja 'Miguel Solis' → +0 nuevos, -0 eliminados, ✏️ 995 modificados.
+2025-11-05 12:55:39,342 - INFO - 📦 Tabla 'anthony_huamani' cargada desde la base (245 filas).
+2025-11-05 12:55:39,393 - INFO - 🔍 Hoja 'Anthony Huamani' → +0 nuevos, -0 eliminados, ✏️ 829 modificados.
+2025-11-05 12:55:39,396 - INFO - 📦 Tabla 'nelson_quispe' cargada desde la base (113 filas).
+2025-11-05 12:55:39,427 - INFO - 🔍 Hoja 'Nelson Quispe' → +0 nuevos, -0 eliminados, ✏️ 241 modificados.
+2025-11-05 12:55:39,429 - INFO - 📦 Tabla 'ronald_guizado' cargada desde la base (67 filas).
+2025-11-05 12:55:39,454 - INFO - 🔍 Hoja 'Ronald Guizado' → +0 nuevos, -0 eliminados, ✏️ 101 modificados.
+2025-11-05 12:55:39,454 - INFO - 💾 Creando respaldo antes de aplicar cambios...
+2025-11-05 12:55:39,457 - INFO - 🧾 Respaldo creado: DataPulse_20251105_125539.sqlite
+2025-11-05 12:55:39,458 - INFO - 🗑️ Backup antiguo eliminado: DataPulse_20251104_202727.sqlite
+2025-11-05 12:55:39,458 - INFO - 📦 Respaldo generado correctamente: DataPulse_20251105_125539.sqlite
+2025-11-05 12:55:39,458 - INFO - 🧩 Iniciando sincronización hoja por hoja (1:1 estructura Excel)...
+2025-11-05 12:55:39,458 - INFO - 📂 Iniciando sincronización completa Excel → SQLite...
+2025-11-05 12:55:39,459 - INFO - 📂 Iniciando lectura exacta del archivo: 01. Registro_Movimientos_Caja_Bancos_2025.xlsx
+2025-11-05 12:55:39,578 - INFO - 🧾 Hojas detectadas: B_Bcp_Soles, B_Bcp_Dolares, B_Interbank_Soles, B_Bbva_Soles, B_Banco_Nacion, C_Arequipa_Soles, C_Finanzas_Soles, Caja_Operativa, Ruben Bustamante, Walter A, Juber Monteza, Willian León, Juan Tarifa, Miguel Solis, Anthony Huamani, Nelson Quispe, Ronald Guizado
+2025-11-05 12:55:40,663 - INFO - ✅ 'B_Bcp_Soles' cargada con 3478 filas y 27 columnas.
+2025-11-05 12:55:40,872 - INFO - ✅ 'B_Bcp_Dolares' cargada con 340 filas y 27 columnas.
+2025-11-05 12:55:41,036 - INFO - ✅ 'B_Interbank_Soles' cargada con 144 filas y 27 columnas.
+2025-11-05 12:55:41,161 - INFO - ✅ 'B_Bbva_Soles' cargada con 40 filas y 27 columnas.
+2025-11-05 12:55:41,475 - INFO - ✅ 'B_Banco_Nacion' cargada con 722 filas y 21 columnas.
+2025-11-05 12:55:41,790 - INFO - ✅ 'C_Arequipa_Soles' cargada con 719 filas y 27 columnas.
+2025-11-05 12:55:42,132 - INFO - ✅ 'C_Finanzas_Soles' cargada con 776 filas y 27 columnas.
+2025-11-05 12:55:42,132 - INFO - ⚠️ 'Caja_Operativa' no tiene cabeceras definidas. Usando lectura automática.
+2025-11-05 12:55:42,332 - INFO - ✅ 'Caja_Operativa' cargada con 422 filas y 28 columnas.
+2025-11-05 12:55:42,566 - INFO - ✅ 'Ruben Bustamante' cargada con 405 filas y 27 columnas.
+2025-11-05 12:55:42,787 - INFO - ✅ 'Walter A' cargada con 267 filas y 27 columnas.
+2025-11-05 12:55:43,007 - INFO - ✅ 'Juber Monteza' cargada con 262 filas y 27 columnas.
+2025-11-05 12:55:43,007 - INFO - ⚠️ 'Willian León' no tiene cabeceras definidas. Usando lectura automática.
+2025-11-05 12:55:43,156 - INFO - ✅ 'Willian León' cargada con 225 filas y 28 columnas.
+2025-11-05 12:55:43,416 - INFO - ✅ 'Juan Tarifa' cargada con 440 filas y 27 columnas.
+2025-11-05 12:55:43,630 - INFO - ✅ 'Miguel Solis' cargada con 231 filas y 27 columnas.
+2025-11-05 12:55:43,817 - INFO - ✅ 'Anthony Huamani' cargada con 245 filas y 27 columnas.
+2025-11-05 12:55:43,972 - INFO - ✅ 'Nelson Quispe' cargada con 113 filas y 27 columnas.
+2025-11-05 12:55:44,129 - INFO - ✅ 'Ronald Guizado' cargada con 67 filas y 27 columnas.
+2025-11-05 12:55:44,129 - INFO - 📊 Total de hojas procesadas correctamente: 17
+2025-11-05 12:55:44,130 - INFO - 🧩 Procesando hoja 'B_Bcp_Soles' → tabla 'b_bcp_soles'...
+2025-11-05 12:55:44,167 - INFO - ✅ 'B_Bcp_Soles' guardada correctamente (3478 filas, 27 columnas).
+2025-11-05 12:55:44,167 - INFO - 🧩 Procesando hoja 'B_Bcp_Dolares' → tabla 'b_bcp_dolares'...
+2025-11-05 12:55:44,188 - INFO - ✅ 'B_Bcp_Dolares' guardada correctamente (340 filas, 27 columnas).
+2025-11-05 12:55:44,188 - INFO - 🧩 Procesando hoja 'B_Interbank_Soles' → tabla 'b_interbank_soles'...
+2025-11-05 12:55:44,209 - INFO - ✅ 'B_Interbank_Soles' guardada correctamente (144 filas, 27 columnas).
+2025-11-05 12:55:44,209 - INFO - 🧩 Procesando hoja 'B_Bbva_Soles' → tabla 'b_bbva_soles'...
+2025-11-05 12:55:44,229 - INFO - ✅ 'B_Bbva_Soles' guardada correctamente (40 filas, 27 columnas).
+2025-11-05 12:55:44,229 - INFO - 🧩 Procesando hoja 'B_Banco_Nacion' → tabla 'b_banco_nacion'...
+2025-11-05 12:55:44,251 - INFO - ✅ 'B_Banco_Nacion' guardada correctamente (722 filas, 21 columnas).
+2025-11-05 12:55:44,251 - INFO - 🧩 Procesando hoja 'C_Arequipa_Soles' → tabla 'c_arequipa_soles'...
+2025-11-05 12:55:44,275 - INFO - ✅ 'C_Arequipa_Soles' guardada correctamente (719 filas, 27 columnas).
+2025-11-05 12:55:44,275 - INFO - 🧩 Procesando hoja 'C_Finanzas_Soles' → tabla 'c_finanzas_soles'...
+2025-11-05 12:55:44,301 - INFO - ✅ 'C_Finanzas_Soles' guardada correctamente (776 filas, 27 columnas).
+2025-11-05 12:55:44,301 - INFO - 🧩 Procesando hoja 'Caja_Operativa' → tabla 'caja_operativa'...
+2025-11-05 12:55:44,325 - INFO - ✅ 'Caja_Operativa' guardada correctamente (422 filas, 28 columnas).
+2025-11-05 12:55:44,325 - INFO - 🧩 Procesando hoja 'Ruben Bustamante' → tabla 'ruben_bustamante'...
+2025-11-05 12:55:44,349 - INFO - ✅ 'Ruben Bustamante' guardada correctamente (405 filas, 27 columnas).
+2025-11-05 12:55:44,349 - INFO - 🧩 Procesando hoja 'Walter A' → tabla 'walter_a'...
+2025-11-05 12:55:44,372 - INFO - ✅ 'Walter A' guardada correctamente (267 filas, 27 columnas).
+2025-11-05 12:55:44,372 - INFO - 🧩 Procesando hoja 'Juber Monteza' → tabla 'juber_monteza'...
+2025-11-05 12:55:44,395 - INFO - ✅ 'Juber Monteza' guardada correctamente (262 filas, 27 columnas).
+2025-11-05 12:55:44,395 - INFO - 🧩 Procesando hoja 'Willian León' → tabla 'willian_leon'...
+2025-11-05 12:55:44,416 - INFO - ✅ 'Willian León' guardada correctamente (225 filas, 28 columnas).
+2025-11-05 12:55:44,416 - INFO - 🧩 Procesando hoja 'Juan Tarifa' → tabla 'juan_tarifa'...
+2025-11-05 12:55:44,438 - INFO - ✅ 'Juan Tarifa' guardada correctamente (440 filas, 27 columnas).
+2025-11-05 12:55:44,438 - INFO - 🧩 Procesando hoja 'Miguel Solis' → tabla 'miguel_solis'...
+2025-11-05 12:55:44,460 - INFO - ✅ 'Miguel Solis' guardada correctamente (231 filas, 27 columnas).
+2025-11-05 12:55:44,461 - INFO - 🧩 Procesando hoja 'Anthony Huamani' → tabla 'anthony_huamani'...
+2025-11-05 12:55:44,485 - INFO - ✅ 'Anthony Huamani' guardada correctamente (245 filas, 27 columnas).
+2025-11-05 12:55:44,485 - INFO - 🧩 Procesando hoja 'Nelson Quispe' → tabla 'nelson_quispe'...
+2025-11-05 12:55:44,505 - INFO - ✅ 'Nelson Quispe' guardada correctamente (113 filas, 27 columnas).
+2025-11-05 12:55:44,505 - INFO - 🧩 Procesando hoja 'Ronald Guizado' → tabla 'ronald_guizado'...
+2025-11-05 12:55:44,525 - INFO - ✅ 'Ronald Guizado' guardada correctamente (67 filas, 27 columnas).
+2025-11-05 12:55:44,525 - INFO - 🚀 Sincronización finalizada con éxito. Base actualizada 1:1 con el Excel.
+2025-11-05 12:55:44,529 - INFO - ✅ Sincronización completada correctamente. DataPulse está actualizado.
+2025-11-05 12:55:44,530 - INFO - 🏁 Proceso DataPulse finalizado (modo TEST SEGURO).
+
+2025-11-05 13:37:38,298 - INFO - 🚀 Iniciando ejecución completa de DataPulse (modo TEST SEGURO)
+2025-11-05 13:37:38,299 - INFO - 📘 Leyendo hojas desde el archivo Excel principal...
+2025-11-05 13:37:38,299 - INFO - 📂 Leyendo archivo expandido: 01. Registro_Movimientos_Caja_Bancos_2025.xlsx
+2025-11-05 13:37:38,300 - INFO - ⚠️ Error al abrir el libro Excel: [Errno 13] Permission denied: 'C:\\Users\\chall\\iBit\\DEMO - GeneraI\\DEMOS\\DataPulse\\01. Registro_Movimientos_Caja_Bancos_2025.xlsx'
+2025-11-05 13:37:38,300 - INFO - ⚠️ No se encontraron datos válidos en el Excel. Proceso detenido.
+2025-11-05 13:37:38,300 - INFO - 🏁 Proceso DataPulse finalizado (modo TEST SEGURO).
+
+2025-11-05 13:38:03,218 - INFO - 🚀 Iniciando ejecución completa de DataPulse (modo TEST SEGURO)
+2025-11-05 13:38:03,218 - INFO - 📘 Leyendo hojas desde el archivo Excel principal...
+2025-11-05 13:38:03,219 - INFO - 📂 Leyendo archivo expandido: 01. Registro_Movimientos_Caja_Bancos_2025.xlsx
+2025-11-05 13:38:05,646 - INFO - ✅ 'B_Bcp_Soles' cargada con 3478 filas | 27 columnas (A:AA).
+2025-11-05 13:38:07,361 - INFO - ✅ 'B_Bcp_Dolares' cargada con 340 filas | 27 columnas (A:AA).
+2025-11-05 13:38:08,934 - INFO - ✅ 'B_Interbank_Soles' cargada con 144 filas | 27 columnas (A:AA).
+2025-11-05 13:38:10,455 - INFO - ✅ 'B_Bbva_Soles' cargada con 40 filas | 27 columnas (A:AA).
+2025-11-05 13:38:12,145 - INFO - ✅ 'B_Banco_Nacion' cargada con 722 filas | 27 columnas (A:AA).
+2025-11-05 13:38:13,861 - INFO - ✅ 'C_Arequipa_Soles' cargada con 719 filas | 28 columnas (A:AB).
+2025-11-05 13:38:15,606 - INFO - ✅ 'C_Finanzas_Soles' cargada con 776 filas | 28 columnas (A:AB).
+2025-11-05 13:38:17,503 - INFO - ✅ 'Caja_Operativa' cargada con 422 filas | 27 columnas (A:AA).
+2025-11-05 13:38:20,769 - INFO - ✅ 'Ruben Bustamante' cargada con 405 filas | 27 columnas (A:AA).
+2025-11-05 13:38:23,896 - INFO - ✅ 'Walter A' cargada con 267 filas | 27 columnas (A:AA).
+2025-11-05 13:38:27,081 - INFO - ✅ 'Juber Monteza' cargada con 262 filas | 27 columnas (A:AA).
+2025-11-05 13:38:30,025 - INFO - ✅ 'Willian León' cargada con 225 filas | 27 columnas (A:AA).
+2025-11-05 13:38:33,247 - INFO - ✅ 'Juan Tarifa' cargada con 440 filas | 27 columnas (A:AA).
+2025-11-05 13:38:36,183 - INFO - ✅ 'Miguel Solis' cargada con 231 filas | 27 columnas (A:AA).
+2025-11-05 13:38:39,186 - INFO - ✅ 'Anthony Huamani' cargada con 245 filas | 27 columnas (A:AA).
+2025-11-05 13:38:42,047 - INFO - ✅ 'Nelson Quispe' cargada con 113 filas | 27 columnas (A:AA).
+2025-11-05 13:38:44,917 - INFO - ✅ 'Ronald Guizado' cargada con 67 filas | 27 columnas (A:AA).
+2025-11-05 13:38:44,917 - INFO - 📊 Total de hojas procesadas correctamente: 17
+2025-11-05 13:38:44,917 - INFO - 🧱 Verificando estructura inicial de la base de datos...
+2025-11-05 13:38:44,918 - INFO - 📦 Iniciando volcado de datos en la base de datos...
+2025-11-05 13:38:44,935 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 13:38:44,992 - INFO - ✅ Tabla 'b_bcp_soles' actualizada con 3478 registros.
+2025-11-05 13:38:44,993 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 13:38:45,019 - INFO - ✅ Tabla 'b_bcp_dolares' actualizada con 340 registros.
+2025-11-05 13:38:45,020 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 13:38:45,045 - INFO - ✅ Tabla 'b_interbank_soles' actualizada con 144 registros.
+2025-11-05 13:38:45,045 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 13:38:45,068 - INFO - ✅ Tabla 'b_bbva_soles' actualizada con 40 registros.
+2025-11-05 13:38:45,069 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 13:38:45,101 - INFO - ✅ Tabla 'b_banco_nacion' actualizada con 722 registros.
+2025-11-05 13:38:45,102 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 13:38:45,131 - INFO - ✅ Tabla 'c_arequipa_soles' actualizada con 719 registros.
+2025-11-05 13:38:45,132 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 13:38:45,162 - INFO - ✅ Tabla 'c_finanzas_soles' actualizada con 776 registros.
+2025-11-05 13:38:45,163 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 13:38:45,193 - INFO - ✅ Tabla 'caja_operativa' actualizada con 422 registros.
+2025-11-05 13:38:45,194 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 13:38:45,220 - INFO - ✅ Tabla 'ruben_bustamante' actualizada con 405 registros.
+2025-11-05 13:38:45,221 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 13:38:45,246 - INFO - ✅ Tabla 'walter_a' actualizada con 267 registros.
+2025-11-05 13:38:45,247 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 13:38:45,274 - INFO - ✅ Tabla 'juber_monteza' actualizada con 262 registros.
+2025-11-05 13:38:45,275 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 13:38:45,301 - INFO - ✅ Tabla 'willian_leon' actualizada con 225 registros.
+2025-11-05 13:38:45,302 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 13:38:45,333 - INFO - ✅ Tabla 'juan_tarifa' actualizada con 440 registros.
+2025-11-05 13:38:45,333 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 13:38:45,358 - INFO - ✅ Tabla 'miguel_solis' actualizada con 231 registros.
+2025-11-05 13:38:45,359 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 13:38:45,384 - INFO - ✅ Tabla 'anthony_huamani' actualizada con 245 registros.
+2025-11-05 13:38:45,385 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 13:38:45,416 - INFO - ✅ Tabla 'nelson_quispe' actualizada con 113 registros.
+2025-11-05 13:38:45,417 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 13:38:45,442 - INFO - ✅ Tabla 'ronald_guizado' actualizada con 67 registros.
+2025-11-05 13:38:45,443 - INFO - 🚀 Base de datos sincronizada correctamente.
+2025-11-05 13:38:45,444 - INFO - 🔍 Analizando diferencias entre Excel y base de datos...
+2025-11-05 13:38:45,471 - INFO - 📦 Tabla 'b_bcp_soles' cargada desde la base (3478 filas).
+2025-11-05 13:38:51,048 - INFO - 🔍 Hoja 'B_Bcp_Soles' → +0 nuevos, -0 eliminados, ✏️ 96450 modificados.
+2025-11-05 13:38:51,054 - INFO - 📦 Tabla 'b_bcp_dolares' cargada desde la base (340 filas).
+2025-11-05 13:38:51,308 - INFO - 🔍 Hoja 'B_Bcp_Dolares' → +0 nuevos, -0 eliminados, ✏️ 3178 modificados.
+2025-11-05 13:38:51,313 - INFO - 📦 Tabla 'b_interbank_soles' cargada desde la base (144 filas).
+2025-11-05 13:38:51,403 - INFO - 🔍 Hoja 'B_Interbank_Soles' → +0 nuevos, -0 eliminados, ✏️ 632 modificados.
+2025-11-05 13:38:51,407 - INFO - 📦 Tabla 'b_bbva_soles' cargada desde la base (40 filas).
+2025-11-05 13:38:51,463 - INFO - 🔍 Hoja 'B_Bbva_Soles' → +0 nuevos, -0 eliminados, ✏️ 286 modificados.
+2025-11-05 13:38:51,471 - INFO - 📦 Tabla 'b_banco_nacion' cargada desde la base (722 filas).
+2025-11-05 13:38:52,264 - INFO - 🔍 Hoja 'B_Banco_Nacion' → +0 nuevos, -0 eliminados, ✏️ 14832 modificados.
+2025-11-05 13:38:52,271 - INFO - 📦 Tabla 'c_arequipa_soles' cargada desde la base (719 filas).
+2025-11-05 13:38:52,717 - INFO - 🔍 Hoja 'C_Arequipa_Soles' → +0 nuevos, -0 eliminados, ✏️ 6541 modificados.
+2025-11-05 13:38:52,726 - INFO - 📦 Tabla 'c_finanzas_soles' cargada desde la base (776 filas).
+2025-11-05 13:38:53,140 - INFO - 🔍 Hoja 'C_Finanzas_Soles' → +0 nuevos, -0 eliminados, ✏️ 7374 modificados.
+2025-11-05 13:38:53,144 - INFO - 📦 Tabla 'caja_operativa' cargada desde la base (422 filas).
+2025-11-05 13:38:53,514 - INFO - 🔍 Hoja 'Caja_Operativa' → +0 nuevos, -0 eliminados, ✏️ 5814 modificados.
+2025-11-05 13:38:53,519 - INFO - 📦 Tabla 'ruben_bustamante' cargada desde la base (405 filas).
+2025-11-05 13:38:53,682 - INFO - 🔍 Hoja 'Ruben Bustamante' → +0 nuevos, -0 eliminados, ✏️ 1393 modificados.
+2025-11-05 13:38:53,687 - INFO - 📦 Tabla 'walter_a' cargada desde la base (267 filas).
+2025-11-05 13:38:53,780 - INFO - 🔍 Hoja 'Walter A' → +0 nuevos, -0 eliminados, ✏️ 847 modificados.
+2025-11-05 13:38:53,785 - INFO - 📦 Tabla 'juber_monteza' cargada desde la base (262 filas).
+2025-11-05 13:38:53,918 - INFO - 🔍 Hoja 'Juber Monteza' → +0 nuevos, -0 eliminados, ✏️ 1472 modificados.
+2025-11-05 13:38:53,919 - INFO - ⚠️ No se pudo cargar 'willian_león': Execution failed on sql 'SELECT * FROM 'willian_león'': no such table: willian_león
+2025-11-05 13:38:53,921 - INFO - 🆕 Tabla 'willian_león' no existía. Todo se considera NUEVO: 225 filas.
+2025-11-05 13:38:53,927 - INFO - 📦 Tabla 'juan_tarifa' cargada desde la base (440 filas).
+2025-11-05 13:38:54,092 - INFO - 🔍 Hoja 'Juan Tarifa' → +0 nuevos, -0 eliminados, ✏️ 1960 modificados.
+2025-11-05 13:38:54,097 - INFO - 📦 Tabla 'miguel_solis' cargada desde la base (231 filas).
+2025-11-05 13:38:54,202 - INFO - 🔍 Hoja 'Miguel Solis' → +0 nuevos, -0 eliminados, ✏️ 995 modificados.
+2025-11-05 13:38:54,207 - INFO - 📦 Tabla 'anthony_huamani' cargada desde la base (245 filas).
+2025-11-05 13:38:54,304 - INFO - 🔍 Hoja 'Anthony Huamani' → +0 nuevos, -0 eliminados, ✏️ 829 modificados.
+2025-11-05 13:38:54,308 - INFO - 📦 Tabla 'nelson_quispe' cargada desde la base (113 filas).
+2025-11-05 13:38:54,361 - INFO - 🔍 Hoja 'Nelson Quispe' → +0 nuevos, -0 eliminados, ✏️ 241 modificados.
+2025-11-05 13:38:54,365 - INFO - 📦 Tabla 'ronald_guizado' cargada desde la base (67 filas).
+2025-11-05 13:38:54,410 - INFO - 🔍 Hoja 'Ronald Guizado' → +0 nuevos, -0 eliminados, ✏️ 101 modificados.
+2025-11-05 13:38:54,410 - INFO - 💾 Creando respaldo antes de aplicar cambios...
+2025-11-05 13:38:54,423 - INFO - 🧾 Respaldo creado: DataPulse_20251105_133854.sqlite
+2025-11-05 13:38:54,425 - INFO - 🗑️ Backup antiguo eliminado: DataPulse_20251105_120449.sqlite
+2025-11-05 13:38:54,425 - INFO - 📦 Respaldo generado correctamente: DataPulse_20251105_133854.sqlite
+2025-11-05 13:38:54,426 - INFO - 🧩 Iniciando sincronización hoja por hoja (1:1 estructura Excel)...
+2025-11-05 13:38:54,426 - INFO - 📂 Iniciando sincronización completa Excel → SQLite...
+2025-11-05 13:38:54,426 - INFO - 📂 Leyendo archivo expandido: 01. Registro_Movimientos_Caja_Bancos_2025.xlsx
+2025-11-05 13:38:59,034 - INFO - ✅ 'B_Bcp_Soles' cargada con 3478 filas | 27 columnas (A:AA).
+2025-11-05 13:39:00,771 - INFO - ✅ 'B_Bcp_Dolares' cargada con 340 filas | 27 columnas (A:AA).
+2025-11-05 13:39:02,454 - INFO - ✅ 'B_Interbank_Soles' cargada con 144 filas | 27 columnas (A:AA).
+2025-11-05 13:39:04,123 - INFO - ✅ 'B_Bbva_Soles' cargada con 40 filas | 27 columnas (A:AA).
+2025-11-05 13:39:05,895 - INFO - ✅ 'B_Banco_Nacion' cargada con 722 filas | 27 columnas (A:AA).
+2025-11-05 13:39:07,843 - INFO - ✅ 'C_Arequipa_Soles' cargada con 719 filas | 28 columnas (A:AB).
+2025-11-05 13:39:09,889 - INFO - ✅ 'C_Finanzas_Soles' cargada con 776 filas | 28 columnas (A:AB).
+2025-11-05 13:39:11,693 - INFO - ✅ 'Caja_Operativa' cargada con 422 filas | 27 columnas (A:AA).
+2025-11-05 13:39:13,413 - INFO - ✅ 'Ruben Bustamante' cargada con 405 filas | 27 columnas (A:AA).
+2025-11-05 13:39:15,203 - INFO - ✅ 'Walter A' cargada con 267 filas | 27 columnas (A:AA).
+2025-11-05 13:39:16,948 - INFO - ✅ 'Juber Monteza' cargada con 262 filas | 27 columnas (A:AA).
+2025-11-05 13:39:18,651 - INFO - ✅ 'Willian León' cargada con 225 filas | 27 columnas (A:AA).
+2025-11-05 13:39:20,409 - INFO - ✅ 'Juan Tarifa' cargada con 440 filas | 27 columnas (A:AA).
+2025-11-05 13:39:22,106 - INFO - ✅ 'Miguel Solis' cargada con 231 filas | 27 columnas (A:AA).
+2025-11-05 13:39:23,840 - INFO - ✅ 'Anthony Huamani' cargada con 245 filas | 27 columnas (A:AA).
+2025-11-05 13:39:25,562 - INFO - ✅ 'Nelson Quispe' cargada con 113 filas | 27 columnas (A:AA).
+2025-11-05 13:39:27,208 - INFO - ✅ 'Ronald Guizado' cargada con 67 filas | 27 columnas (A:AA).
+2025-11-05 13:39:27,208 - INFO - 📊 Total de hojas procesadas correctamente: 17
+2025-11-05 13:39:27,209 - INFO - 🧩 Procesando hoja 'B_Bcp_Soles' → tabla 'b_bcp_soles'...
+2025-11-05 13:39:27,252 - INFO - ✅ 'B_Bcp_Soles' guardada correctamente (3478 filas, 27 columnas).
+2025-11-05 13:39:27,252 - INFO - 🧩 Procesando hoja 'B_Bcp_Dolares' → tabla 'b_bcp_dolares'...
+2025-11-05 13:39:27,273 - INFO - ✅ 'B_Bcp_Dolares' guardada correctamente (340 filas, 27 columnas).
+2025-11-05 13:39:27,273 - INFO - 🧩 Procesando hoja 'B_Interbank_Soles' → tabla 'b_interbank_soles'...
+2025-11-05 13:39:27,293 - INFO - ✅ 'B_Interbank_Soles' guardada correctamente (144 filas, 27 columnas).
+2025-11-05 13:39:27,293 - INFO - 🧩 Procesando hoja 'B_Bbva_Soles' → tabla 'b_bbva_soles'...
+2025-11-05 13:39:27,313 - INFO - ✅ 'B_Bbva_Soles' guardada correctamente (40 filas, 27 columnas).
+2025-11-05 13:39:27,313 - INFO - 🧩 Procesando hoja 'B_Banco_Nacion' → tabla 'b_banco_nacion'...
+2025-11-05 13:39:27,337 - INFO - ✅ 'B_Banco_Nacion' guardada correctamente (722 filas, 27 columnas).
+2025-11-05 13:39:27,337 - INFO - 🧩 Procesando hoja 'C_Arequipa_Soles' → tabla 'c_arequipa_soles'...
+2025-11-05 13:39:27,361 - INFO - ✅ 'C_Arequipa_Soles' guardada correctamente (719 filas, 28 columnas).
+2025-11-05 13:39:27,361 - INFO - 🧩 Procesando hoja 'C_Finanzas_Soles' → tabla 'c_finanzas_soles'...
+2025-11-05 13:39:27,388 - INFO - ✅ 'C_Finanzas_Soles' guardada correctamente (776 filas, 28 columnas).
+2025-11-05 13:39:27,388 - INFO - 🧩 Procesando hoja 'Caja_Operativa' → tabla 'caja_operativa'...
+2025-11-05 13:39:27,415 - INFO - ✅ 'Caja_Operativa' guardada correctamente (422 filas, 27 columnas).
+2025-11-05 13:39:27,415 - INFO - 🧩 Procesando hoja 'Ruben Bustamante' → tabla 'ruben_bustamante'...
+2025-11-05 13:39:27,437 - INFO - ✅ 'Ruben Bustamante' guardada correctamente (405 filas, 27 columnas).
+2025-11-05 13:39:27,437 - INFO - 🧩 Procesando hoja 'Walter A' → tabla 'walter_a'...
+2025-11-05 13:39:27,459 - INFO - ✅ 'Walter A' guardada correctamente (267 filas, 27 columnas).
+2025-11-05 13:39:27,459 - INFO - 🧩 Procesando hoja 'Juber Monteza' → tabla 'juber_monteza'...
+2025-11-05 13:39:27,481 - INFO - ✅ 'Juber Monteza' guardada correctamente (262 filas, 27 columnas).
+2025-11-05 13:39:27,481 - INFO - 🧩 Procesando hoja 'Willian León' → tabla 'willian_leon'...
+2025-11-05 13:39:27,503 - INFO - ✅ 'Willian León' guardada correctamente (225 filas, 27 columnas).
+2025-11-05 13:39:27,503 - INFO - 🧩 Procesando hoja 'Juan Tarifa' → tabla 'juan_tarifa'...
+2025-11-05 13:39:27,527 - INFO - ✅ 'Juan Tarifa' guardada correctamente (440 filas, 27 columnas).
+2025-11-05 13:39:27,527 - INFO - 🧩 Procesando hoja 'Miguel Solis' → tabla 'miguel_solis'...
+2025-11-05 13:39:27,549 - INFO - ✅ 'Miguel Solis' guardada correctamente (231 filas, 27 columnas).
+2025-11-05 13:39:27,549 - INFO - 🧩 Procesando hoja 'Anthony Huamani' → tabla 'anthony_huamani'...
+2025-11-05 13:39:27,570 - INFO - ✅ 'Anthony Huamani' guardada correctamente (245 filas, 27 columnas).
+2025-11-05 13:39:27,571 - INFO - 🧩 Procesando hoja 'Nelson Quispe' → tabla 'nelson_quispe'...
+2025-11-05 13:39:27,591 - INFO - ✅ 'Nelson Quispe' guardada correctamente (113 filas, 27 columnas).
+2025-11-05 13:39:27,591 - INFO - 🧩 Procesando hoja 'Ronald Guizado' → tabla 'ronald_guizado'...
+2025-11-05 13:39:27,611 - INFO - ✅ 'Ronald Guizado' guardada correctamente (67 filas, 27 columnas).
+2025-11-05 13:39:27,612 - INFO - 🚀 Sincronización finalizada con éxito. Base actualizada 1:1 con el Excel.
+2025-11-05 13:39:27,616 - INFO - ✅ Sincronización completada correctamente. DataPulse está actualizado.
+2025-11-05 13:39:27,617 - INFO - 🏁 Proceso DataPulse finalizado (modo TEST SEGURO).
+
+2025-11-05 18:11:52,202 - INFO - 🚀 Iniciando ejecución completa de DataPulse (modo TEST SEGURO)
+2025-11-05 18:11:52,203 - INFO - 📘 Leyendo hojas desde el archivo Excel principal...
+2025-11-05 18:11:52,203 - INFO - 📂 Lectura exacta del archivo: 01. Registro_Movimientos_Caja_Bancos_2025.xlsx
+2025-11-05 18:11:55,465 - INFO - ✅ 'B_Bcp_Soles' copiada con 3478 filas × 27 columnas (A:AA).
+2025-11-05 18:11:57,232 - INFO - ✅ 'B_Bcp_Dolares' copiada con 340 filas × 27 columnas (A:AA).
+2025-11-05 18:11:58,946 - INFO - ✅ 'B_Interbank_Soles' copiada con 144 filas × 27 columnas (A:AA).
+2025-11-05 18:12:00,603 - INFO - ✅ 'B_Bbva_Soles' copiada con 40 filas × 27 columnas (A:AA).
+2025-11-05 18:12:02,350 - INFO - ✅ 'B_Banco_Nacion' copiada con 722 filas × 27 columnas (A:AA).
+2025-11-05 18:12:04,156 - INFO - ✅ 'C_Arequipa_Soles' copiada con 719 filas × 28 columnas (A:AB).
+2025-11-05 18:12:05,992 - INFO - ✅ 'C_Finanzas_Soles' copiada con 776 filas × 28 columnas (A:AB).
+2025-11-05 18:12:07,731 - INFO - ✅ 'Caja_Operativa' copiada con 422 filas × 27 columnas (A:AA).
+2025-11-05 18:12:09,535 - INFO - ✅ 'Ruben Bustamante' copiada con 405 filas × 27 columnas (A:AA).
+2025-11-05 18:12:11,320 - INFO - ✅ 'Walter A' copiada con 267 filas × 27 columnas (A:AA).
+2025-11-05 18:12:13,142 - INFO - ✅ 'Juber Monteza' copiada con 262 filas × 27 columnas (A:AA).
+2025-11-05 18:12:14,955 - INFO - ✅ 'Willian León' copiada con 225 filas × 27 columnas (A:AA).
+2025-11-05 18:12:16,850 - INFO - ✅ 'Juan Tarifa' copiada con 440 filas × 27 columnas (A:AA).
+2025-11-05 18:12:18,707 - INFO - ✅ 'Miguel Solis' copiada con 231 filas × 27 columnas (A:AA).
+2025-11-05 18:12:20,566 - INFO - ✅ 'Anthony Huamani' copiada con 245 filas × 27 columnas (A:AA).
+2025-11-05 18:12:22,390 - INFO - ✅ 'Nelson Quispe' copiada con 113 filas × 27 columnas (A:AA).
+2025-11-05 18:12:24,173 - INFO - ✅ 'Ronald Guizado' copiada con 67 filas × 27 columnas (A:AA).
+2025-11-05 18:12:24,173 - INFO - 📊 Total de hojas procesadas correctamente: 17
+2025-11-05 18:12:24,173 - INFO - 🧱 Verificando estructura inicial de la base de datos...
+2025-11-05 18:12:24,173 - INFO - 📦 Iniciando volcado de datos en la base de datos...
+2025-11-05 18:12:24,186 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:12:24,230 - INFO - ✅ Tabla 'b_bcp_soles' actualizada con 3478 registros.
+2025-11-05 18:12:24,230 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:12:24,252 - INFO - ✅ Tabla 'b_bcp_dolares' actualizada con 340 registros.
+2025-11-05 18:12:24,253 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:12:24,273 - INFO - ✅ Tabla 'b_interbank_soles' actualizada con 144 registros.
+2025-11-05 18:12:24,274 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:12:24,293 - INFO - ✅ Tabla 'b_bbva_soles' actualizada con 40 registros.
+2025-11-05 18:12:24,294 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:12:24,318 - INFO - ✅ Tabla 'b_banco_nacion' actualizada con 722 registros.
+2025-11-05 18:12:24,318 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:12:24,341 - INFO - ✅ Tabla 'c_arequipa_soles' actualizada con 719 registros.
+2025-11-05 18:12:24,342 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:12:24,366 - INFO - ✅ Tabla 'c_finanzas_soles' actualizada con 776 registros.
+2025-11-05 18:12:24,367 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:12:24,389 - INFO - ✅ Tabla 'caja_operativa' actualizada con 422 registros.
+2025-11-05 18:12:24,390 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:12:24,411 - INFO - ✅ Tabla 'ruben_bustamante' actualizada con 405 registros.
+2025-11-05 18:12:24,412 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:12:24,433 - INFO - ✅ Tabla 'walter_a' actualizada con 267 registros.
+2025-11-05 18:12:24,434 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:12:24,456 - INFO - ✅ Tabla 'juber_monteza' actualizada con 262 registros.
+2025-11-05 18:12:24,456 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:12:24,478 - INFO - ✅ Tabla 'willian_leon' actualizada con 225 registros.
+2025-11-05 18:12:24,479 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:12:24,502 - INFO - ✅ Tabla 'juan_tarifa' actualizada con 440 registros.
+2025-11-05 18:12:24,503 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:12:24,525 - INFO - ✅ Tabla 'miguel_solis' actualizada con 231 registros.
+2025-11-05 18:12:24,525 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:12:24,546 - INFO - ✅ Tabla 'anthony_huamani' actualizada con 245 registros.
+2025-11-05 18:12:24,547 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:12:24,567 - INFO - ✅ Tabla 'nelson_quispe' actualizada con 113 registros.
+2025-11-05 18:12:24,568 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:12:24,588 - INFO - ✅ Tabla 'ronald_guizado' actualizada con 67 registros.
+2025-11-05 18:12:24,588 - INFO - 🚀 Base de datos sincronizada correctamente.
+2025-11-05 18:12:24,589 - INFO - 🔍 Analizando diferencias entre Excel y base de datos...
+2025-11-05 18:12:24,605 - INFO - 📦 Tabla 'b_bcp_soles' cargada desde la base (3478 filas).
+2025-11-05 18:12:28,118 - INFO - 🔍 Hoja 'B_Bcp_Soles' → +0 nuevos, -0 eliminados, ✏️ 96450 modificados.
+2025-11-05 18:12:28,123 - INFO - 📦 Tabla 'b_bcp_dolares' cargada desde la base (340 filas).
+2025-11-05 18:12:28,238 - INFO - 🔍 Hoja 'B_Bcp_Dolares' → +0 nuevos, -0 eliminados, ✏️ 3178 modificados.
+2025-11-05 18:12:28,241 - INFO - 📦 Tabla 'b_interbank_soles' cargada desde la base (144 filas).
+2025-11-05 18:12:28,285 - INFO - 🔍 Hoja 'B_Interbank_Soles' → +0 nuevos, -0 eliminados, ✏️ 632 modificados.
+2025-11-05 18:12:28,288 - INFO - 📦 Tabla 'b_bbva_soles' cargada desde la base (40 filas).
+2025-11-05 18:12:28,319 - INFO - 🔍 Hoja 'B_Bbva_Soles' → +0 nuevos, -0 eliminados, ✏️ 286 modificados.
+2025-11-05 18:12:28,324 - INFO - 📦 Tabla 'b_banco_nacion' cargada desde la base (722 filas).
+2025-11-05 18:12:28,730 - INFO - 🔍 Hoja 'B_Banco_Nacion' → +0 nuevos, -0 eliminados, ✏️ 14832 modificados.
+2025-11-05 18:12:28,735 - INFO - 📦 Tabla 'c_arequipa_soles' cargada desde la base (719 filas).
+2025-11-05 18:12:28,934 - INFO - 🔍 Hoja 'C_Arequipa_Soles' → +0 nuevos, -0 eliminados, ✏️ 6541 modificados.
+2025-11-05 18:12:28,938 - INFO - 📦 Tabla 'c_finanzas_soles' cargada desde la base (776 filas).
+2025-11-05 18:12:29,170 - INFO - 🔍 Hoja 'C_Finanzas_Soles' → +0 nuevos, -0 eliminados, ✏️ 7374 modificados.
+2025-11-05 18:12:29,174 - INFO - 📦 Tabla 'caja_operativa' cargada desde la base (422 filas).
+2025-11-05 18:12:29,366 - INFO - 🔍 Hoja 'Caja_Operativa' → +0 nuevos, -0 eliminados, ✏️ 5814 modificados.
+2025-11-05 18:12:29,370 - INFO - 📦 Tabla 'ruben_bustamante' cargada desde la base (405 filas).
+2025-11-05 18:12:29,445 - INFO - 🔍 Hoja 'Ruben Bustamante' → +0 nuevos, -0 eliminados, ✏️ 1393 modificados.
+2025-11-05 18:12:29,448 - INFO - 📦 Tabla 'walter_a' cargada desde la base (267 filas).
+2025-11-05 18:12:29,502 - INFO - 🔍 Hoja 'Walter A' → +0 nuevos, -0 eliminados, ✏️ 847 modificados.
+2025-11-05 18:12:29,505 - INFO - 📦 Tabla 'juber_monteza' cargada desde la base (262 filas).
+2025-11-05 18:12:29,578 - INFO - 🔍 Hoja 'Juber Monteza' → +0 nuevos, -0 eliminados, ✏️ 1472 modificados.
+2025-11-05 18:12:29,579 - INFO - ⚠️ No se pudo cargar 'willian_león': Execution failed on sql 'SELECT * FROM 'willian_león'': no such table: willian_león
+2025-11-05 18:12:29,580 - INFO - 🆕 Tabla 'willian_león' no existía. Todo se considera NUEVO: 225 filas.
+2025-11-05 18:12:29,584 - INFO - 📦 Tabla 'juan_tarifa' cargada desde la base (440 filas).
+2025-11-05 18:12:29,689 - INFO - 🔍 Hoja 'Juan Tarifa' → +0 nuevos, -0 eliminados, ✏️ 1960 modificados.
+2025-11-05 18:12:29,692 - INFO - 📦 Tabla 'miguel_solis' cargada desde la base (231 filas).
+2025-11-05 18:12:29,748 - INFO - 🔍 Hoja 'Miguel Solis' → +0 nuevos, -0 eliminados, ✏️ 995 modificados.
+2025-11-05 18:12:29,752 - INFO - 📦 Tabla 'anthony_huamani' cargada desde la base (245 filas).
+2025-11-05 18:12:29,809 - INFO - 🔍 Hoja 'Anthony Huamani' → +0 nuevos, -0 eliminados, ✏️ 829 modificados.
+2025-11-05 18:12:29,812 - INFO - 📦 Tabla 'nelson_quispe' cargada desde la base (113 filas).
+2025-11-05 18:12:29,844 - INFO - 🔍 Hoja 'Nelson Quispe' → +0 nuevos, -0 eliminados, ✏️ 241 modificados.
+2025-11-05 18:12:29,847 - INFO - 📦 Tabla 'ronald_guizado' cargada desde la base (67 filas).
+2025-11-05 18:12:29,874 - INFO - 🔍 Hoja 'Ronald Guizado' → +0 nuevos, -0 eliminados, ✏️ 34 modificados.
+2025-11-05 18:12:29,874 - INFO - 💾 Creando respaldo antes de aplicar cambios...
+2025-11-05 18:12:29,878 - INFO - 🧾 Respaldo creado: DataPulse_20251105_181229.sqlite
+2025-11-05 18:12:29,879 - INFO - 🗑️ Backup antiguo eliminado: DataPulse_20251105_122318.sqlite
+2025-11-05 18:12:29,879 - INFO - 📦 Respaldo generado correctamente: DataPulse_20251105_181229.sqlite
+2025-11-05 18:12:29,880 - INFO - 🧩 Iniciando sincronización hoja por hoja (1:1 estructura Excel)...
+2025-11-05 18:12:29,880 - INFO - 📂 Iniciando sincronización completa Excel → SQLite...
+2025-11-05 18:12:29,880 - INFO - 📂 Lectura exacta del archivo: 01. Registro_Movimientos_Caja_Bancos_2025.xlsx
+2025-11-05 18:12:32,879 - INFO - ✅ 'B_Bcp_Soles' copiada con 3478 filas × 27 columnas (A:AA).
+2025-11-05 18:12:34,638 - INFO - ✅ 'B_Bcp_Dolares' copiada con 340 filas × 27 columnas (A:AA).
+2025-11-05 18:12:36,322 - INFO - ✅ 'B_Interbank_Soles' copiada con 144 filas × 27 columnas (A:AA).
+2025-11-05 18:12:38,098 - INFO - ✅ 'B_Bbva_Soles' copiada con 40 filas × 27 columnas (A:AA).
+2025-11-05 18:12:40,008 - INFO - ✅ 'B_Banco_Nacion' copiada con 722 filas × 27 columnas (A:AA).
+2025-11-05 18:12:41,867 - INFO - ✅ 'C_Arequipa_Soles' copiada con 719 filas × 28 columnas (A:AB).
+2025-11-05 18:12:43,596 - INFO - ✅ 'C_Finanzas_Soles' copiada con 776 filas × 28 columnas (A:AB).
+2025-11-05 18:12:45,449 - INFO - ✅ 'Caja_Operativa' copiada con 422 filas × 27 columnas (A:AA).
+2025-11-05 18:12:47,291 - INFO - ✅ 'Ruben Bustamante' copiada con 405 filas × 27 columnas (A:AA).
+2025-11-05 18:12:49,124 - INFO - ✅ 'Walter A' copiada con 267 filas × 27 columnas (A:AA).
+2025-11-05 18:12:50,916 - INFO - ✅ 'Juber Monteza' copiada con 262 filas × 27 columnas (A:AA).
+2025-11-05 18:12:52,761 - INFO - ✅ 'Willian León' copiada con 225 filas × 27 columnas (A:AA).
+2025-11-05 18:12:54,596 - INFO - ✅ 'Juan Tarifa' copiada con 440 filas × 27 columnas (A:AA).
+2025-11-05 18:12:56,479 - INFO - ✅ 'Miguel Solis' copiada con 231 filas × 27 columnas (A:AA).
+2025-11-05 18:12:58,273 - INFO - ✅ 'Anthony Huamani' copiada con 245 filas × 27 columnas (A:AA).
+2025-11-05 18:13:00,181 - INFO - ✅ 'Nelson Quispe' copiada con 113 filas × 27 columnas (A:AA).
+2025-11-05 18:13:02,040 - INFO - ✅ 'Ronald Guizado' copiada con 67 filas × 27 columnas (A:AA).
+2025-11-05 18:13:02,041 - INFO - 📊 Total de hojas procesadas correctamente: 17
+2025-11-05 18:13:02,041 - INFO - 🧩 Procesando hoja 'B_Bcp_Soles' → tabla 'b_bcp_soles'...
+2025-11-05 18:13:02,081 - INFO - ✅ 'B_Bcp_Soles' guardada correctamente (3478 filas, 27 columnas).
+2025-11-05 18:13:02,081 - INFO - 🧩 Procesando hoja 'B_Bcp_Dolares' → tabla 'b_bcp_dolares'...
+2025-11-05 18:13:02,103 - INFO - ✅ 'B_Bcp_Dolares' guardada correctamente (340 filas, 27 columnas).
+2025-11-05 18:13:02,104 - INFO - 🧩 Procesando hoja 'B_Interbank_Soles' → tabla 'b_interbank_soles'...
+2025-11-05 18:13:02,125 - INFO - ✅ 'B_Interbank_Soles' guardada correctamente (144 filas, 27 columnas).
+2025-11-05 18:13:02,125 - INFO - 🧩 Procesando hoja 'B_Bbva_Soles' → tabla 'b_bbva_soles'...
+2025-11-05 18:13:02,147 - INFO - ✅ 'B_Bbva_Soles' guardada correctamente (40 filas, 27 columnas).
+2025-11-05 18:13:02,148 - INFO - 🧩 Procesando hoja 'B_Banco_Nacion' → tabla 'b_banco_nacion'...
+2025-11-05 18:13:02,172 - INFO - ✅ 'B_Banco_Nacion' guardada correctamente (722 filas, 27 columnas).
+2025-11-05 18:13:02,172 - INFO - 🧩 Procesando hoja 'C_Arequipa_Soles' → tabla 'c_arequipa_soles'...
+2025-11-05 18:13:02,194 - INFO - ✅ 'C_Arequipa_Soles' guardada correctamente (719 filas, 28 columnas).
+2025-11-05 18:13:02,195 - INFO - 🧩 Procesando hoja 'C_Finanzas_Soles' → tabla 'c_finanzas_soles'...
+2025-11-05 18:13:02,218 - INFO - ✅ 'C_Finanzas_Soles' guardada correctamente (776 filas, 28 columnas).
+2025-11-05 18:13:02,219 - INFO - 🧩 Procesando hoja 'Caja_Operativa' → tabla 'caja_operativa'...
+2025-11-05 18:13:02,243 - INFO - ✅ 'Caja_Operativa' guardada correctamente (422 filas, 27 columnas).
+2025-11-05 18:13:02,243 - INFO - 🧩 Procesando hoja 'Ruben Bustamante' → tabla 'ruben_bustamante'...
+2025-11-05 18:13:02,268 - INFO - ✅ 'Ruben Bustamante' guardada correctamente (405 filas, 27 columnas).
+2025-11-05 18:13:02,268 - INFO - 🧩 Procesando hoja 'Walter A' → tabla 'walter_a'...
+2025-11-05 18:13:02,289 - INFO - ✅ 'Walter A' guardada correctamente (267 filas, 27 columnas).
+2025-11-05 18:13:02,289 - INFO - 🧩 Procesando hoja 'Juber Monteza' → tabla 'juber_monteza'...
+2025-11-05 18:13:02,310 - INFO - ✅ 'Juber Monteza' guardada correctamente (262 filas, 27 columnas).
+2025-11-05 18:13:02,310 - INFO - 🧩 Procesando hoja 'Willian León' → tabla 'willian_leon'...
+2025-11-05 18:13:02,332 - INFO - ✅ 'Willian León' guardada correctamente (225 filas, 27 columnas).
+2025-11-05 18:13:02,332 - INFO - 🧩 Procesando hoja 'Juan Tarifa' → tabla 'juan_tarifa'...
+2025-11-05 18:13:02,354 - INFO - ✅ 'Juan Tarifa' guardada correctamente (440 filas, 27 columnas).
+2025-11-05 18:13:02,355 - INFO - 🧩 Procesando hoja 'Miguel Solis' → tabla 'miguel_solis'...
+2025-11-05 18:13:02,376 - INFO - ✅ 'Miguel Solis' guardada correctamente (231 filas, 27 columnas).
+2025-11-05 18:13:02,377 - INFO - 🧩 Procesando hoja 'Anthony Huamani' → tabla 'anthony_huamani'...
+2025-11-05 18:13:02,400 - INFO - ✅ 'Anthony Huamani' guardada correctamente (245 filas, 27 columnas).
+2025-11-05 18:13:02,401 - INFO - 🧩 Procesando hoja 'Nelson Quispe' → tabla 'nelson_quispe'...
+2025-11-05 18:13:02,421 - INFO - ✅ 'Nelson Quispe' guardada correctamente (113 filas, 27 columnas).
+2025-11-05 18:13:02,421 - INFO - 🧩 Procesando hoja 'Ronald Guizado' → tabla 'ronald_guizado'...
+2025-11-05 18:13:02,442 - INFO - ✅ 'Ronald Guizado' guardada correctamente (67 filas, 27 columnas).
+2025-11-05 18:13:02,443 - INFO - 🚀 Sincronización finalizada con éxito. Base actualizada 1:1 con el Excel.
+2025-11-05 18:13:02,446 - INFO - ✅ Sincronización completada correctamente. DataPulse está actualizado.
+2025-11-05 18:13:02,446 - INFO - 🏁 Proceso DataPulse finalizado (modo TEST SEGURO).
+
+2025-11-05 18:24:29,429 - INFO - 📘 Iniciando comparación hoja ↔ tabla...
+2025-11-05 18:24:30,779 - INFO - 🔍 Comparando 'B_Bcp_Soles'...
+2025-11-05 18:24:32,320 - INFO - 🔍 Comparando 'B_Bcp_Dolares'...
+2025-11-05 18:24:32,594 - INFO - 🔍 Comparando 'B_Interbank_Soles'...
+2025-11-05 18:24:32,778 - INFO - 🔍 Comparando 'B_Bbva_Soles'...
+2025-11-05 18:24:32,924 - INFO - 🔍 Comparando 'B_Banco_Nacion'...
+2025-11-05 18:24:33,348 - INFO - 🔍 Comparando 'C_Arequipa_Soles'...
+2025-11-05 18:24:33,756 - INFO - 🔍 Comparando 'C_Finanzas_Soles'...
+2025-11-05 18:24:34,222 - INFO - 🔍 Comparando 'Caja_Operativa'...
+2025-11-05 18:24:34,514 - INFO - 🔍 Comparando 'Ruben Bustamante'...
+2025-11-05 18:24:34,693 - INFO - ❌ Error al comparar 'Ruben Bustamante': Execution failed on sql 'SELECT * FROM 'Ruben Bustamante'': no such table: Ruben Bustamante
+2025-11-05 18:24:34,693 - INFO - 🔍 Comparando 'Walter A'...
+2025-11-05 18:24:34,828 - INFO - ❌ Error al comparar 'Walter A': Execution failed on sql 'SELECT * FROM 'Walter A'': no such table: Walter A
+2025-11-05 18:24:34,828 - INFO - 🔍 Comparando 'Juber Monteza'...
+2025-11-05 18:24:34,974 - INFO - ❌ Error al comparar 'Juber Monteza': Execution failed on sql 'SELECT * FROM 'Juber Monteza'': no such table: Juber Monteza
+2025-11-05 18:24:34,974 - INFO - 🔍 Comparando 'Willian León'...
+2025-11-05 18:24:35,122 - INFO - ❌ Error al comparar 'Willian León': Execution failed on sql 'SELECT * FROM 'Willian León'': no such table: Willian León
+2025-11-05 18:24:35,122 - INFO - 🔍 Comparando 'Juan Tarifa'...
+2025-11-05 18:24:35,290 - INFO - ❌ Error al comparar 'Juan Tarifa': Execution failed on sql 'SELECT * FROM 'Juan Tarifa'': no such table: Juan Tarifa
+2025-11-05 18:24:35,290 - INFO - 🔍 Comparando 'Miguel Solis'...
+2025-11-05 18:24:35,430 - INFO - ❌ Error al comparar 'Miguel Solis': Execution failed on sql 'SELECT * FROM 'Miguel Solis'': no such table: Miguel Solis
+2025-11-05 18:24:35,431 - INFO - 🔍 Comparando 'Anthony Huamani'...
+2025-11-05 18:24:35,586 - INFO - ❌ Error al comparar 'Anthony Huamani': Execution failed on sql 'SELECT * FROM 'Anthony Huamani'': no such table: Anthony Huamani
+2025-11-05 18:24:35,587 - INFO - 🔍 Comparando 'Nelson Quispe'...
+2025-11-05 18:24:35,723 - INFO - ❌ Error al comparar 'Nelson Quispe': Execution failed on sql 'SELECT * FROM 'Nelson Quispe'': no such table: Nelson Quispe
+2025-11-05 18:24:35,724 - INFO - 🔍 Comparando 'Ronald Guizado'...
+2025-11-05 18:24:35,850 - INFO - ❌ Error al comparar 'Ronald Guizado': Execution failed on sql 'SELECT * FROM 'Ronald Guizado'': no such table: Ronald Guizado
+2025-11-05 18:24:35,851 - INFO - 📊 Resultados del comparativo:
+2025-11-05 18:24:38,059 - INFO - 📁 Archivo de diferencias generado: C:\Proyectos\DataPulse\data\Comparativo_Resultados.xlsx
+2025-11-05 18:51:29,769 - INFO - 🚀 Iniciando ejecución completa de DataPulse (modo TEST SEGURO)
+2025-11-05 18:51:29,770 - INFO - 📘 Leyendo hojas desde el archivo Excel principal...
+2025-11-05 18:51:29,770 - INFO - 📂 Iniciando lectura exacta del archivo: 01. Registro_Movimientos_Caja_Bancos_2025.xlsx
+2025-11-05 18:51:31,082 - INFO - ✅ 'B_Bcp_Soles' cargada con 3478 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 18:51:31,422 - INFO - ✅ 'B_Bcp_Dolares' cargada con 340 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 18:51:31,709 - INFO - ✅ 'B_Interbank_Soles' cargada con 144 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 18:51:31,968 - INFO - ✅ 'B_Bbva_Soles' cargada con 40 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 18:51:32,396 - INFO - ✅ 'B_Banco_Nacion' cargada con 722 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 18:51:32,849 - INFO - ✅ 'C_Arequipa_Soles' cargada con 719 filas | 28 columnas (Encabezado en fila 1, rango A:AB).
+2025-11-05 18:51:33,312 - INFO - ✅ 'C_Finanzas_Soles' cargada con 776 filas | 28 columnas (Encabezado en fila 1, rango A:AB).
+2025-11-05 18:51:33,676 - INFO - ✅ 'Caja_Operativa' cargada con 422 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 18:51:33,973 - INFO - ❌ Error procesando hoja 'Ruben Bustamante': Defining usecols with out-of-bounds indices is not allowed. [27, 28] are out-of-bounds. (sheet: Ruben Bustamante)
+2025-11-05 18:51:34,290 - INFO - ✅ 'Walter A' cargada con 267 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 18:51:34,639 - INFO - ✅ 'Juber Monteza' cargada con 262 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 18:51:34,965 - INFO - ✅ 'Willian León' cargada con 225 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 18:51:35,332 - INFO - ✅ 'Juan Tarifa' cargada con 440 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 18:51:35,650 - INFO - ✅ 'Miguel Solis' cargada con 231 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 18:51:35,992 - INFO - ✅ 'Anthony Huamani' cargada con 245 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 18:51:36,269 - INFO - ✅ 'Nelson Quispe' cargada con 113 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 18:51:36,563 - INFO - ✅ 'Ronald Guizado' cargada con 67 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 18:51:36,563 - INFO - 📊 Total de hojas procesadas correctamente: 16
+2025-11-05 18:51:36,563 - INFO - 🧱 Verificando estructura inicial de la base de datos...
+2025-11-05 18:51:36,563 - INFO - 📦 Iniciando volcado de datos en la base de datos...
+2025-11-05 18:51:36,568 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:51:36,614 - INFO - ✅ Tabla 'b_bcp_soles' actualizada con 3478 registros.
+2025-11-05 18:51:36,615 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:51:36,638 - INFO - ✅ Tabla 'b_bcp_dolares' actualizada con 340 registros.
+2025-11-05 18:51:36,639 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:51:36,660 - INFO - ✅ Tabla 'b_interbank_soles' actualizada con 144 registros.
+2025-11-05 18:51:36,660 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:51:36,680 - INFO - ✅ Tabla 'b_bbva_soles' actualizada con 40 registros.
+2025-11-05 18:51:36,680 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:51:36,704 - INFO - ✅ Tabla 'b_banco_nacion' actualizada con 722 registros.
+2025-11-05 18:51:36,705 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:51:36,728 - INFO - ✅ Tabla 'c_arequipa_soles' actualizada con 719 registros.
+2025-11-05 18:51:36,729 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:51:36,752 - INFO - ✅ Tabla 'c_finanzas_soles' actualizada con 776 registros.
+2025-11-05 18:51:36,752 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:51:36,774 - INFO - ✅ Tabla 'caja_operativa' actualizada con 422 registros.
+2025-11-05 18:51:36,775 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:51:36,796 - INFO - ✅ Tabla 'walter_a' actualizada con 267 registros.
+2025-11-05 18:51:36,797 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:51:36,820 - INFO - ✅ Tabla 'juber_monteza' actualizada con 262 registros.
+2025-11-05 18:51:36,820 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:51:36,841 - INFO - ✅ Tabla 'willian_leon' actualizada con 225 registros.
+2025-11-05 18:51:36,842 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:51:36,864 - INFO - ✅ Tabla 'juan_tarifa' actualizada con 440 registros.
+2025-11-05 18:51:36,864 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:51:36,885 - INFO - ✅ Tabla 'miguel_solis' actualizada con 231 registros.
+2025-11-05 18:51:36,886 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:51:36,907 - INFO - ✅ Tabla 'anthony_huamani' actualizada con 245 registros.
+2025-11-05 18:51:36,907 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:51:36,929 - INFO - ✅ Tabla 'nelson_quispe' actualizada con 113 registros.
+2025-11-05 18:51:36,930 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 18:51:36,950 - INFO - ✅ Tabla 'ronald_guizado' actualizada con 67 registros.
+2025-11-05 18:51:36,950 - INFO - 🚀 Base de datos sincronizada correctamente.
+2025-11-05 18:51:36,950 - INFO - 🔍 Analizando diferencias entre Excel y base de datos...
+2025-11-05 18:51:36,968 - INFO - 📦 Tabla 'b_bcp_soles' cargada desde la base (3478 filas).
+2025-11-05 18:51:40,104 - INFO - 🔍 Hoja 'B_Bcp_Soles' → +0 nuevos, -0 eliminados, ✏️ 96450 modificados.
+2025-11-05 18:51:40,117 - INFO - 📦 Tabla 'b_bcp_dolares' cargada desde la base (340 filas).
+2025-11-05 18:51:40,240 - INFO - 🔍 Hoja 'B_Bcp_Dolares' → +0 nuevos, -0 eliminados, ✏️ 3178 modificados.
+2025-11-05 18:51:40,243 - INFO - 📦 Tabla 'b_interbank_soles' cargada desde la base (144 filas).
+2025-11-05 18:51:40,289 - INFO - 🔍 Hoja 'B_Interbank_Soles' → +0 nuevos, -0 eliminados, ✏️ 632 modificados.
+2025-11-05 18:51:40,292 - INFO - 📦 Tabla 'b_bbva_soles' cargada desde la base (40 filas).
+2025-11-05 18:51:40,320 - INFO - 🔍 Hoja 'B_Bbva_Soles' → +0 nuevos, -0 eliminados, ✏️ 286 modificados.
+2025-11-05 18:51:40,326 - INFO - 📦 Tabla 'b_banco_nacion' cargada desde la base (722 filas).
+2025-11-05 18:51:40,817 - INFO - 🔍 Hoja 'B_Banco_Nacion' → +0 nuevos, -0 eliminados, ✏️ 14832 modificados.
+2025-11-05 18:51:40,822 - INFO - 📦 Tabla 'c_arequipa_soles' cargada desde la base (719 filas).
+2025-11-05 18:51:41,064 - INFO - 🔍 Hoja 'C_Arequipa_Soles' → +0 nuevos, -0 eliminados, ✏️ 6541 modificados.
+2025-11-05 18:51:41,069 - INFO - 📦 Tabla 'c_finanzas_soles' cargada desde la base (776 filas).
+2025-11-05 18:51:41,299 - INFO - 🔍 Hoja 'C_Finanzas_Soles' → +0 nuevos, -0 eliminados, ✏️ 7374 modificados.
+2025-11-05 18:51:41,302 - INFO - 📦 Tabla 'caja_operativa' cargada desde la base (422 filas).
+2025-11-05 18:51:41,518 - INFO - 🔍 Hoja 'Caja_Operativa' → +0 nuevos, -0 eliminados, ✏️ 5814 modificados.
+2025-11-05 18:51:41,521 - INFO - 📦 Tabla 'walter_a' cargada desde la base (267 filas).
+2025-11-05 18:51:41,576 - INFO - 🔍 Hoja 'Walter A' → +0 nuevos, -0 eliminados, ✏️ 847 modificados.
+2025-11-05 18:51:41,580 - INFO - 📦 Tabla 'juber_monteza' cargada desde la base (262 filas).
+2025-11-05 18:51:41,653 - INFO - 🔍 Hoja 'Juber Monteza' → +0 nuevos, -0 eliminados, ✏️ 1472 modificados.
+2025-11-05 18:51:41,654 - INFO - ⚠️ No se pudo cargar 'willian_león': Execution failed on sql 'SELECT * FROM 'willian_león'': no such table: willian_león
+2025-11-05 18:51:41,655 - INFO - 🆕 Tabla 'willian_león' no existía. Todo se considera NUEVO: 225 filas.
+2025-11-05 18:51:41,658 - INFO - 📦 Tabla 'juan_tarifa' cargada desde la base (440 filas).
+2025-11-05 18:51:41,758 - INFO - 🔍 Hoja 'Juan Tarifa' → +0 nuevos, -0 eliminados, ✏️ 1960 modificados.
+2025-11-05 18:51:41,761 - INFO - 📦 Tabla 'miguel_solis' cargada desde la base (231 filas).
+2025-11-05 18:51:41,817 - INFO - 🔍 Hoja 'Miguel Solis' → +0 nuevos, -0 eliminados, ✏️ 995 modificados.
+2025-11-05 18:51:41,821 - INFO - 📦 Tabla 'anthony_huamani' cargada desde la base (245 filas).
+2025-11-05 18:51:41,872 - INFO - 🔍 Hoja 'Anthony Huamani' → +0 nuevos, -0 eliminados, ✏️ 829 modificados.
+2025-11-05 18:51:41,875 - INFO - 📦 Tabla 'nelson_quispe' cargada desde la base (113 filas).
+2025-11-05 18:51:41,903 - INFO - 🔍 Hoja 'Nelson Quispe' → +0 nuevos, -0 eliminados, ✏️ 241 modificados.
+2025-11-05 18:51:41,906 - INFO - 📦 Tabla 'ronald_guizado' cargada desde la base (67 filas).
+2025-11-05 18:51:41,928 - INFO - 🔍 Hoja 'Ronald Guizado' → +0 nuevos, -0 eliminados, ✏️ 101 modificados.
+2025-11-05 18:51:41,929 - INFO - 💾 Creando respaldo antes de aplicar cambios...
+2025-11-05 18:51:41,940 - INFO - 🧾 Respaldo creado: DataPulse_20251105_185141.sqlite
+2025-11-05 18:51:41,942 - INFO - 🗑️ Backup antiguo eliminado: DataPulse_20251105_124217.sqlite
+2025-11-05 18:51:41,942 - INFO - 📦 Respaldo generado correctamente: DataPulse_20251105_185141.sqlite
+2025-11-05 18:51:41,942 - INFO - 🧩 Iniciando sincronización hoja por hoja (1:1 estructura Excel)...
+2025-11-05 18:51:41,942 - INFO - 📂 Iniciando sincronización completa Excel → SQLite...
+2025-11-05 18:51:41,942 - INFO - 📂 Iniciando lectura exacta del archivo: 01. Registro_Movimientos_Caja_Bancos_2025.xlsx
+2025-11-05 18:51:43,203 - INFO - ✅ 'B_Bcp_Soles' cargada con 3478 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 18:51:43,548 - INFO - ✅ 'B_Bcp_Dolares' cargada con 340 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 18:51:43,826 - INFO - ✅ 'B_Interbank_Soles' cargada con 144 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 18:51:44,098 - INFO - ✅ 'B_Bbva_Soles' cargada con 40 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 18:51:44,532 - INFO - ✅ 'B_Banco_Nacion' cargada con 722 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 18:51:44,967 - INFO - ✅ 'C_Arequipa_Soles' cargada con 719 filas | 28 columnas (Encabezado en fila 1, rango A:AB).
+2025-11-05 18:51:45,473 - INFO - ✅ 'C_Finanzas_Soles' cargada con 776 filas | 28 columnas (Encabezado en fila 1, rango A:AB).
+2025-11-05 18:51:45,869 - INFO - ✅ 'Caja_Operativa' cargada con 422 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 18:51:46,143 - INFO - ❌ Error procesando hoja 'Ruben Bustamante': Defining usecols with out-of-bounds indices is not allowed. [27, 28] are out-of-bounds. (sheet: Ruben Bustamante)
+2025-11-05 18:51:46,470 - INFO - ✅ 'Walter A' cargada con 267 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 18:51:46,825 - INFO - ✅ 'Juber Monteza' cargada con 262 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 18:51:47,150 - INFO - ✅ 'Willian León' cargada con 225 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 18:51:47,514 - INFO - ✅ 'Juan Tarifa' cargada con 440 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 18:51:47,856 - INFO - ✅ 'Miguel Solis' cargada con 231 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 18:51:48,196 - INFO - ✅ 'Anthony Huamani' cargada con 245 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 18:51:48,481 - INFO - ✅ 'Nelson Quispe' cargada con 113 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 18:51:48,754 - INFO - ✅ 'Ronald Guizado' cargada con 67 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 18:51:48,754 - INFO - 📊 Total de hojas procesadas correctamente: 16
+2025-11-05 18:51:48,755 - INFO - 🧩 Procesando hoja 'B_Bcp_Soles' → tabla 'b_bcp_soles'...
+2025-11-05 18:51:48,794 - INFO - ✅ 'B_Bcp_Soles' guardada correctamente (3478 filas, 27 columnas).
+2025-11-05 18:51:48,794 - INFO - 🧩 Procesando hoja 'B_Bcp_Dolares' → tabla 'b_bcp_dolares'...
+2025-11-05 18:51:48,816 - INFO - ✅ 'B_Bcp_Dolares' guardada correctamente (340 filas, 27 columnas).
+2025-11-05 18:51:48,817 - INFO - 🧩 Procesando hoja 'B_Interbank_Soles' → tabla 'b_interbank_soles'...
+2025-11-05 18:51:48,838 - INFO - ✅ 'B_Interbank_Soles' guardada correctamente (144 filas, 27 columnas).
+2025-11-05 18:51:48,839 - INFO - 🧩 Procesando hoja 'B_Bbva_Soles' → tabla 'b_bbva_soles'...
+2025-11-05 18:51:48,858 - INFO - ✅ 'B_Bbva_Soles' guardada correctamente (40 filas, 27 columnas).
+2025-11-05 18:51:48,858 - INFO - 🧩 Procesando hoja 'B_Banco_Nacion' → tabla 'b_banco_nacion'...
+2025-11-05 18:51:48,881 - INFO - ✅ 'B_Banco_Nacion' guardada correctamente (722 filas, 27 columnas).
+2025-11-05 18:51:48,881 - INFO - 🧩 Procesando hoja 'C_Arequipa_Soles' → tabla 'c_arequipa_soles'...
+2025-11-05 18:51:48,905 - INFO - ✅ 'C_Arequipa_Soles' guardada correctamente (719 filas, 28 columnas).
+2025-11-05 18:51:48,905 - INFO - 🧩 Procesando hoja 'C_Finanzas_Soles' → tabla 'c_finanzas_soles'...
+2025-11-05 18:51:48,931 - INFO - ✅ 'C_Finanzas_Soles' guardada correctamente (776 filas, 28 columnas).
+2025-11-05 18:51:48,931 - INFO - 🧩 Procesando hoja 'Caja_Operativa' → tabla 'caja_operativa'...
+2025-11-05 18:51:48,954 - INFO - ✅ 'Caja_Operativa' guardada correctamente (422 filas, 27 columnas).
+2025-11-05 18:51:48,954 - INFO - 🧩 Procesando hoja 'Walter A' → tabla 'walter_a'...
+2025-11-05 18:51:48,976 - INFO - ✅ 'Walter A' guardada correctamente (267 filas, 27 columnas).
+2025-11-05 18:51:48,976 - INFO - 🧩 Procesando hoja 'Juber Monteza' → tabla 'juber_monteza'...
+2025-11-05 18:51:48,999 - INFO - ✅ 'Juber Monteza' guardada correctamente (262 filas, 27 columnas).
+2025-11-05 18:51:49,000 - INFO - 🧩 Procesando hoja 'Willian León' → tabla 'willian_leon'...
+2025-11-05 18:51:49,021 - INFO - ✅ 'Willian León' guardada correctamente (225 filas, 27 columnas).
+2025-11-05 18:51:49,022 - INFO - 🧩 Procesando hoja 'Juan Tarifa' → tabla 'juan_tarifa'...
+2025-11-05 18:51:49,049 - INFO - ✅ 'Juan Tarifa' guardada correctamente (440 filas, 27 columnas).
+2025-11-05 18:51:49,050 - INFO - 🧩 Procesando hoja 'Miguel Solis' → tabla 'miguel_solis'...
+2025-11-05 18:51:49,070 - INFO - ✅ 'Miguel Solis' guardada correctamente (231 filas, 27 columnas).
+2025-11-05 18:51:49,070 - INFO - 🧩 Procesando hoja 'Anthony Huamani' → tabla 'anthony_huamani'...
+2025-11-05 18:51:49,091 - INFO - ✅ 'Anthony Huamani' guardada correctamente (245 filas, 27 columnas).
+2025-11-05 18:51:49,091 - INFO - 🧩 Procesando hoja 'Nelson Quispe' → tabla 'nelson_quispe'...
+2025-11-05 18:51:49,113 - INFO - ✅ 'Nelson Quispe' guardada correctamente (113 filas, 27 columnas).
+2025-11-05 18:51:49,113 - INFO - 🧩 Procesando hoja 'Ronald Guizado' → tabla 'ronald_guizado'...
+2025-11-05 18:51:49,134 - INFO - ✅ 'Ronald Guizado' guardada correctamente (67 filas, 27 columnas).
+2025-11-05 18:51:49,134 - INFO - 🚀 Sincronización finalizada con éxito. Base actualizada 1:1 con el Excel.
+2025-11-05 18:51:49,138 - INFO - ✅ Sincronización completada correctamente. DataPulse está actualizado.
+2025-11-05 18:51:49,138 - INFO - 🏁 Proceso DataPulse finalizado (modo TEST SEGURO).
+
+2025-11-05 19:03:31,724 - INFO - 🚀 Iniciando ejecución completa de DataPulse (modo TEST SEGURO)
+2025-11-05 19:03:31,724 - INFO - 📘 Leyendo hojas desde el archivo Excel principal...
+2025-11-05 19:03:31,724 - INFO - 📂 Iniciando lectura exacta del archivo: 01. Registro_Movimientos_Caja_Bancos_2025.xlsx
+2025-11-05 19:03:31,725 - INFO - ⚠️ Error al abrir el libro Excel: [Errno 13] Permission denied: 'C:\\Users\\chall\\iBit\\DEMO - GeneraI\\DEMOS\\DataPulse\\01. Registro_Movimientos_Caja_Bancos_2025.xlsx'
+2025-11-05 19:03:31,725 - INFO - ⚠️ No se encontraron datos válidos en el Excel. Proceso detenido.
+2025-11-05 19:03:31,725 - INFO - 🏁 Proceso DataPulse finalizado (modo TEST SEGURO).
+
+2025-11-05 19:03:55,550 - INFO - 🚀 Iniciando ejecución completa de DataPulse (modo TEST SEGURO)
+2025-11-05 19:03:55,551 - INFO - 📘 Leyendo hojas desde el archivo Excel principal...
+2025-11-05 19:03:55,551 - INFO - 📂 Iniciando lectura exacta del archivo: 01. Registro_Movimientos_Caja_Bancos_2025.xlsx
+2025-11-05 19:03:56,264 - INFO - ✅ 'B_Bcp_Soles' cargada con 3478 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:03:56,569 - INFO - ✅ 'B_Bcp_Dolares' cargada con 340 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:03:56,865 - INFO - ✅ 'B_Interbank_Soles' cargada con 144 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:03:57,123 - INFO - ✅ 'B_Bbva_Soles' cargada con 40 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:03:57,481 - INFO - ✅ 'B_Banco_Nacion' cargada con 722 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:03:57,845 - INFO - ✅ 'C_Arequipa_Soles' cargada con 719 filas | 28 columnas (Encabezado en fila 1, rango A:AB).
+2025-11-05 19:03:58,200 - INFO - ✅ 'C_Finanzas_Soles' cargada con 776 filas | 28 columnas (Encabezado en fila 1, rango A:AB).
+2025-11-05 19:03:58,503 - INFO - ✅ 'Caja_Operativa' cargada con 422 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:03:58,816 - INFO - ✅ 'Ruben Bustamante' cargada con 405 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:03:59,107 - INFO - ✅ 'Walter A' cargada con 267 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:03:59,413 - INFO - ✅ 'Juber Monteza' cargada con 262 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:03:59,696 - INFO - ✅ 'Willian León' cargada con 225 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:04:00,001 - INFO - ✅ 'Juan Tarifa' cargada con 440 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:04:00,285 - INFO - ✅ 'Miguel Solis' cargada con 231 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:04:00,587 - INFO - ✅ 'Anthony Huamani' cargada con 245 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:04:00,868 - INFO - ✅ 'Nelson Quispe' cargada con 113 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:04:01,138 - INFO - ✅ 'Ronald Guizado' cargada con 67 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:04:01,139 - INFO - 📊 Total de hojas procesadas correctamente: 17
+2025-11-05 19:04:01,139 - INFO - 🧱 Verificando estructura inicial de la base de datos...
+2025-11-05 19:04:01,139 - INFO - 📦 Iniciando volcado de datos en la base de datos...
+2025-11-05 19:04:01,140 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 19:04:01,181 - INFO - ✅ Tabla 'b_bcp_soles' actualizada con 3478 registros.
+2025-11-05 19:04:01,182 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 19:04:01,204 - INFO - ✅ Tabla 'b_bcp_dolares' actualizada con 340 registros.
+2025-11-05 19:04:01,205 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 19:04:01,225 - INFO - ✅ Tabla 'b_interbank_soles' actualizada con 144 registros.
+2025-11-05 19:04:01,226 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 19:04:01,246 - INFO - ✅ Tabla 'b_bbva_soles' actualizada con 40 registros.
+2025-11-05 19:04:01,247 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 19:04:01,270 - INFO - ✅ Tabla 'b_banco_nacion' actualizada con 722 registros.
+2025-11-05 19:04:01,270 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 19:04:01,293 - INFO - ✅ Tabla 'c_arequipa_soles' actualizada con 719 registros.
+2025-11-05 19:04:01,294 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 19:04:01,318 - INFO - ✅ Tabla 'c_finanzas_soles' actualizada con 776 registros.
+2025-11-05 19:04:01,319 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 19:04:01,341 - INFO - ✅ Tabla 'caja_operativa' actualizada con 422 registros.
+2025-11-05 19:04:01,341 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 19:04:01,364 - INFO - ✅ Tabla 'ruben_bustamante' actualizada con 405 registros.
+2025-11-05 19:04:01,365 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 19:04:01,386 - INFO - ✅ Tabla 'walter_a' actualizada con 267 registros.
+2025-11-05 19:04:01,387 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 19:04:01,409 - INFO - ✅ Tabla 'juber_monteza' actualizada con 262 registros.
+2025-11-05 19:04:01,410 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 19:04:01,430 - INFO - ✅ Tabla 'willian_leon' actualizada con 225 registros.
+2025-11-05 19:04:01,430 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 19:04:01,452 - INFO - ✅ Tabla 'juan_tarifa' actualizada con 440 registros.
+2025-11-05 19:04:01,453 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 19:04:01,474 - INFO - ✅ Tabla 'miguel_solis' actualizada con 231 registros.
+2025-11-05 19:04:01,474 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 19:04:01,496 - INFO - ✅ Tabla 'anthony_huamani' actualizada con 245 registros.
+2025-11-05 19:04:01,496 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 19:04:01,516 - INFO - ✅ Tabla 'nelson_quispe' actualizada con 113 registros.
+2025-11-05 19:04:01,517 - INFO - 🧩 Conexión establecida con la base de datos: db\datapulse.sqlite
+2025-11-05 19:04:01,536 - INFO - ✅ Tabla 'ronald_guizado' actualizada con 67 registros.
+2025-11-05 19:04:01,537 - INFO - 🚀 Base de datos sincronizada correctamente.
+2025-11-05 19:04:01,537 - INFO - 🔍 Analizando diferencias entre Excel y base de datos...
+2025-11-05 19:04:01,553 - INFO - 📦 Tabla 'b_bcp_soles' cargada desde la base (3478 filas).
+2025-11-05 19:04:04,565 - INFO - 🔍 Hoja 'B_Bcp_Soles' → +0 nuevos, -0 eliminados, ✏️ 96450 modificados.
+2025-11-05 19:04:04,570 - INFO - 📦 Tabla 'b_bcp_dolares' cargada desde la base (340 filas).
+2025-11-05 19:04:04,690 - INFO - 🔍 Hoja 'B_Bcp_Dolares' → +0 nuevos, -0 eliminados, ✏️ 3178 modificados.
+2025-11-05 19:04:04,692 - INFO - 📦 Tabla 'b_interbank_soles' cargada desde la base (144 filas).
+2025-11-05 19:04:04,735 - INFO - 🔍 Hoja 'B_Interbank_Soles' → +0 nuevos, -0 eliminados, ✏️ 632 modificados.
+2025-11-05 19:04:04,738 - INFO - 📦 Tabla 'b_bbva_soles' cargada desde la base (40 filas).
+2025-11-05 19:04:04,766 - INFO - 🔍 Hoja 'B_Bbva_Soles' → +0 nuevos, -0 eliminados, ✏️ 286 modificados.
+2025-11-05 19:04:04,773 - INFO - 📦 Tabla 'b_banco_nacion' cargada desde la base (722 filas).
+2025-11-05 19:04:05,228 - INFO - 🔍 Hoja 'B_Banco_Nacion' → +0 nuevos, -0 eliminados, ✏️ 14832 modificados.
+2025-11-05 19:04:05,233 - INFO - 📦 Tabla 'c_arequipa_soles' cargada desde la base (719 filas).
+2025-11-05 19:04:05,462 - INFO - 🔍 Hoja 'C_Arequipa_Soles' → +0 nuevos, -0 eliminados, ✏️ 6541 modificados.
+2025-11-05 19:04:05,467 - INFO - 📦 Tabla 'c_finanzas_soles' cargada desde la base (776 filas).
+2025-11-05 19:04:05,705 - INFO - 🔍 Hoja 'C_Finanzas_Soles' → +0 nuevos, -0 eliminados, ✏️ 7374 modificados.
+2025-11-05 19:04:05,709 - INFO - 📦 Tabla 'caja_operativa' cargada desde la base (422 filas).
+2025-11-05 19:04:05,899 - INFO - 🔍 Hoja 'Caja_Operativa' → +0 nuevos, -0 eliminados, ✏️ 5814 modificados.
+2025-11-05 19:04:05,903 - INFO - 📦 Tabla 'ruben_bustamante' cargada desde la base (405 filas).
+2025-11-05 19:04:05,978 - INFO - 🔍 Hoja 'Ruben Bustamante' → +0 nuevos, -0 eliminados, ✏️ 1393 modificados.
+2025-11-05 19:04:05,982 - INFO - 📦 Tabla 'walter_a' cargada desde la base (267 filas).
+2025-11-05 19:04:06,044 - INFO - 🔍 Hoja 'Walter A' → +0 nuevos, -0 eliminados, ✏️ 847 modificados.
+2025-11-05 19:04:06,048 - INFO - 📦 Tabla 'juber_monteza' cargada desde la base (262 filas).
+2025-11-05 19:04:06,117 - INFO - 🔍 Hoja 'Juber Monteza' → +0 nuevos, -0 eliminados, ✏️ 1472 modificados.
+2025-11-05 19:04:06,118 - INFO - ⚠️ No se pudo cargar 'willian_león': Execution failed on sql 'SELECT * FROM 'willian_león'': no such table: willian_león
+2025-11-05 19:04:06,119 - INFO - 🆕 Tabla 'willian_león' no existía. Todo se considera NUEVO: 225 filas.
+2025-11-05 19:04:06,123 - INFO - 📦 Tabla 'juan_tarifa' cargada desde la base (440 filas).
+2025-11-05 19:04:06,210 - INFO - 🔍 Hoja 'Juan Tarifa' → +0 nuevos, -0 eliminados, ✏️ 1960 modificados.
+2025-11-05 19:04:06,213 - INFO - 📦 Tabla 'miguel_solis' cargada desde la base (231 filas).
+2025-11-05 19:04:06,270 - INFO - 🔍 Hoja 'Miguel Solis' → +0 nuevos, -0 eliminados, ✏️ 995 modificados.
+2025-11-05 19:04:06,274 - INFO - 📦 Tabla 'anthony_huamani' cargada desde la base (245 filas).
+2025-11-05 19:04:06,320 - INFO - 🔍 Hoja 'Anthony Huamani' → +0 nuevos, -0 eliminados, ✏️ 829 modificados.
+2025-11-05 19:04:06,323 - INFO - 📦 Tabla 'nelson_quispe' cargada desde la base (113 filas).
+2025-11-05 19:04:06,353 - INFO - 🔍 Hoja 'Nelson Quispe' → +0 nuevos, -0 eliminados, ✏️ 241 modificados.
+2025-11-05 19:04:06,356 - INFO - 📦 Tabla 'ronald_guizado' cargada desde la base (67 filas).
+2025-11-05 19:04:06,380 - INFO - 🔍 Hoja 'Ronald Guizado' → +0 nuevos, -0 eliminados, ✏️ 101 modificados.
+2025-11-05 19:04:06,380 - INFO - 💾 Creando respaldo antes de aplicar cambios...
+2025-11-05 19:04:06,412 - INFO - 🧾 Respaldo creado: DataPulse_20251105_190406.sqlite
+2025-11-05 19:04:06,413 - INFO - 🗑️ Backup antiguo eliminado: DataPulse_20251105_125506.sqlite
+2025-11-05 19:04:06,413 - INFO - 📦 Respaldo generado correctamente: DataPulse_20251105_190406.sqlite
+2025-11-05 19:04:06,413 - INFO - 🧩 Iniciando sincronización hoja por hoja (1:1 estructura Excel)...
+2025-11-05 19:04:06,413 - INFO - 📂 Iniciando sincronización completa Excel → SQLite...
+2025-11-05 19:04:06,414 - INFO - 📂 Iniciando lectura exacta del archivo: 01. Registro_Movimientos_Caja_Bancos_2025.xlsx
+2025-11-05 19:04:07,192 - INFO - ✅ 'B_Bcp_Soles' cargada con 3478 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:04:07,491 - INFO - ✅ 'B_Bcp_Dolares' cargada con 340 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:04:07,773 - INFO - ✅ 'B_Interbank_Soles' cargada con 144 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:04:08,043 - INFO - ✅ 'B_Bbva_Soles' cargada con 40 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:04:08,390 - INFO - ✅ 'B_Banco_Nacion' cargada con 722 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:04:08,759 - INFO - ✅ 'C_Arequipa_Soles' cargada con 719 filas | 28 columnas (Encabezado en fila 1, rango A:AB).
+2025-11-05 19:04:09,141 - INFO - ✅ 'C_Finanzas_Soles' cargada con 776 filas | 28 columnas (Encabezado en fila 1, rango A:AB).
+2025-11-05 19:04:09,468 - INFO - ✅ 'Caja_Operativa' cargada con 422 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:04:09,811 - INFO - ✅ 'Ruben Bustamante' cargada con 405 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:04:10,143 - INFO - ✅ 'Walter A' cargada con 267 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:04:10,450 - INFO - ✅ 'Juber Monteza' cargada con 262 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:04:10,750 - INFO - ✅ 'Willian León' cargada con 225 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:04:11,086 - INFO - ✅ 'Juan Tarifa' cargada con 440 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:04:11,404 - INFO - ✅ 'Miguel Solis' cargada con 231 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:04:11,706 - INFO - ✅ 'Anthony Huamani' cargada con 245 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:04:12,008 - INFO - ✅ 'Nelson Quispe' cargada con 113 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:04:12,300 - INFO - ✅ 'Ronald Guizado' cargada con 67 filas | 27 columnas (Encabezado en fila 1, rango A:AA).
+2025-11-05 19:04:12,301 - INFO - 📊 Total de hojas procesadas correctamente: 17
+2025-11-05 19:04:12,301 - INFO - 🧩 Procesando hoja 'B_Bcp_Soles' → tabla 'b_bcp_soles'...
+2025-11-05 19:04:12,340 - INFO - ✅ 'B_Bcp_Soles' guardada correctamente (3478 filas, 27 columnas).
+2025-11-05 19:04:12,340 - INFO - 🧩 Procesando hoja 'B_Bcp_Dolares' → tabla 'b_bcp_dolares'...
+2025-11-05 19:04:12,361 - INFO - ✅ 'B_Bcp_Dolares' guardada correctamente (340 filas, 27 columnas).
+2025-11-05 19:04:12,361 - INFO - 🧩 Procesando hoja 'B_Interbank_Soles' → tabla 'b_interbank_soles'...
+2025-11-05 19:04:12,382 - INFO - ✅ 'B_Interbank_Soles' guardada correctamente (144 filas, 27 columnas).
+2025-11-05 19:04:12,383 - INFO - 🧩 Procesando hoja 'B_Bbva_Soles' → tabla 'b_bbva_soles'...
+2025-11-05 19:04:12,403 - INFO - ✅ 'B_Bbva_Soles' guardada correctamente (40 filas, 27 columnas).
+2025-11-05 19:04:12,403 - INFO - 🧩 Procesando hoja 'B_Banco_Nacion' → tabla 'b_banco_nacion'...
+2025-11-05 19:04:12,428 - INFO - ✅ 'B_Banco_Nacion' guardada correctamente (722 filas, 27 columnas).
+2025-11-05 19:04:12,428 - INFO - 🧩 Procesando hoja 'C_Arequipa_Soles' → tabla 'c_arequipa_soles'...
+2025-11-05 19:04:12,451 - INFO - ✅ 'C_Arequipa_Soles' guardada correctamente (719 filas, 28 columnas).
+2025-11-05 19:04:12,451 - INFO - 🧩 Procesando hoja 'C_Finanzas_Soles' → tabla 'c_finanzas_soles'...
+2025-11-05 19:04:12,475 - INFO - ✅ 'C_Finanzas_Soles' guardada correctamente (776 filas, 28 columnas).
+2025-11-05 19:04:12,476 - INFO - 🧩 Procesando hoja 'Caja_Operativa' → tabla 'caja_operativa'...
+2025-11-05 19:04:12,498 - INFO - ✅ 'Caja_Operativa' guardada correctamente (422 filas, 27 columnas).
+2025-11-05 19:04:12,499 - INFO - 🧩 Procesando hoja 'Ruben Bustamante' → tabla 'ruben_bustamante'...
+2025-11-05 19:04:12,522 - INFO - ✅ 'Ruben Bustamante' guardada correctamente (405 filas, 27 columnas).
+2025-11-05 19:04:12,522 - INFO - 🧩 Procesando hoja 'Walter A' → tabla 'walter_a'...
+2025-11-05 19:04:12,545 - INFO - ✅ 'Walter A' guardada correctamente (267 filas, 27 columnas).
+2025-11-05 19:04:12,545 - INFO - 🧩 Procesando hoja 'Juber Monteza' → tabla 'juber_monteza'...
+2025-11-05 19:04:12,566 - INFO - ✅ 'Juber Monteza' guardada correctamente (262 filas, 27 columnas).
+2025-11-05 19:04:12,566 - INFO - 🧩 Procesando hoja 'Willian León' → tabla 'willian_leon'...
+2025-11-05 19:04:12,588 - INFO - ✅ 'Willian León' guardada correctamente (225 filas, 27 columnas).
+2025-11-05 19:04:12,588 - INFO - 🧩 Procesando hoja 'Juan Tarifa' → tabla 'juan_tarifa'...
+2025-11-05 19:04:12,614 - INFO - ✅ 'Juan Tarifa' guardada correctamente (440 filas, 27 columnas).
+2025-11-05 19:04:12,614 - INFO - 🧩 Procesando hoja 'Miguel Solis' → tabla 'miguel_solis'...
+2025-11-05 19:04:12,636 - INFO - ✅ 'Miguel Solis' guardada correctamente (231 filas, 27 columnas).
+2025-11-05 19:04:12,636 - INFO - 🧩 Procesando hoja 'Anthony Huamani' → tabla 'anthony_huamani'...
+2025-11-05 19:04:12,658 - INFO - ✅ 'Anthony Huamani' guardada correctamente (245 filas, 27 columnas).
+2025-11-05 19:04:12,658 - INFO - 🧩 Procesando hoja 'Nelson Quispe' → tabla 'nelson_quispe'...
+2025-11-05 19:04:12,679 - INFO - ✅ 'Nelson Quispe' guardada correctamente (113 filas, 27 columnas).
+2025-11-05 19:04:12,679 - INFO - 🧩 Procesando hoja 'Ronald Guizado' → tabla 'ronald_guizado'...
+2025-11-05 19:04:12,698 - INFO - ✅ 'Ronald Guizado' guardada correctamente (67 filas, 27 columnas).
+2025-11-05 19:04:12,699 - INFO - 🚀 Sincronización finalizada con éxito. Base actualizada 1:1 con el Excel.
+2025-11-05 19:04:12,703 - INFO - ✅ Sincronización completada correctamente. DataPulse está actualizado.
+2025-11-05 19:04:12,703 - INFO - 🏁 Proceso DataPulse finalizado (modo TEST SEGURO).
+

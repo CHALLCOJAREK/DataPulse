@@ -33,7 +33,7 @@ def run(cmd):
 # CONFIG: Solo defines Backup
 # ============================
 
-RUTA_BACKUP = r"C:\BACKUPS_JAREK\Backup-DataPulse"
+RUTA_BACKUP = r"C:\Users\chall\iBit\Gytres - ETL Cashflow - General\Backup"
 
 # ============================
 # AUTO-DETECT DEL PROYECTO
@@ -79,7 +79,6 @@ if __name__ == "__main__":
         if r_commit.returncode != 0:
             error("Falló el commit.")
             print(r_commit.stderr)
-            input("\nENTER para salir…")
             sys.exit(1)
 
         ok("Commit generado ✔")
@@ -91,7 +90,6 @@ if __name__ == "__main__":
         if r_push.returncode != 0:
             error("Error subiendo al remoto")
             print(r_push.stderr)
-            input("\nENTER para salir…")
             sys.exit(1)
 
         ok("Push completado ✔")
@@ -116,5 +114,3 @@ if __name__ == "__main__":
         print(e)
 
     banner("🔥 PROCESO COMPLETADO — Git + Backup OK 🔥")
-
-    input("ENTER para cerrar… ")

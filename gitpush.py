@@ -33,13 +33,12 @@ def run(cmd):
 # CONFIG: Solo defines Backup
 # ============================
 
-RUTA_BACKUP = r"C:\BACKUPS_JAREK\Backup-DataPulse"
+RUTA_BACKUP = r"C:\Users\chall\iBit\Gytres - ETL Cashflow - General\Backup"
 
 # ============================
 # AUTO-DETECT DEL PROYECTO
 # ============================
 
-# Ruta del script actual
 RUTA_PROYECTO = os.path.dirname(os.path.abspath(__file__))
 
 
@@ -50,58 +49,48 @@ RUTA_PROYECTO = os.path.dirname(os.path.abspath(__file__))
 if __name__ == "__main__":
     banner("🔥  GIT PUSH PRO – Fénix Engine v3.0 (Auto-Detect) 🔥")
 
-    # Muestro dónde está el proyecto
     step(f"Proyecto detectado en:\n    {RUTA_PROYECTO}")
-
     os.chdir(RUTA_PROYECTO)
 
-    # Fecha para organizar backups
     fecha = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
     carpeta_backup = os.path.join(RUTA_BACKUP, f"Backup_{fecha}")
 
-    # 1) Mensaje dinámico
     mensaje = f"Auto-commit {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
 
-    # 2) ADD
+    # ADD
     step("Añadiendo cambios al stage…")
     run("git add .")
 
-    # 3) Verificar si hay cambios
+    # STATUS
     status = run("git status --porcelain")
 
     if status.stdout.strip() == "":
         warn("Repo limpio. No hay nada nuevo para subir.")
     else:
-        # 4) COMMIT
+        # COMMIT
         step("Creando commit elegante…")
         r_commit = run(f'git commit -m "{mensaje}"')
 
         if r_commit.returncode != 0:
             error("Falló el commit.")
             print(r_commit.stderr)
-            input("\nENTER para salir…")
             sys.exit(1)
 
         ok("Commit generado ✔")
 
-        # 5) PUSH
+        # PUSH
         step("Haciendo push al remoto…")
         r_push = run("git push")
 
         if r_push.returncode != 0:
             error("Error subiendo al remoto")
             print(r_push.stderr)
-            input("\nENTER para salir…")
             sys.exit(1)
 
         ok("Push completado ✔")
 
-    # ============================
-    # BACKUP PRO AUTOMÁTICO
-    # ============================
-
+    # BACKUP
     step("Creando backup full del proyecto…")
-
     os.makedirs(carpeta_backup, exist_ok=True)
 
     try:
@@ -116,5 +105,3 @@ if __name__ == "__main__":
         print(e)
 
     banner("🔥 PROCESO COMPLETADO — Git + Backup OK 🔥")
-
-    input("ENTER para cerrar… ")
